@@ -1,0 +1,2001 @@
+Crop,Temperature_C,Humidity_percent,Rainfall_mm,Soil_Type,Soil_pH,Nitrogen_mgkg,Phosphorus_mgkg,Potassium_mgkg,Water_Availability,Growth_Stage,Pest_Risk,Likely_Pest
+Groundnut,26.85,61.08,165.26,Black Soil,7.39,64.34,73.18,76.44,Low,Vegetative,Medium,Thrips
+Sugarcane,35.27,79.35,39.54,Sandy,6.37,93.13,54.18,62.97,Low,Vegetative,Medium,Top Borer
+Maize,21.31,47.08,134.23,Clay,5.57,76.86,30.58,80.24,Medium,Vegetative,Medium,Aphids
+Sugarcane,31.46,83.81,10.84,Loamy,6.64,87.09,56.85,44.74,Low,Vegetative,Low,Top Borer
+Sugarcane,24.97,50.08,135.07,Red Soil,6.43,38.88,29.44,59.4,Medium,Maturity,Low,Whitefly
+Tomato,36.6,72.29,300.0,Red Soil,5.27,90.25,5.0,9.18,Medium,Maturity,High,Fruit Borer
+Maize,37.96,55.32,111.24,Loamy,6.57,36.44,20.33,94.75,High,Vegetative,Medium,Aphids
+Maize,24.17,76.3,194.2,Loamy,7.29,103.85,54.17,47.71,High,Fruiting,High,Fall Armyworm
+Maize,25.25,67.49,157.74,Clay,6.31,103.9,60.45,94.89,Medium,Fruiting,High,Fall Armyworm
+Sugarcane,32.3,44.08,131.76,Sandy,4.85,85.44,79.35,43.6,Low,Flowering,Medium,Whitefly
+Groundnut,26.06,74.31,161.44,Red Soil,6.77,84.3,51.82,67.56,Low,Flowering,High,Leaf Miner
+Maize,27.77,59.33,179.63,Clay,6.98,68.29,71.94,61.37,High,Vegetative,High,Fall Armyworm
+Sugarcane,28.13,81.22,184.3,Sandy,6.03,56.9,57.6,44.95,Medium,Maturity,Medium,Top Borer
+Tomato,18.4,68.02,29.4,Clay,6.04,74.55,63.75,71.99,Low,Germination,Low,Leaf Miner
+Groundnut,27.93,73.93,168.0,Red Soil,8.31,134.48,67.03,91.92,High,Maturity,High,Leaf Miner
+Tomato,24.55,53.64,69.11,Loamy,5.97,81.88,54.74,104.74,Medium,Vegetative,Medium,Leaf Miner
+Groundnut,25.53,59.16,188.62,Loamy,5.6,34.63,66.5,78.57,High,Fruiting,High,Leaf Miner
+Sugarcane,35.22,61.12,117.98,Sandy,6.52,23.75,31.03,29.75,Medium,Vegetative,Medium,Whitefly
+Paddy,21.72,80.85,29.01,Black Soil,6.96,31.86,5.0,24.86,Medium,Vegetative,Low,Stem Borer
+Groundnut,32.07,93.16,205.56,Sandy,6.93,63.67,58.01,88.47,Medium,Flowering,High,Leaf Miner
+Tomato,26.61,55.92,45.34,Black Soil,4.53,112.97,52.5,35.07,High,Germination,Low,Leaf Miner
+Sugarcane,26.6,84.15,66.56,Clay,5.97,44.3,27.49,75.4,High,Fruiting,High,Early Shoot Borer
+Groundnut,31.95,35.45,236.92,Clay,7.42,117.65,19.75,63.35,Medium,Flowering,Medium,Thrips
+Paddy,29.7,50.09,93.19,Red Soil,6.76,80.38,47.61,92.97,Low,Fruiting,Low,Leaf Folder
+Paddy,30.85,53.62,64.36,Black Soil,5.51,89.5,59.34,72.75,Medium,Fruiting,Low,Leaf Folder
+Maize,32.84,47.71,79.48,Red Soil,7.49,88.68,55.4,59.24,High,Fruiting,Medium,Aphids
+Maize,26.34,44.25,63.31,Loamy,7.27,92.72,24.61,111.53,Medium,Flowering,Low,Aphids
+Tomato,24.94,74.19,144.03,Black Soil,6.26,62.66,29.09,80.58,High,Germination,High,Fruit Borer
+Groundnut,22.57,64.79,64.82,Sandy,7.2,10.0,58.39,73.87,Medium,Germination,Medium,Thrips
+Groundnut,23.87,73.69,81.48,Loamy,8.1,57.35,46.45,42.93,Medium,Germination,Medium,Aphids
+Maize,42.0,78.36,124.86,Loamy,5.66,48.36,66.2,31.33,Medium,Flowering,High,Fall Armyworm
+Groundnut,34.22,71.98,115.58,Sandy,6.94,84.32,38.53,53.51,Medium,Flowering,Medium,Aphids
+Groundnut,21.24,77.87,48.5,Loamy,8.09,81.58,59.79,22.53,High,Germination,High,Leaf Miner
+Paddy,21.39,66.96,145.2,Black Soil,7.02,66.83,44.21,51.95,Medium,Flowering,Medium,Leaf Folder
+Maize,30.41,50.2,56.07,Red Soil,5.9,127.67,30.54,80.02,Medium,Flowering,Low,Aphids
+Sugarcane,30.74,83.87,35.49,Loamy,6.69,55.78,63.56,84.54,Medium,Germination,Medium,Top Borer
+Maize,30.74,59.16,15.79,Black Soil,7.6,10.0,25.15,51.45,Low,Germination,Medium,Aphids
+Sugarcane,26.73,53.97,73.55,Clay,5.69,78.58,46.48,130.0,High,Fruiting,Medium,Whitefly
+Paddy,27.37,65.33,19.51,Black Soil,6.48,110.68,48.55,91.83,Medium,Germination,Low,Leaf Folder
+Tomato,29.64,54.31,43.08,Red Soil,6.31,83.61,42.59,59.25,High,Flowering,Low,Leaf Miner
+Groundnut,28.43,61.74,83.01,Black Soil,5.99,64.3,64.82,88.54,Medium,Fruiting,Medium,Thrips
+Paddy,16.9,73.16,177.09,Sandy,6.69,82.21,56.45,45.51,High,Flowering,High,Brown Planthopper
+Groundnut,26.85,73.23,67.91,Red Soil,6.42,130.17,54.07,66.35,High,Germination,High,Leaf Miner
+Tomato,23.74,54.53,23.9,Clay,7.01,48.75,46.37,50.99,Medium,Germination,Low,Leaf Miner
+Tomato,28.88,60.68,77.53,Sandy,7.41,75.93,82.13,29.71,High,Flowering,Medium,Leaf Miner
+Paddy,42.0,84.11,172.6,Black Soil,5.48,95.1,74.29,73.32,Low,Flowering,High,Brown Planthopper
+Tomato,29.84,75.45,66.72,Red Soil,6.55,82.62,63.39,59.85,Medium,Maturity,Low,Whitefly
+Sugarcane,26.43,98.0,196.92,Clay,6.46,67.56,60.1,61.71,High,Maturity,High,Early Shoot Borer
+Tomato,32.61,85.7,82.66,Sandy,6.66,62.21,32.95,59.32,Medium,Vegetative,Medium,Whitefly
+Groundnut,30.41,85.16,135.42,Clay,6.49,66.44,44.02,37.55,Medium,Germination,Medium,Aphids
+Groundnut,30.1,47.18,98.16,Black Soil,5.72,90.96,57.72,99.71,High,Flowering,Medium,Thrips
+Groundnut,31.03,79.46,190.77,Clay,7.66,89.21,66.03,66.22,High,Maturity,High,Leaf Miner
+Groundnut,38.28,67.2,296.65,Loamy,8.0,137.84,62.84,53.33,Medium,Maturity,High,Leaf Miner
+Sugarcane,22.35,59.74,58.3,Sandy,6.94,28.9,56.62,27.27,Medium,Vegetative,Medium,Whitefly
+Maize,30.37,70.52,94.14,Clay,6.98,127.74,85.01,95.08,Medium,Flowering,Low,Stem Borer
+Paddy,23.37,82.18,177.0,Black Soil,6.6,68.87,42.29,82.93,Medium,Flowering,High,Brown Planthopper
+Groundnut,30.78,75.51,100.59,Black Soil,7.28,72.28,65.26,60.04,Medium,Fruiting,Medium,Aphids
+Tomato,23.41,54.82,14.95,Clay,4.55,100.76,62.83,27.9,Medium,Flowering,Low,Leaf Miner
+Groundnut,25.91,79.14,67.51,Black Soil,6.5,100.57,53.88,101.47,Medium,Germination,Low,Aphids
+Tomato,26.52,58.44,99.98,Red Soil,6.04,109.7,54.61,50.88,Low,Flowering,Medium,Leaf Miner
+Tomato,32.88,71.25,225.08,Red Soil,6.62,116.24,54.21,43.21,Low,Flowering,High,Fruit Borer
+Groundnut,32.59,63.45,90.53,Red Soil,7.37,73.81,30.84,58.77,Low,Germination,High,Leaf Miner
+Sugarcane,21.77,64.72,40.68,Loamy,6.52,116.63,53.02,69.38,Medium,Fruiting,Low,Whitefly
+Tomato,28.27,79.49,101.66,Clay,6.21,56.13,59.97,55.78,High,Fruiting,High,Fruit Borer
+Tomato,24.45,52.4,210.64,Loamy,5.38,65.84,51.44,5.0,Low,Flowering,Medium,Leaf Miner
+Groundnut,21.71,97.18,51.26,Black Soil,6.41,69.54,8.16,66.24,Low,Vegetative,Medium,Aphids
+Tomato,26.91,40.68,56.65,Loamy,7.04,59.2,13.28,83.06,Medium,Vegetative,Low,Leaf Miner
+Tomato,26.46,59.03,51.9,Black Soil,5.83,76.8,28.64,37.72,Medium,Germination,Medium,Leaf Miner
+Groundnut,40.13,73.55,27.05,Black Soil,4.9,101.89,42.76,99.01,Low,Germination,Medium,Aphids
+Groundnut,30.16,76.76,87.65,Sandy,8.32,94.54,29.71,81.87,Medium,Fruiting,Medium,Aphids
+Paddy,21.11,66.49,80.39,Red Soil,6.77,56.6,57.92,71.72,Low,Vegetative,High,Brown Planthopper
+Sugarcane,25.18,67.14,16.8,Black Soil,6.32,54.13,68.84,34.65,Medium,Vegetative,Low,Whitefly
+Sugarcane,33.11,74.16,43.4,Sandy,7.61,49.34,71.67,66.97,Low,Germination,Medium,Top Borer
+Tomato,38.44,64.53,96.08,Red Soil,6.61,77.66,51.74,68.87,Medium,Germination,Medium,Leaf Miner
+Sugarcane,20.07,88.9,133.27,Black Soil,7.57,27.57,66.68,57.95,Medium,Maturity,High,Early Shoot Borer
+Tomato,18.6,80.59,158.16,Black Soil,7.5,48.28,33.75,82.28,Medium,Germination,Medium,Whitefly
+Paddy,37.35,81.09,140.57,Loamy,5.48,61.24,41.97,50.98,Low,Maturity,High,Brown Planthopper
+Groundnut,29.95,53.51,83.89,Loamy,6.87,106.66,21.66,53.21,Medium,Fruiting,Low,Thrips
+Groundnut,23.66,66.81,22.96,Red Soil,7.88,71.03,69.14,43.34,Medium,Vegetative,Low,Thrips
+Groundnut,30.67,63.49,70.9,Black Soil,5.7,105.18,84.32,48.72,High,Vegetative,Medium,Thrips
+Sugarcane,15.0,52.92,6.21,Clay,5.71,80.63,38.03,56.25,Medium,Germination,Low,Whitefly
+Paddy,28.02,73.4,96.41,Loamy,5.85,60.77,5.0,55.35,Medium,Flowering,Medium,Stem Borer
+Sugarcane,29.64,59.94,49.84,Red Soil,7.21,62.01,25.89,54.22,Medium,Vegetative,Medium,Whitefly
+Sugarcane,32.62,77.83,10.5,Black Soil,6.73,40.02,32.0,83.1,Low,Germination,Medium,Top Borer
+Paddy,22.93,51.95,109.12,Black Soil,4.95,147.1,18.48,97.57,High,Flowering,High,Brown Planthopper
+Paddy,28.43,93.79,209.02,Clay,6.77,108.32,24.39,27.95,Medium,Maturity,High,Brown Planthopper
+Paddy,23.37,54.56,19.77,Red Soil,6.3,93.11,49.09,96.99,Medium,Germination,Low,Leaf Folder
+Paddy,29.28,71.29,115.36,Black Soil,6.41,35.9,58.19,76.86,Low,Maturity,High,Brown Planthopper
+Groundnut,23.52,79.88,62.06,Loamy,5.83,61.45,5.0,37.67,Medium,Vegetative,Medium,Aphids
+Maize,25.96,59.44,45.3,Clay,6.78,45.74,34.36,51.75,Medium,Germination,Low,Aphids
+Maize,23.02,80.79,45.39,Red Soil,7.34,78.83,45.75,67.1,Medium,Germination,Low,Stem Borer
+Paddy,31.26,49.56,62.05,Clay,5.99,47.18,23.66,18.62,Medium,Flowering,Low,Leaf Folder
+Maize,32.29,89.78,61.87,Loamy,5.15,54.89,49.72,57.83,Medium,Germination,Medium,Stem Borer
+Maize,26.83,68.21,81.48,Red Soil,6.26,47.97,42.64,73.14,Medium,Germination,High,Fall Armyworm
+Paddy,28.19,59.05,41.69,Clay,7.11,67.81,36.03,41.39,Medium,Fruiting,Low,Leaf Folder
+Maize,20.76,63.51,49.2,Sandy,6.16,77.14,27.71,23.0,Low,Vegetative,Low,Aphids
+Sugarcane,26.5,80.13,122.79,Loamy,5.3,68.6,50.47,64.97,Medium,Vegetative,High,Early Shoot Borer
+Tomato,27.75,59.23,38.57,Loamy,7.11,120.99,29.73,115.21,Medium,Germination,Medium,Leaf Miner
+Tomato,41.1,56.76,100.83,Loamy,7.63,99.33,10.34,42.17,Medium,Fruiting,Medium,Leaf Miner
+Paddy,22.44,64.68,64.55,Sandy,6.52,51.51,45.44,42.82,Low,Vegetative,Low,Leaf Folder
+Groundnut,35.32,50.35,54.75,Sandy,5.22,84.77,20.22,54.99,Low,Fruiting,Medium,Thrips
+Paddy,32.98,95.31,252.52,Black Soil,6.25,53.98,12.08,99.24,Low,Fruiting,High,Brown Planthopper
+Groundnut,29.4,59.5,27.63,Clay,6.62,63.15,47.59,18.69,High,Vegetative,Low,Thrips
+Tomato,36.79,80.47,218.26,Black Soil,5.85,89.38,41.74,79.25,Medium,Maturity,High,Fruit Borer
+Paddy,29.86,71.14,146.34,Clay,6.97,94.97,27.67,48.23,Low,Maturity,High,Brown Planthopper
+Sugarcane,29.95,53.23,50.9,Sandy,5.77,57.38,49.58,50.38,Low,Vegetative,Low,Whitefly
+Maize,27.73,67.91,149.13,Sandy,6.52,41.85,53.48,34.75,Low,Vegetative,Medium,Aphids
+Groundnut,34.12,79.76,3.28,Black Soil,6.32,77.63,49.8,53.78,Medium,Fruiting,Low,Aphids
+Maize,33.48,65.18,47.05,Red Soil,6.99,88.04,49.07,35.47,Low,Vegetative,Medium,Aphids
+Maize,24.87,85.9,39.03,Black Soil,6.49,55.85,12.89,46.44,Medium,Vegetative,Low,Stem Borer
+Paddy,21.4,83.32,110.02,Clay,6.34,99.5,70.86,5.0,Medium,Fruiting,High,Brown Planthopper
+Maize,26.99,81.78,135.03,Black Soil,5.86,94.18,56.15,16.65,High,Maturity,High,Fall Armyworm
+Sugarcane,24.0,61.11,108.79,Loamy,6.53,55.41,25.98,68.42,Medium,Flowering,Medium,Whitefly
+Maize,27.68,51.8,91.88,Clay,6.29,108.9,44.76,91.56,Medium,Maturity,Low,Aphids
+Paddy,34.19,58.8,155.69,Clay,5.8,109.82,48.57,130.0,Medium,Fruiting,High,Brown Planthopper
+Sugarcane,25.71,70.94,141.39,Red Soil,6.63,137.03,44.21,83.11,Medium,Fruiting,Medium,Top Borer
+Tomato,27.79,76.19,49.91,Sandy,6.79,126.35,80.86,47.13,High,Vegetative,Low,Whitefly
+Maize,28.29,35.43,54.53,Clay,6.23,47.92,6.09,10.41,Medium,Vegetative,Low,Aphids
+Paddy,32.24,67.88,136.09,Sandy,7.25,102.75,15.48,73.49,Medium,Fruiting,High,Brown Planthopper
+Tomato,16.77,70.37,80.9,Black Soil,6.71,101.39,5.0,23.69,Medium,Fruiting,Medium,Whitefly
+Tomato,24.97,63.84,85.0,Loamy,5.47,64.55,46.6,39.82,High,Fruiting,Medium,Leaf Miner
+Groundnut,29.06,87.37,93.12,Red Soil,7.57,88.65,55.88,82.15,Medium,Vegetative,Medium,Aphids
+Sugarcane,34.0,74.33,15.7,Sandy,7.11,18.67,52.23,67.36,High,Vegetative,Medium,Top Borer
+Maize,25.54,87.65,48.1,Clay,7.3,17.84,39.22,36.77,Low,Germination,Medium,Stem Borer
+Paddy,18.62,64.76,116.58,Sandy,6.82,23.56,53.13,17.34,Medium,Fruiting,High,Brown Planthopper
+Groundnut,31.1,82.06,47.77,Clay,4.63,86.68,39.07,65.31,High,Vegetative,Medium,Aphids
+Sugarcane,24.82,92.53,70.21,Sandy,7.37,88.1,59.81,68.39,Medium,Germination,Medium,Top Borer
+Groundnut,22.05,87.68,116.06,Clay,6.55,66.78,67.15,97.6,High,Vegetative,High,Leaf Miner
+Sugarcane,24.88,51.62,161.42,Black Soil,6.78,126.64,26.38,5.0,Low,Vegetative,High,Early Shoot Borer
+Sugarcane,27.08,64.19,174.12,Clay,6.93,104.61,39.25,62.96,High,Fruiting,High,Early Shoot Borer
+Maize,24.98,62.82,180.57,Clay,8.05,27.05,42.49,82.92,Medium,Flowering,High,Fall Armyworm
+Sugarcane,16.97,75.34,75.29,Loamy,6.06,69.84,73.51,49.49,Low,Vegetative,Medium,Top Borer
+Groundnut,32.49,78.3,69.58,Clay,6.08,46.81,28.73,20.08,High,Vegetative,High,Leaf Miner
+Sugarcane,34.37,55.42,30.87,Loamy,5.82,87.42,66.95,36.88,Medium,Flowering,Medium,Whitefly
+Maize,31.26,69.02,209.79,Red Soil,5.64,74.08,15.68,60.94,Low,Maturity,High,Fall Armyworm
+Maize,22.31,37.7,67.38,Loamy,5.66,48.51,69.87,47.82,Low,Vegetative,Low,Aphids
+Groundnut,26.99,89.63,206.64,Black Soil,5.02,125.83,62.04,67.6,Medium,Maturity,High,Leaf Miner
+Tomato,27.97,60.31,102.75,Loamy,6.84,76.72,41.89,91.98,High,Vegetative,Medium,Leaf Miner
+Tomato,30.99,68.84,166.35,Red Soil,8.09,62.52,63.33,50.02,Low,Maturity,High,Fruit Borer
+Sugarcane,31.34,63.36,79.11,Black Soil,8.14,67.41,34.98,90.49,Medium,Flowering,Low,Whitefly
+Paddy,24.33,85.19,124.01,Sandy,5.82,123.56,26.54,57.11,Low,Flowering,High,Brown Planthopper
+Sugarcane,28.41,25.44,170.06,Sandy,6.28,102.34,79.13,68.47,Medium,Maturity,Low,Whitefly
+Groundnut,30.29,67.75,56.9,Loamy,7.49,70.13,34.18,57.07,Low,Flowering,Medium,Thrips
+Groundnut,35.28,66.41,181.2,Loamy,6.85,45.24,58.54,69.12,Low,Vegetative,High,Leaf Miner
+Groundnut,31.52,61.2,34.75,Red Soil,6.61,49.91,67.18,73.47,Low,Vegetative,Low,Thrips
+Groundnut,31.95,93.89,248.34,Red Soil,6.29,60.54,61.13,76.05,Medium,Maturity,High,Leaf Miner
+Groundnut,28.42,54.69,93.39,Clay,7.44,90.21,56.99,60.08,High,Fruiting,Medium,Thrips
+Maize,35.05,79.58,48.72,Red Soil,5.64,97.7,58.6,5.0,Medium,Flowering,Medium,Stem Borer
+Tomato,30.05,73.34,144.44,Clay,6.88,53.23,66.15,74.89,Low,Fruiting,Medium,Whitefly
+Groundnut,23.69,86.92,106.1,Black Soil,6.78,99.02,51.35,10.74,Medium,Flowering,Medium,Aphids
+Paddy,35.02,57.99,16.62,Loamy,6.53,47.74,44.21,44.83,High,Vegetative,Low,Leaf Folder
+Paddy,31.49,57.01,62.08,Black Soil,7.13,56.65,17.62,5.0,Low,Vegetative,Medium,Leaf Folder
+Paddy,25.78,84.44,36.25,Red Soil,6.53,31.51,51.36,102.46,Low,Germination,High,Brown Planthopper
+Paddy,25.6,74.38,39.1,Black Soil,6.07,30.62,65.57,70.43,Low,Fruiting,Medium,Stem Borer
+Maize,29.48,44.83,37.92,Black Soil,6.57,47.42,22.99,51.85,Medium,Germination,Low,Aphids
+Paddy,30.32,59.91,120.06,Black Soil,5.23,74.23,40.42,95.47,Medium,Fruiting,Medium,Leaf Folder
+Groundnut,28.99,73.8,151.85,Red Soil,6.99,45.18,53.51,73.3,Medium,Flowering,Medium,Aphids
+Sugarcane,29.56,80.57,45.14,Black Soil,7.19,119.94,75.25,63.11,Low,Vegetative,Medium,Top Borer
+Paddy,36.5,57.81,12.25,Clay,5.97,47.03,21.83,69.88,Medium,Vegetative,Low,Leaf Folder
+Maize,33.36,25.0,285.56,Red Soil,5.78,80.52,60.87,50.45,High,Fruiting,High,Fall Armyworm
+Maize,28.95,75.85,94.1,Black Soil,6.0,114.61,37.84,29.01,Low,Fruiting,High,Fall Armyworm
+Paddy,32.71,49.7,145.15,Red Soil,6.45,77.78,31.53,84.02,High,Fruiting,High,Brown Planthopper
+Sugarcane,22.84,37.74,72.55,Sandy,6.67,64.08,26.64,58.23,Medium,Germination,Low,Whitefly
+Paddy,29.99,25.52,9.39,Clay,7.79,79.41,31.89,16.02,Low,Flowering,Low,Leaf Folder
+Maize,37.05,80.21,112.08,Black Soil,7.69,58.15,54.98,72.68,Medium,Maturity,Medium,Stem Borer
+Tomato,26.91,69.93,231.83,Sandy,7.17,44.98,40.44,61.02,High,Maturity,High,Fruit Borer
+Groundnut,23.76,64.62,50.95,Sandy,6.6,93.38,59.28,102.5,Medium,Vegetative,Low,Thrips
+Maize,24.74,88.84,8.12,Red Soil,5.76,57.51,22.56,66.71,High,Vegetative,Medium,Stem Borer
+Paddy,22.55,77.56,30.7,Sandy,7.84,103.1,58.94,30.47,Medium,Vegetative,Medium,Stem Borer
+Groundnut,24.08,92.24,149.84,Clay,6.3,98.89,53.68,15.25,Medium,Maturity,High,Leaf Miner
+Paddy,26.15,47.11,105.54,Clay,6.73,79.99,14.84,91.61,High,Maturity,Low,Leaf Folder
+Paddy,20.97,67.48,181.68,Loamy,7.0,104.13,75.12,58.41,High,Maturity,High,Brown Planthopper
+Tomato,28.08,43.75,84.54,Clay,6.55,58.68,51.8,38.35,Medium,Flowering,Low,Leaf Miner
+Groundnut,32.51,64.56,133.5,Sandy,7.42,98.51,60.31,42.01,Medium,Vegetative,Medium,Thrips
+Groundnut,23.46,64.27,60.67,Clay,6.86,98.36,68.12,92.46,Low,Maturity,Low,Thrips
+Tomato,35.6,77.4,32.93,Red Soil,7.29,65.96,64.37,71.8,Medium,Germination,High,Fruit Borer
+Maize,30.55,68.68,133.75,Loamy,6.86,62.11,42.48,87.43,Medium,Germination,Medium,Aphids
+Paddy,33.15,77.35,151.47,Sandy,6.47,84.87,59.5,66.13,Low,Germination,High,Brown Planthopper
+Sugarcane,24.71,78.55,51.92,Loamy,6.56,134.05,8.8,39.08,Medium,Flowering,Medium,Top Borer
+Paddy,32.27,98.0,218.61,Sandy,6.45,68.03,52.88,104.66,Medium,Flowering,High,Brown Planthopper
+Paddy,22.54,63.27,222.5,Red Soil,5.47,61.48,79.65,50.22,High,Maturity,High,Brown Planthopper
+Maize,32.45,53.88,38.12,Loamy,5.7,110.35,31.09,80.11,Medium,Germination,Low,Aphids
+Paddy,28.86,71.69,39.67,Black Soil,7.09,77.04,63.31,87.11,Medium,Flowering,Medium,Stem Borer
+Tomato,30.77,55.97,41.29,Sandy,5.49,100.98,80.46,60.16,High,Flowering,Medium,Leaf Miner
+Tomato,22.12,90.23,76.46,Black Soil,6.18,119.24,58.78,32.17,Low,Flowering,High,Fruit Borer
+Groundnut,23.52,63.75,62.96,Loamy,5.66,17.79,65.51,43.05,Medium,Germination,Medium,Thrips
+Sugarcane,30.99,59.52,26.61,Black Soil,6.13,73.87,13.61,76.93,Medium,Flowering,Low,Whitefly
+Paddy,23.26,60.93,42.32,Black Soil,6.38,68.11,26.3,73.35,Low,Germination,Medium,Leaf Folder
+Paddy,30.32,78.78,9.64,Loamy,6.18,46.13,73.59,92.52,Medium,Germination,Medium,Stem Borer
+Maize,21.16,65.63,11.86,Red Soil,5.36,17.44,64.21,88.48,Low,Germination,Medium,Aphids
+Tomato,32.24,58.37,21.88,Black Soil,6.35,27.26,54.92,36.18,Low,Germination,Medium,Leaf Miner
+Sugarcane,21.84,92.98,275.64,Black Soil,5.73,78.13,39.71,96.09,Low,Maturity,High,Early Shoot Borer
+Groundnut,30.76,55.16,254.72,Red Soil,5.99,58.98,50.69,34.35,High,Maturity,High,Leaf Miner
+Tomato,31.13,68.53,139.0,Black Soil,7.09,50.94,79.76,74.87,Medium,Vegetative,Medium,Leaf Miner
+Groundnut,24.52,77.78,52.36,Black Soil,7.26,77.83,42.96,120.54,Medium,Germination,Medium,Aphids
+Maize,30.91,43.53,21.52,Black Soil,5.45,54.24,58.99,67.81,Medium,Germination,Low,Aphids
+Maize,29.3,75.2,83.25,Clay,7.75,113.71,58.46,15.53,Medium,Vegetative,Low,Stem Borer
+Paddy,25.31,52.17,114.23,Red Soil,6.09,56.37,31.68,51.85,Medium,Fruiting,Low,Leaf Folder
+Sugarcane,22.96,80.34,45.78,Black Soil,6.02,120.16,33.23,114.37,Medium,Germination,Low,Top Borer
+Groundnut,18.19,53.56,110.03,Red Soil,5.79,74.1,75.54,54.82,Low,Flowering,Medium,Thrips
+Tomato,29.75,78.39,30.44,Sandy,6.54,55.44,56.4,93.17,Medium,Flowering,Low,Whitefly
+Maize,20.18,84.59,53.23,Sandy,8.09,53.26,31.39,36.08,Low,Germination,High,Fall Armyworm
+Paddy,28.48,80.92,69.11,Black Soil,5.27,120.41,38.77,51.11,Low,Flowering,High,Brown Planthopper
+Paddy,26.68,71.77,259.54,Red Soil,4.85,95.88,25.29,54.61,High,Maturity,High,Brown Planthopper
+Groundnut,31.4,64.53,41.79,Red Soil,6.71,52.22,66.33,108.77,Medium,Vegetative,Medium,Thrips
+Maize,26.49,59.35,113.84,Red Soil,6.96,78.57,39.96,52.35,Medium,Fruiting,Low,Aphids
+Sugarcane,26.35,90.07,36.52,Clay,6.54,10.0,40.23,12.86,Medium,Germination,Medium,Top Borer
+Maize,31.66,57.51,32.23,Sandy,6.98,35.05,61.82,119.55,Medium,Fruiting,Low,Aphids
+Groundnut,29.68,52.44,45.61,Red Soil,5.59,52.49,11.41,65.69,Medium,Germination,Low,Thrips
+Groundnut,29.58,77.98,85.38,Red Soil,5.74,51.76,44.26,76.37,Medium,Fruiting,Low,Aphids
+Maize,30.35,56.06,237.07,Clay,6.6,111.39,44.78,19.83,Medium,Maturity,High,Fall Armyworm
+Groundnut,20.32,53.75,51.44,Clay,7.91,17.57,39.29,66.44,High,Flowering,Medium,Thrips
+Maize,31.78,46.35,152.24,Red Soil,6.95,32.17,34.01,60.48,High,Maturity,High,Fall Armyworm
+Tomato,31.06,60.76,267.75,Loamy,6.99,88.57,30.8,35.84,Medium,Maturity,High,Fruit Borer
+Maize,22.92,66.76,100.79,Red Soil,5.64,81.91,50.65,76.7,High,Fruiting,Low,Aphids
+Maize,26.78,71.65,170.89,Red Soil,6.84,64.51,24.8,17.34,Medium,Flowering,High,Fall Armyworm
+Groundnut,27.8,82.27,43.55,Clay,5.55,136.57,48.22,35.67,Medium,Vegetative,Medium,Aphids
+Groundnut,27.33,75.9,111.74,Clay,7.91,93.52,33.94,90.3,Low,Fruiting,High,Leaf Miner
+Paddy,29.67,65.14,132.01,Red Soil,5.69,111.68,35.27,41.85,Medium,Fruiting,High,Brown Planthopper
+Paddy,35.16,65.03,25.41,Red Soil,5.86,73.48,48.94,47.67,High,Flowering,Low,Leaf Folder
+Tomato,33.41,75.65,39.97,Red Soil,5.32,58.69,35.05,62.25,High,Vegetative,High,Fruit Borer
+Paddy,21.44,87.09,66.83,Clay,6.57,59.04,70.34,50.7,High,Vegetative,High,Brown Planthopper
+Maize,31.11,69.89,46.68,Red Soil,6.54,102.83,42.2,77.27,Low,Germination,Medium,Aphids
+Groundnut,34.64,60.96,72.91,Red Soil,7.71,98.18,65.93,64.4,Medium,Flowering,Low,Thrips
+Paddy,29.93,53.11,22.0,Black Soil,7.12,68.44,29.76,22.33,Low,Germination,Low,Leaf Folder
+Paddy,33.45,46.32,251.09,Loamy,5.87,89.15,29.32,41.63,Medium,Maturity,High,Brown Planthopper
+Tomato,38.06,77.99,162.74,Sandy,7.2,103.88,11.74,38.92,Medium,Germination,High,Fruit Borer
+Tomato,33.12,76.67,300.0,Loamy,5.51,58.08,35.16,48.41,Medium,Maturity,High,Fruit Borer
+Maize,29.25,76.66,28.37,Black Soil,5.93,64.7,40.35,62.8,Medium,Germination,Low,Stem Borer
+Groundnut,33.23,66.07,114.8,Sandy,6.59,88.4,46.54,67.66,Medium,Flowering,High,Leaf Miner
+Tomato,28.72,89.1,47.04,Red Soil,5.59,21.34,58.95,5.0,Medium,Flowering,Medium,Whitefly
+Paddy,28.12,60.74,32.06,Black Soil,7.35,88.97,57.5,85.63,Low,Vegetative,Low,Leaf Folder
+Groundnut,26.24,82.33,156.69,Red Soil,8.32,41.25,67.71,57.73,High,Fruiting,High,Leaf Miner
+Groundnut,35.82,67.42,87.43,Clay,6.26,103.25,27.25,31.99,Low,Vegetative,Medium,Thrips
+Paddy,23.91,58.87,63.39,Black Soil,5.98,139.43,45.62,83.81,Low,Vegetative,Low,Leaf Folder
+Tomato,35.66,76.89,102.95,Clay,6.4,54.08,25.0,7.36,High,Maturity,High,Fruit Borer
+Paddy,30.5,74.14,41.46,Black Soil,6.05,34.51,53.28,20.61,High,Flowering,Medium,Stem Borer
+Groundnut,21.0,73.35,40.28,Black Soil,6.71,69.6,81.09,113.23,Medium,Germination,Medium,Aphids
+Sugarcane,29.84,69.22,48.47,Clay,5.44,67.04,21.07,63.66,Low,Vegetative,Low,Whitefly
+Sugarcane,17.5,67.43,177.75,Sandy,6.75,94.82,58.75,41.57,Low,Fruiting,High,Early Shoot Borer
+Maize,31.13,98.0,168.34,Loamy,8.03,82.02,65.97,62.71,High,Maturity,High,Fall Armyworm
+Paddy,32.43,85.76,27.15,Red Soil,4.9,66.11,27.15,55.46,High,Vegetative,High,Brown Planthopper
+Paddy,25.04,78.84,244.18,Black Soil,5.57,77.72,53.73,60.89,Medium,Flowering,High,Brown Planthopper
+Maize,28.62,69.68,82.08,Red Soil,6.14,41.34,37.8,72.23,Low,Flowering,Medium,Aphids
+Maize,37.77,83.11,113.48,Clay,6.93,99.88,42.58,55.05,Low,Flowering,High,Fall Armyworm
+Maize,25.47,75.77,47.17,Red Soil,7.21,123.54,37.14,68.87,Low,Maturity,Medium,Stem Borer
+Groundnut,22.71,68.39,85.3,Clay,7.15,39.07,40.5,56.05,Medium,Maturity,Medium,Thrips
+Paddy,35.41,63.45,31.88,Red Soil,5.15,27.62,68.11,39.48,Low,Flowering,Medium,Leaf Folder
+Groundnut,37.81,66.79,44.5,Loamy,5.96,62.94,43.42,32.35,High,Germination,Medium,Thrips
+Maize,28.02,25.0,148.13,Loamy,5.78,38.36,32.97,92.98,Low,Fruiting,Low,Aphids
+Paddy,33.06,71.16,150.46,Loamy,6.45,36.71,46.38,76.19,Medium,Germination,High,Brown Planthopper
+Groundnut,34.71,60.67,117.15,Loamy,6.51,32.94,5.0,85.93,Low,Vegetative,High,Leaf Miner
+Groundnut,24.29,91.89,60.26,Loamy,5.4,69.19,28.66,60.09,Medium,Germination,Medium,Aphids
+Maize,25.57,68.29,26.71,Loamy,6.15,62.66,69.97,65.64,Low,Flowering,Medium,Aphids
+Paddy,34.15,50.17,191.95,Clay,6.96,86.2,42.09,55.54,High,Flowering,High,Brown Planthopper
+Maize,36.43,67.25,157.95,Black Soil,6.0,58.11,35.44,88.94,Medium,Flowering,High,Fall Armyworm
+Paddy,30.81,52.31,14.09,Red Soil,6.34,38.5,48.46,51.38,Low,Germination,Low,Leaf Folder
+Sugarcane,23.6,75.1,152.2,Loamy,7.86,74.49,59.73,35.4,High,Fruiting,High,Early Shoot Borer
+Tomato,37.94,72.36,63.36,Clay,8.09,43.24,71.57,73.03,Medium,Vegetative,Medium,Whitefly
+Tomato,25.35,82.37,135.02,Clay,4.77,90.37,35.98,56.2,High,Fruiting,High,Fruit Borer
+Tomato,26.32,56.14,22.29,Clay,6.59,25.01,36.44,66.25,High,Germination,Medium,Leaf Miner
+Maize,29.71,68.51,49.24,Black Soil,8.5,10.05,40.54,77.78,High,Maturity,Medium,Aphids
+Sugarcane,35.77,47.52,89.95,Red Soil,6.88,26.71,65.58,45.52,Low,Germination,Medium,Whitefly
+Paddy,32.27,78.52,251.16,Black Soil,6.51,62.45,46.14,54.53,Low,Maturity,High,Brown Planthopper
+Groundnut,30.07,75.78,90.12,Sandy,7.55,66.39,88.32,52.24,High,Fruiting,High,Leaf Miner
+Paddy,30.32,75.44,173.06,Clay,6.67,79.11,41.78,92.17,Medium,Maturity,High,Brown Planthopper
+Groundnut,28.22,68.02,99.09,Sandy,7.07,58.06,80.27,60.36,Low,Fruiting,Medium,Thrips
+Paddy,30.79,74.22,96.57,Loamy,6.33,49.6,27.14,63.91,High,Germination,High,Brown Planthopper
+Sugarcane,15.35,92.07,121.57,Loamy,6.66,118.0,17.2,31.09,Medium,Vegetative,High,Early Shoot Borer
+Groundnut,26.52,63.72,80.46,Black Soil,6.84,110.07,42.97,78.27,Medium,Flowering,Low,Thrips
+Maize,29.21,70.08,145.74,Red Soil,7.19,104.59,67.79,70.7,High,Maturity,Medium,Stem Borer
+Paddy,22.24,51.71,34.03,Sandy,6.15,84.27,35.46,39.12,High,Fruiting,Low,Leaf Folder
+Paddy,29.93,54.98,80.87,Red Soil,6.13,86.66,32.67,108.07,Medium,Vegetative,Low,Leaf Folder
+Groundnut,26.98,69.47,264.92,Black Soil,4.96,50.84,65.5,68.43,Medium,Fruiting,High,Leaf Miner
+Maize,36.78,84.56,177.82,Loamy,6.19,79.33,59.1,44.41,Medium,Flowering,High,Fall Armyworm
+Maize,35.87,64.16,105.32,Red Soil,7.26,46.8,29.15,59.93,Medium,Maturity,Medium,Aphids
+Sugarcane,25.67,64.46,161.91,Red Soil,6.87,43.4,27.98,50.79,Low,Maturity,Medium,Whitefly
+Maize,27.25,61.9,221.08,Loamy,5.7,26.48,61.59,98.6,Medium,Fruiting,High,Fall Armyworm
+Maize,27.63,59.98,12.08,Sandy,4.98,87.18,12.36,83.33,Medium,Flowering,Low,Aphids
+Maize,25.74,72.42,68.1,Loamy,6.39,79.91,66.59,71.35,Medium,Vegetative,Medium,Stem Borer
+Tomato,28.98,45.54,49.1,Red Soil,7.24,65.91,58.84,102.92,High,Fruiting,Low,Leaf Miner
+Sugarcane,24.21,87.21,23.92,Sandy,6.12,61.99,5.0,34.04,Medium,Germination,Low,Top Borer
+Paddy,22.35,58.02,289.31,Sandy,5.34,20.1,45.31,79.4,Low,Maturity,High,Brown Planthopper
+Groundnut,31.11,78.83,125.59,Loamy,6.03,82.69,5.42,73.68,Medium,Maturity,Medium,Aphids
+Paddy,31.15,48.95,158.15,Red Soil,6.76,65.53,20.9,54.24,High,Flowering,High,Brown Planthopper
+Sugarcane,23.98,78.03,50.88,Black Soil,7.49,101.88,34.94,54.35,Medium,Flowering,Medium,Top Borer
+Groundnut,32.48,78.08,66.99,Red Soil,6.29,79.39,19.64,83.08,Medium,Vegetative,Medium,Aphids
+Sugarcane,24.84,73.76,83.69,Clay,7.34,96.17,89.36,81.25,Low,Flowering,Medium,Top Borer
+Maize,29.27,53.08,110.98,Black Soil,7.26,74.78,62.28,24.44,Medium,Vegetative,Low,Aphids
+Groundnut,32.1,71.74,142.11,Sandy,5.56,80.45,72.35,105.41,High,Maturity,High,Leaf Miner
+Maize,27.83,50.25,136.05,Black Soil,7.5,102.93,42.19,88.57,High,Vegetative,Medium,Aphids
+Paddy,30.27,64.21,70.43,Sandy,6.74,69.23,45.61,52.96,Medium,Germination,Medium,Leaf Folder
+Paddy,25.42,83.44,226.71,Sandy,5.53,89.16,76.61,40.22,Medium,Maturity,High,Brown Planthopper
+Groundnut,27.02,79.95,197.71,Black Soil,7.91,61.69,53.67,87.76,High,Germination,High,Leaf Miner
+Groundnut,26.97,68.23,103.22,Sandy,6.4,71.07,57.24,72.41,High,Vegetative,Medium,Thrips
+Sugarcane,24.27,53.38,85.99,Sandy,4.95,122.81,26.78,77.91,Medium,Vegetative,Medium,Whitefly
+Sugarcane,27.12,77.68,66.39,Clay,5.93,94.22,26.68,74.27,Medium,Flowering,Medium,Top Borer
+Maize,20.26,68.29,111.43,Red Soil,5.74,58.76,50.22,90.36,Medium,Vegetative,Low,Aphids
+Groundnut,25.54,33.2,190.94,Red Soil,5.95,87.69,52.46,81.4,Low,Vegetative,Low,Thrips
+Paddy,26.58,79.74,87.44,Clay,6.14,36.6,25.06,46.65,Medium,Fruiting,Medium,Stem Borer
+Sugarcane,26.72,67.64,54.21,Black Soil,6.29,68.36,52.17,45.19,High,Fruiting,Medium,Whitefly
+Sugarcane,26.79,86.04,86.02,Loamy,6.26,46.4,20.57,68.9,High,Vegetative,Medium,Top Borer
+Paddy,27.69,51.57,104.57,Loamy,6.42,88.56,45.28,117.24,High,Germination,Medium,Leaf Folder
+Sugarcane,30.4,25.0,32.01,Loamy,6.97,69.33,16.25,56.26,Low,Vegetative,Low,Whitefly
+Maize,32.37,72.19,24.95,Clay,5.9,83.5,71.56,69.08,Medium,Vegetative,Medium,Stem Borer
+Groundnut,24.75,72.37,55.36,Clay,7.44,98.23,38.78,82.36,Low,Germination,Low,Aphids
+Paddy,21.98,42.64,226.4,Sandy,5.52,61.19,31.13,49.52,Low,Vegetative,Medium,Leaf Folder
+Groundnut,22.79,53.32,183.96,Loamy,6.99,62.27,22.09,79.94,High,Fruiting,Medium,Thrips
+Sugarcane,25.56,98.0,19.69,Black Soil,7.81,73.89,20.16,60.35,Medium,Flowering,High,Early Shoot Borer
+Sugarcane,26.24,63.42,38.73,Black Soil,6.36,49.19,53.73,91.25,High,Fruiting,Low,Whitefly
+Paddy,24.15,78.96,140.48,Loamy,6.65,74.66,65.08,36.39,Low,Fruiting,High,Brown Planthopper
+Maize,21.52,58.24,61.04,Loamy,5.73,76.25,63.07,117.85,Medium,Germination,Medium,Aphids
+Tomato,25.72,36.65,115.63,Loamy,6.09,81.87,72.93,52.19,Medium,Fruiting,Low,Leaf Miner
+Paddy,28.91,65.45,20.86,Clay,7.75,87.59,79.96,73.04,Low,Germination,Low,Leaf Folder
+Tomato,30.98,64.02,84.75,Clay,7.1,26.91,64.16,60.12,Medium,Germination,Medium,Leaf Miner
+Tomato,25.21,62.0,78.42,Clay,6.83,36.45,34.94,33.03,Low,Vegetative,Medium,Leaf Miner
+Maize,25.94,66.28,158.66,Red Soil,4.95,39.98,48.39,80.83,Medium,Maturity,High,Fall Armyworm
+Tomato,23.37,71.96,111.0,Black Soil,5.93,77.78,5.0,53.39,High,Maturity,High,Fruit Borer
+Tomato,27.84,65.75,93.1,Black Soil,7.89,66.47,57.75,73.14,High,Germination,Medium,Leaf Miner
+Maize,23.76,49.04,16.3,Sandy,6.83,10.0,47.99,39.87,High,Germination,Low,Aphids
+Tomato,30.87,75.29,270.39,Clay,6.93,133.41,76.9,53.5,High,Maturity,High,Fruit Borer
+Tomato,19.07,38.76,133.71,Red Soil,6.64,15.33,30.13,52.64,High,Vegetative,High,Fruit Borer
+Tomato,26.2,37.24,47.42,Red Soil,6.01,75.91,55.31,73.77,Medium,Fruiting,Low,Leaf Miner
+Paddy,29.51,79.09,91.41,Black Soil,6.77,91.9,24.93,67.7,Medium,Fruiting,Medium,Stem Borer
+Paddy,28.92,75.61,62.51,Clay,5.28,53.41,42.8,55.59,Medium,Fruiting,High,Brown Planthopper
+Paddy,41.47,67.14,71.97,Sandy,5.22,94.2,12.29,50.75,High,Vegetative,High,Brown Planthopper
+Maize,29.75,47.07,182.08,Clay,5.91,44.75,72.12,67.87,Low,Flowering,Low,Aphids
+Sugarcane,22.98,57.38,38.57,Loamy,6.65,80.13,66.05,64.94,Low,Germination,Low,Whitefly
+Tomato,27.52,64.06,137.51,Clay,5.24,10.0,35.55,63.22,High,Maturity,High,Fruit Borer
+Tomato,19.12,44.06,187.15,Loamy,6.6,110.2,50.24,109.23,Low,Vegetative,Low,Leaf Miner
+Maize,27.6,56.91,123.25,Loamy,5.7,75.03,45.77,73.8,High,Flowering,High,Fall Armyworm
+Tomato,23.83,77.78,74.74,Sandy,5.81,27.16,32.75,108.1,Medium,Maturity,Medium,Whitefly
+Paddy,32.58,89.41,44.62,Black Soil,7.54,93.86,47.46,58.26,Medium,Flowering,High,Brown Planthopper
+Sugarcane,25.25,61.71,49.96,Clay,6.53,123.96,36.14,58.79,Medium,Fruiting,Low,Whitefly
+Groundnut,27.42,79.35,92.78,Loamy,5.78,47.21,64.61,47.36,High,Germination,Medium,Aphids
+Tomato,24.82,39.29,87.3,Clay,6.65,68.69,40.78,67.55,Low,Germination,Medium,Leaf Miner
+Paddy,36.69,77.89,149.22,Black Soil,5.32,59.56,92.81,51.86,High,Maturity,High,Brown Planthopper
+Groundnut,26.39,55.94,22.4,Black Soil,6.81,51.89,43.44,48.3,High,Vegetative,Low,Thrips
+Sugarcane,37.16,72.61,180.59,Red Soil,7.39,48.73,47.26,12.49,Low,Flowering,High,Early Shoot Borer
+Groundnut,32.07,64.28,300.0,Black Soil,7.03,55.61,55.56,96.65,Low,Maturity,High,Leaf Miner
+Paddy,30.41,87.81,80.14,Sandy,8.23,57.23,61.74,50.42,Low,Vegetative,High,Brown Planthopper
+Groundnut,29.84,54.88,71.19,Loamy,4.95,64.31,46.56,96.87,Low,Maturity,Medium,Thrips
+Maize,29.97,77.41,76.41,Red Soil,6.6,62.13,55.13,57.59,Low,Flowering,Medium,Stem Borer
+Groundnut,18.36,63.81,90.47,Sandy,5.43,97.84,48.66,76.11,Medium,Germination,Medium,Thrips
+Tomato,26.61,65.63,66.99,Clay,6.36,95.16,29.43,61.86,Medium,Fruiting,Medium,Leaf Miner
+Tomato,32.23,65.24,12.36,Loamy,6.5,28.99,24.04,70.37,High,Fruiting,Medium,Leaf Miner
+Maize,27.76,55.31,75.15,Black Soil,8.32,57.19,58.98,34.77,Medium,Vegetative,High,Fall Armyworm
+Paddy,20.97,67.79,94.45,Loamy,6.45,112.52,75.34,89.56,Medium,Vegetative,High,Brown Planthopper
+Tomato,27.74,67.06,193.46,Clay,6.44,83.82,12.38,50.83,Medium,Fruiting,High,Fruit Borer
+Sugarcane,36.52,71.62,38.13,Red Soil,7.3,85.03,16.31,83.14,High,Vegetative,High,Early Shoot Borer
+Tomato,34.23,69.27,244.47,Red Soil,6.46,82.17,16.12,23.48,Medium,Maturity,High,Fruit Borer
+Tomato,27.69,79.97,63.49,Red Soil,7.96,67.15,60.5,41.14,Medium,Germination,Low,Whitefly
+Paddy,32.76,81.85,42.2,Black Soil,7.04,73.77,62.17,69.29,High,Fruiting,Medium,Stem Borer
+Groundnut,26.17,52.24,133.73,Sandy,7.16,62.88,25.47,55.91,Medium,Vegetative,Low,Thrips
+Tomato,19.48,81.03,57.91,Sandy,5.01,100.67,89.12,71.42,Low,Flowering,Medium,Whitefly
+Maize,23.38,50.2,81.29,Loamy,8.09,63.16,37.3,65.19,Medium,Vegetative,Low,Aphids
+Groundnut,35.81,76.82,85.43,Black Soil,5.97,71.61,73.71,105.7,High,Flowering,High,Leaf Miner
+Sugarcane,26.63,77.3,128.58,Red Soil,6.49,97.06,61.17,73.51,Low,Flowering,Medium,Top Borer
+Paddy,26.78,39.33,79.51,Red Soil,5.98,65.17,25.84,49.18,Medium,Flowering,Low,Leaf Folder
+Sugarcane,26.5,69.39,73.16,Clay,5.68,72.88,36.64,50.17,Medium,Flowering,Low,Whitefly
+Groundnut,37.52,60.97,62.21,Clay,5.54,64.25,27.55,90.1,High,Vegetative,High,Leaf Miner
+Groundnut,36.13,56.62,119.9,Red Soil,6.58,72.32,18.11,21.79,Medium,Germination,High,Leaf Miner
+Groundnut,39.09,88.26,55.54,Red Soil,4.92,65.27,39.94,73.98,Medium,Flowering,High,Leaf Miner
+Sugarcane,27.2,58.19,197.67,Black Soil,6.31,58.92,21.03,32.11,Medium,Maturity,High,Early Shoot Borer
+Groundnut,29.48,55.9,86.12,Sandy,7.35,53.76,41.5,87.73,Medium,Germination,Low,Thrips
+Sugarcane,20.42,69.14,17.24,Clay,7.01,69.83,83.66,49.19,Medium,Germination,Low,Whitefly
+Groundnut,35.38,78.28,104.52,Sandy,6.85,105.55,58.93,73.16,Medium,Flowering,Medium,Aphids
+Maize,22.16,65.88,116.78,Black Soil,5.78,93.71,33.86,60.93,High,Germination,Medium,Aphids
+Groundnut,29.08,85.5,199.13,Red Soil,5.23,27.62,32.23,25.33,High,Maturity,High,Leaf Miner
+Sugarcane,22.51,75.96,46.32,Sandy,7.33,62.13,36.98,76.01,High,Vegetative,Low,Top Borer
+Tomato,25.06,35.33,40.81,Red Soil,6.14,55.85,86.42,41.98,Medium,Vegetative,Low,Leaf Miner
+Groundnut,23.81,60.06,131.5,Red Soil,6.43,28.13,23.23,80.05,High,Vegetative,Medium,Thrips
+Tomato,24.96,59.57,178.19,Loamy,6.34,83.26,44.96,34.95,Low,Maturity,Medium,Leaf Miner
+Maize,25.3,75.19,44.79,Sandy,7.04,72.12,54.31,66.05,Medium,Germination,Medium,Stem Borer
+Paddy,25.26,28.63,101.87,Sandy,7.97,135.69,69.31,60.98,Medium,Vegetative,Medium,Leaf Folder
+Maize,32.17,98.0,80.53,Red Soil,7.67,64.98,38.35,44.94,High,Maturity,High,Fall Armyworm
+Groundnut,22.48,75.97,46.12,Black Soil,4.63,51.71,25.75,94.49,Medium,Germination,Medium,Aphids
+Tomato,29.1,70.23,77.07,Loamy,6.25,48.81,50.79,60.84,High,Flowering,Medium,Whitefly
+Tomato,34.09,85.72,169.95,Red Soil,5.42,61.45,71.29,49.46,High,Maturity,High,Fruit Borer
+Sugarcane,25.43,98.0,86.39,Clay,7.25,92.71,39.54,67.47,Medium,Germination,High,Early Shoot Borer
+Tomato,24.41,81.06,74.06,Clay,6.5,96.15,28.21,23.61,High,Vegetative,Medium,Whitefly
+Sugarcane,26.85,82.23,126.85,Loamy,6.98,160.0,47.2,121.29,Low,Fruiting,High,Early Shoot Borer
+Paddy,33.9,69.96,180.16,Black Soil,6.18,38.8,12.53,32.86,Low,Maturity,High,Brown Planthopper
+Groundnut,28.97,65.88,37.55,Red Soil,5.67,77.59,40.63,73.79,High,Germination,Medium,Thrips
+Sugarcane,25.34,60.86,104.85,Sandy,5.81,54.47,68.56,61.53,Medium,Maturity,Medium,Whitefly
+Paddy,30.42,55.61,63.81,Loamy,5.27,85.51,62.5,89.51,Medium,Flowering,Low,Leaf Folder
+Tomato,22.49,57.69,86.67,Black Soil,5.49,116.49,42.12,64.45,Medium,Fruiting,Low,Leaf Miner
+Tomato,31.41,47.74,133.7,Sandy,5.32,100.86,78.19,44.04,Low,Fruiting,High,Fruit Borer
+Paddy,30.04,66.86,67.77,Clay,5.67,38.77,83.2,13.55,Medium,Germination,Low,Leaf Folder
+Tomato,26.46,42.73,79.06,Clay,5.63,95.54,58.28,15.5,Medium,Vegetative,Low,Leaf Miner
+Paddy,23.81,70.86,160.86,Sandy,6.82,11.6,15.64,54.05,Low,Fruiting,High,Brown Planthopper
+Sugarcane,23.57,67.46,114.83,Loamy,6.78,10.0,7.4,94.26,Low,Flowering,High,Early Shoot Borer
+Sugarcane,30.67,70.2,77.75,Clay,6.81,67.53,72.67,18.2,Medium,Flowering,Medium,Top Borer
+Paddy,34.14,60.17,92.88,Red Soil,7.44,93.32,49.89,106.23,Medium,Germination,Low,Leaf Folder
+Sugarcane,24.81,98.0,88.06,Sandy,6.44,85.45,77.71,87.17,Low,Flowering,High,Early Shoot Borer
+Sugarcane,30.29,88.4,15.93,Sandy,5.88,132.17,18.23,26.28,Medium,Germination,Medium,Top Borer
+Sugarcane,17.56,49.33,94.02,Clay,8.27,78.28,41.78,32.87,High,Germination,Medium,Whitefly
+Maize,25.08,71.49,27.6,Loamy,7.22,71.79,65.58,35.39,Medium,Flowering,Medium,Stem Borer
+Groundnut,27.84,58.88,176.87,Red Soil,6.62,109.66,30.4,67.48,High,Flowering,High,Leaf Miner
+Tomato,23.45,52.78,27.0,Loamy,6.57,63.78,65.3,58.59,High,Germination,Low,Leaf Miner
+Maize,23.32,47.9,61.38,Black Soil,6.73,86.66,42.54,57.66,Low,Vegetative,Low,Aphids
+Sugarcane,24.66,74.48,52.63,Black Soil,6.34,88.47,45.56,47.38,Low,Germination,Medium,Top Borer
+Paddy,29.46,57.78,220.48,Clay,6.6,45.85,21.33,64.45,Medium,Vegetative,High,Brown Planthopper
+Sugarcane,27.06,82.52,172.07,Clay,6.9,86.62,50.03,80.93,Medium,Maturity,High,Early Shoot Borer
+Groundnut,16.81,82.91,7.4,Clay,5.92,140.55,88.86,56.8,Medium,Germination,Medium,Aphids
+Sugarcane,17.4,88.61,83.26,Black Soil,5.19,109.1,52.76,43.43,Medium,Vegetative,Medium,Top Borer
+Paddy,24.97,55.21,32.22,Loamy,4.84,49.82,29.17,84.8,Medium,Vegetative,Low,Leaf Folder
+Groundnut,30.29,75.13,94.27,Loamy,7.21,145.16,72.91,54.47,Low,Germination,Medium,Aphids
+Sugarcane,15.0,77.49,131.65,Clay,5.23,95.68,29.77,73.8,High,Flowering,High,Early Shoot Borer
+Groundnut,25.5,60.89,99.99,Red Soil,6.87,87.73,79.42,57.5,Low,Flowering,Medium,Thrips
+Tomato,25.37,56.42,137.08,Loamy,5.58,72.08,19.5,87.13,High,Maturity,Medium,Leaf Miner
+Tomato,34.94,92.14,69.17,Black Soil,5.59,95.48,50.45,90.83,Low,Germination,High,Fruit Borer
+Sugarcane,26.07,71.41,102.25,Sandy,5.93,78.35,75.53,89.96,Low,Fruiting,Medium,Top Borer
+Groundnut,29.91,77.54,133.81,Sandy,6.66,75.59,27.66,46.2,Low,Fruiting,Medium,Aphids
+Paddy,28.71,55.67,59.57,Sandy,5.47,71.01,46.66,45.95,High,Germination,High,Brown Planthopper
+Sugarcane,17.35,49.71,41.68,Red Soil,6.01,104.21,68.15,81.84,Low,Germination,Low,Whitefly
+Tomato,31.84,59.46,50.34,Clay,6.48,100.89,5.0,58.39,Medium,Flowering,Low,Leaf Miner
+Tomato,29.08,66.14,76.97,Black Soil,5.53,70.52,63.54,59.14,High,Fruiting,Medium,Leaf Miner
+Sugarcane,30.54,52.04,84.93,Red Soil,7.64,29.43,43.24,42.63,Medium,Vegetative,Low,Whitefly
+Groundnut,42.0,67.85,106.42,Black Soil,5.12,76.08,73.84,95.24,Medium,Fruiting,High,Leaf Miner
+Tomato,17.58,42.67,46.35,Black Soil,6.33,53.46,28.45,86.01,High,Germination,Low,Leaf Miner
+Groundnut,36.62,51.2,136.43,Clay,7.52,60.79,17.26,57.03,High,Flowering,Medium,Thrips
+Tomato,26.56,78.06,252.91,Sandy,5.44,71.25,34.14,43.87,Medium,Maturity,High,Fruit Borer
+Tomato,29.44,77.06,52.95,Clay,6.41,43.19,33.72,42.76,Medium,Fruiting,Low,Whitefly
+Maize,27.77,62.12,300.0,Red Soil,6.61,26.69,40.87,63.33,High,Maturity,High,Fall Armyworm
+Tomato,25.88,52.73,274.5,Red Soil,5.85,83.76,35.63,69.67,High,Maturity,High,Fruit Borer
+Paddy,25.15,52.59,84.73,Red Soil,6.44,75.8,5.0,38.44,Medium,Vegetative,Low,Leaf Folder
+Sugarcane,29.65,62.4,75.27,Clay,6.95,74.66,43.1,28.88,High,Flowering,Medium,Whitefly
+Sugarcane,20.41,77.67,49.75,Black Soil,6.13,90.32,49.64,61.99,Medium,Vegetative,Low,Top Borer
+Groundnut,31.75,81.92,150.01,Black Soil,7.11,55.21,41.14,81.62,Medium,Flowering,High,Leaf Miner
+Tomato,25.92,60.55,88.92,Loamy,6.81,84.97,50.74,61.85,Low,Vegetative,High,Fruit Borer
+Paddy,22.35,50.7,95.76,Red Soil,6.03,115.12,46.7,53.77,Low,Maturity,Medium,Leaf Folder
+Groundnut,25.75,72.02,42.44,Black Soil,7.4,67.36,17.36,31.75,Medium,Germination,Low,Aphids
+Maize,34.29,55.65,152.83,Loamy,5.91,131.98,38.98,44.15,Medium,Fruiting,Low,Aphids
+Groundnut,25.32,60.23,70.87,Black Soil,7.18,76.5,47.28,81.96,Low,Maturity,Low,Thrips
+Groundnut,29.79,87.88,34.41,Red Soil,5.92,49.43,40.26,28.67,Medium,Germination,Medium,Aphids
+Tomato,24.35,80.41,79.93,Sandy,6.25,100.49,15.14,104.32,Medium,Flowering,Medium,Whitefly
+Maize,31.79,70.37,44.79,Red Soil,6.37,71.62,69.46,62.13,High,Flowering,Medium,Stem Borer
+Groundnut,31.43,48.92,199.31,Clay,6.77,106.58,25.56,20.34,High,Maturity,High,Leaf Miner
+Paddy,37.24,71.17,272.24,Black Soil,4.57,87.4,20.16,72.58,Medium,Maturity,High,Brown Planthopper
+Paddy,27.12,83.94,81.62,Black Soil,6.87,65.17,45.82,71.26,High,Vegetative,High,Brown Planthopper
+Sugarcane,31.34,62.37,168.96,Clay,6.42,120.63,38.68,49.06,Medium,Fruiting,Medium,Whitefly
+Maize,28.49,88.27,166.24,Clay,6.73,60.02,57.03,83.48,Medium,Germination,High,Fall Armyworm
+Maize,34.48,87.39,1.83,Sandy,6.9,10.03,62.45,44.5,High,Fruiting,Medium,Stem Borer
+Sugarcane,24.41,92.96,50.4,Black Soil,6.82,101.42,59.41,75.8,Medium,Maturity,Medium,Top Borer
+Groundnut,31.73,72.58,91.74,Black Soil,4.89,85.5,44.96,59.13,Medium,Vegetative,Low,Aphids
+Maize,27.03,76.81,60.78,Sandy,5.65,113.51,56.07,52.91,Medium,Fruiting,Low,Stem Borer
+Paddy,27.68,89.21,47.24,Loamy,6.77,48.55,13.8,93.57,Medium,Vegetative,High,Brown Planthopper
+Paddy,28.46,74.71,173.54,Sandy,6.66,67.59,66.89,84.59,Medium,Fruiting,Medium,Stem Borer
+Tomato,29.26,60.48,58.93,Red Soil,5.87,64.2,36.9,32.31,High,Vegetative,Medium,Leaf Miner
+Maize,27.42,61.27,106.61,Black Soil,7.09,103.01,84.4,69.51,Medium,Fruiting,Medium,Aphids
+Groundnut,29.07,71.58,163.77,Clay,6.29,94.53,67.5,107.34,High,Flowering,High,Leaf Miner
+Sugarcane,35.89,48.64,206.87,Red Soil,7.21,81.44,41.05,94.22,High,Maturity,High,Early Shoot Borer
+Sugarcane,32.93,65.85,34.56,Black Soil,7.47,81.64,45.43,37.27,Medium,Vegetative,Low,Whitefly
+Groundnut,32.35,84.45,37.28,Sandy,6.72,40.47,68.68,99.9,Medium,Vegetative,Medium,Aphids
+Tomato,25.72,35.13,98.53,Red Soil,6.94,98.06,5.0,83.25,Medium,Germination,Low,Leaf Miner
+Sugarcane,23.55,91.02,12.16,Black Soil,6.01,98.67,41.8,33.79,Medium,Vegetative,Medium,Top Borer
+Maize,32.78,84.84,38.88,Loamy,7.21,143.73,79.03,65.19,Low,Germination,Medium,Stem Borer
+Tomato,32.38,61.1,185.98,Loamy,6.67,89.12,61.9,71.94,High,Maturity,High,Fruit Borer
+Maize,35.36,76.15,129.43,Clay,6.26,93.97,28.25,33.08,High,Maturity,High,Fall Armyworm
+Paddy,24.98,68.05,76.97,Black Soil,5.52,89.33,51.29,77.65,Medium,Germination,Low,Leaf Folder
+Tomato,26.85,86.45,116.69,Loamy,6.11,54.1,25.47,120.74,Medium,Flowering,High,Fruit Borer
+Sugarcane,19.8,82.74,135.45,Sandy,5.61,112.48,38.17,94.13,Low,Flowering,Medium,Top Borer
+Tomato,26.04,47.0,24.63,Black Soil,7.11,73.33,51.68,64.05,Medium,Germination,Low,Leaf Miner
+Tomato,32.98,76.81,58.11,Sandy,7.48,69.21,55.2,52.97,High,Germination,Medium,Whitefly
+Tomato,25.67,64.92,202.32,Sandy,7.23,70.96,59.59,68.21,High,Maturity,High,Fruit Borer
+Tomato,31.2,69.24,99.76,Loamy,8.49,73.02,69.68,35.62,Medium,Maturity,Medium,Leaf Miner
+Maize,27.05,57.08,103.93,Black Soil,6.13,60.41,21.13,48.06,Medium,Germination,Low,Aphids
+Paddy,29.62,94.22,81.77,Red Soil,6.98,81.46,45.48,10.96,Medium,Flowering,Medium,Stem Borer
+Groundnut,22.26,83.6,16.05,Loamy,5.55,72.1,27.99,70.86,Medium,Germination,Medium,Aphids
+Tomato,28.43,56.9,52.26,Loamy,6.34,69.55,37.02,51.56,Low,Germination,Low,Leaf Miner
+Sugarcane,15.0,47.98,111.96,Black Soil,5.32,89.69,29.91,75.45,Medium,Germination,High,Early Shoot Borer
+Tomato,27.07,62.21,59.2,Black Soil,6.95,77.27,54.99,62.99,Medium,Maturity,Low,Leaf Miner
+Sugarcane,19.85,74.52,35.67,Sandy,6.22,58.38,66.06,34.73,Low,Fruiting,Medium,Top Borer
+Maize,34.03,71.6,39.91,Black Soil,4.86,52.09,67.14,65.01,Low,Germination,High,Fall Armyworm
+Sugarcane,31.89,86.8,204.98,Sandy,5.95,77.95,22.9,42.16,Low,Maturity,High,Early Shoot Borer
+Groundnut,30.33,79.85,56.72,Loamy,7.93,52.6,42.53,101.39,Medium,Vegetative,Medium,Aphids
+Paddy,35.61,82.54,179.32,Clay,6.83,50.44,22.34,38.91,Medium,Maturity,High,Brown Planthopper
+Sugarcane,23.26,72.9,104.26,Red Soil,7.12,50.87,21.68,48.25,Medium,Vegetative,Medium,Top Borer
+Sugarcane,36.74,47.16,70.58,Loamy,6.6,82.65,31.77,34.66,Medium,Vegetative,Low,Whitefly
+Paddy,32.66,65.06,45.42,Black Soil,6.35,110.81,51.87,32.49,High,Vegetative,Low,Leaf Folder
+Groundnut,26.82,83.9,131.77,Red Soil,6.51,85.43,55.38,60.75,Low,Fruiting,Medium,Aphids
+Tomato,33.68,67.23,165.35,Clay,6.7,101.6,58.08,28.86,Medium,Maturity,Medium,Leaf Miner
+Sugarcane,22.47,75.55,140.29,Clay,5.62,72.91,56.85,55.3,High,Flowering,High,Early Shoot Borer
+Paddy,23.88,63.22,27.15,Sandy,7.11,79.27,28.04,70.75,Medium,Germination,Low,Leaf Folder
+Maize,24.96,52.55,56.6,Red Soil,7.4,124.59,68.66,49.41,Medium,Vegetative,Low,Aphids
+Paddy,25.36,66.15,62.06,Sandy,6.34,99.86,61.07,5.0,Medium,Flowering,Low,Leaf Folder
+Maize,22.72,72.64,12.81,Loamy,6.08,103.11,36.75,93.35,Low,Germination,Low,Stem Borer
+Groundnut,34.12,58.16,115.9,Red Soil,5.91,67.07,37.5,66.66,Medium,Vegetative,Medium,Thrips
+Tomato,26.71,64.46,127.29,Loamy,7.91,74.84,31.85,66.96,Medium,Flowering,Medium,Leaf Miner
+Paddy,29.76,53.91,124.34,Sandy,6.14,87.17,19.16,54.2,Low,Germination,Medium,Leaf Folder
+Sugarcane,25.15,84.79,110.85,Red Soil,7.02,56.81,58.32,80.27,Medium,Vegetative,Medium,Top Borer
+Groundnut,18.9,63.58,66.21,Sandy,6.35,10.0,61.44,83.45,High,Germination,Medium,Thrips
+Paddy,29.35,89.79,43.95,Red Soil,6.31,86.89,26.48,85.95,Low,Vegetative,Medium,Stem Borer
+Sugarcane,18.44,90.93,66.03,Sandy,5.89,103.84,20.36,66.72,Medium,Germination,Medium,Top Borer
+Paddy,27.66,66.78,104.85,Clay,5.72,76.66,26.27,25.6,Medium,Fruiting,Medium,Leaf Folder
+Maize,21.16,52.87,190.13,Sandy,7.09,57.12,47.2,70.13,High,Flowering,High,Fall Armyworm
+Paddy,37.94,36.71,88.89,Clay,5.71,65.08,17.36,66.69,High,Vegetative,Low,Leaf Folder
+Paddy,32.56,45.92,86.74,Sandy,6.87,14.15,67.56,46.28,High,Germination,High,Brown Planthopper
+Paddy,28.53,47.39,14.14,Red Soil,6.57,65.0,66.36,39.95,Medium,Flowering,Low,Leaf Folder
+Groundnut,34.32,88.68,109.7,Red Soil,7.1,41.55,53.49,73.58,Low,Vegetative,High,Leaf Miner
+Paddy,23.77,69.74,199.03,Red Soil,6.01,54.01,61.19,58.1,Medium,Fruiting,High,Brown Planthopper
+Sugarcane,30.72,73.84,77.42,Black Soil,7.36,40.03,46.18,50.25,Medium,Fruiting,Low,Top Borer
+Maize,29.0,34.69,73.18,Loamy,6.39,36.57,54.3,101.81,Medium,Flowering,Low,Aphids
+Maize,29.32,50.03,62.96,Red Soil,8.5,44.88,19.0,76.79,High,Germination,Low,Aphids
+Paddy,34.36,81.31,134.76,Clay,5.21,93.98,72.81,70.86,Medium,Fruiting,High,Brown Planthopper
+Groundnut,31.66,72.3,13.41,Red Soil,8.44,59.71,35.25,90.46,Medium,Germination,Low,Aphids
+Groundnut,29.44,65.79,179.44,Black Soil,6.4,41.76,42.42,68.26,Medium,Fruiting,Medium,Thrips
+Sugarcane,19.73,76.47,70.81,Clay,6.68,97.62,94.74,42.4,Low,Germination,Medium,Top Borer
+Paddy,23.2,92.54,111.07,Black Soil,6.02,78.87,40.6,50.26,Medium,Vegetative,High,Brown Planthopper
+Maize,27.39,64.68,141.84,Clay,5.24,10.0,59.79,78.3,Medium,Flowering,High,Fall Armyworm
+Groundnut,28.47,69.04,39.49,Sandy,6.08,104.87,55.29,75.62,High,Germination,Medium,Thrips
+Paddy,22.35,70.89,82.78,Loamy,6.21,77.16,18.34,71.16,Medium,Maturity,Low,Stem Borer
+Groundnut,40.06,98.0,69.66,Loamy,6.65,98.11,25.01,31.56,High,Vegetative,High,Leaf Miner
+Groundnut,35.58,36.51,31.78,Black Soil,7.4,68.24,85.72,80.33,Medium,Germination,Low,Thrips
+Maize,31.01,78.25,164.49,Loamy,6.65,123.14,56.58,58.37,Low,Flowering,High,Fall Armyworm
+Tomato,28.36,66.28,65.48,Black Soil,6.67,63.54,44.66,75.0,Low,Vegetative,Low,Leaf Miner
+Sugarcane,26.94,76.5,30.62,Black Soil,6.81,10.0,34.29,39.25,Low,Vegetative,Low,Top Borer
+Sugarcane,23.24,58.14,86.47,Black Soil,5.1,48.32,51.4,109.15,Medium,Flowering,Medium,Whitefly
+Maize,28.39,67.27,23.37,Loamy,5.17,90.06,53.3,66.19,Low,Flowering,Medium,Aphids
+Groundnut,29.29,78.67,59.21,Black Soil,5.3,79.77,49.53,49.56,Medium,Germination,Medium,Aphids
+Paddy,21.79,98.0,103.4,Loamy,6.2,71.32,66.38,76.15,High,Maturity,High,Brown Planthopper
+Groundnut,29.67,80.12,21.07,Black Soil,5.0,45.41,27.66,81.45,Medium,Germination,Low,Aphids
+Maize,27.22,55.28,129.06,Red Soil,5.95,75.55,24.99,75.85,High,Fruiting,Medium,Aphids
+Sugarcane,18.46,61.64,89.73,Black Soil,5.41,74.57,65.86,35.13,Low,Maturity,Medium,Whitefly
+Groundnut,23.7,61.2,142.38,Clay,6.89,74.26,87.25,88.57,Medium,Vegetative,Low,Thrips
+Sugarcane,25.93,41.07,141.33,Black Soil,6.85,91.13,61.85,51.38,Medium,Vegetative,Low,Whitefly
+Paddy,37.44,63.05,57.62,Sandy,6.26,80.45,70.96,59.6,High,Germination,Medium,Leaf Folder
+Sugarcane,30.78,78.99,58.87,Black Soil,4.98,67.43,43.5,5.0,Low,Vegetative,Medium,Top Borer
+Sugarcane,21.32,48.89,116.74,Clay,6.31,44.92,50.32,48.4,Medium,Maturity,Medium,Whitefly
+Tomato,30.43,83.73,34.37,Clay,6.76,115.8,50.05,48.24,Medium,Germination,Medium,Whitefly
+Tomato,20.26,75.32,34.57,Loamy,7.15,134.45,43.89,71.27,Medium,Germination,Medium,Whitefly
+Tomato,33.41,56.99,51.5,Red Soil,7.9,127.33,73.23,46.88,High,Fruiting,Medium,Leaf Miner
+Sugarcane,25.64,65.88,25.39,Black Soil,7.39,95.97,67.32,19.46,Low,Flowering,Medium,Whitefly
+Maize,27.53,91.97,30.3,Loamy,6.63,24.75,37.02,66.1,Medium,Germination,Medium,Stem Borer
+Sugarcane,34.63,79.0,31.22,Red Soil,6.27,21.08,12.09,53.74,High,Vegetative,Medium,Top Borer
+Maize,21.56,68.13,65.66,Black Soil,5.91,58.55,43.73,41.79,Medium,Fruiting,Medium,Aphids
+Maize,21.01,64.43,63.38,Sandy,7.58,73.36,21.91,62.19,Medium,Maturity,Medium,Aphids
+Tomato,25.08,69.15,156.82,Black Soil,6.63,72.13,45.47,15.51,Low,Maturity,Medium,Leaf Miner
+Groundnut,33.19,60.32,66.56,Clay,7.0,80.81,23.48,75.51,High,Maturity,Medium,Thrips
+Paddy,20.4,36.43,78.27,Clay,6.03,33.23,70.13,55.43,High,Vegetative,Low,Leaf Folder
+Tomato,15.0,98.0,241.61,Sandy,5.51,123.22,58.69,53.32,Medium,Maturity,High,Fruit Borer
+Tomato,25.74,70.33,7.76,Loamy,6.18,120.16,58.2,83.82,High,Germination,Low,Whitefly
+Groundnut,30.76,73.97,96.6,Red Soil,6.26,35.66,66.44,46.6,Medium,Germination,Low,Aphids
+Paddy,34.0,67.13,70.89,Black Soil,6.65,19.15,52.82,66.47,Low,Flowering,High,Brown Planthopper
+Sugarcane,25.68,56.97,103.51,Clay,5.91,72.31,55.94,56.76,Low,Maturity,Medium,Whitefly
+Sugarcane,25.94,65.21,54.12,Loamy,6.52,112.86,73.69,130.0,Medium,Flowering,Low,Whitefly
+Tomato,33.77,44.01,66.24,Sandy,7.44,74.03,42.31,72.21,Medium,Vegetative,Low,Leaf Miner
+Paddy,18.65,98.0,184.47,Clay,5.16,82.8,57.1,31.46,High,Maturity,High,Brown Planthopper
+Tomato,26.06,49.48,115.66,Sandy,4.81,61.81,23.94,103.81,Medium,Fruiting,Medium,Leaf Miner
+Maize,28.95,52.52,68.77,Black Soil,7.5,79.39,46.59,86.07,High,Flowering,Medium,Aphids
+Tomato,30.25,61.4,44.83,Red Soil,5.33,103.33,90.19,61.12,Medium,Vegetative,High,Fruit Borer
+Tomato,25.45,87.32,34.26,Clay,6.2,87.36,61.3,49.07,Medium,Germination,Low,Whitefly
+Sugarcane,28.17,68.22,56.84,Clay,6.99,92.27,43.28,26.84,Medium,Vegetative,Low,Whitefly
+Sugarcane,15.56,49.46,73.43,Black Soil,6.45,25.1,50.29,70.76,Medium,Vegetative,Medium,Whitefly
+Sugarcane,24.71,86.82,241.04,Loamy,6.44,139.15,44.58,43.12,High,Maturity,High,Early Shoot Borer
+Maize,30.27,78.97,91.72,Red Soil,6.56,25.46,49.63,38.0,Low,Fruiting,Medium,Stem Borer
+Sugarcane,23.09,76.08,49.29,Clay,8.5,79.69,37.02,79.39,High,Vegetative,Medium,Top Borer
+Paddy,28.29,78.74,7.81,Red Soil,7.92,70.49,54.9,98.62,High,Vegetative,Medium,Stem Borer
+Groundnut,30.23,98.0,43.78,Clay,5.95,71.79,55.61,48.09,Medium,Flowering,Medium,Aphids
+Paddy,26.29,98.0,56.9,Red Soil,7.34,101.09,45.13,80.15,Medium,Maturity,High,Brown Planthopper
+Paddy,28.85,57.7,98.07,Sandy,6.9,53.77,47.8,65.31,Low,Germination,Medium,Leaf Folder
+Sugarcane,23.19,92.36,58.54,Clay,6.48,62.02,51.82,68.97,Medium,Fruiting,Medium,Top Borer
+Groundnut,26.97,73.75,248.21,Red Soil,5.77,40.6,34.46,39.53,Low,Maturity,High,Leaf Miner
+Groundnut,31.05,75.49,69.69,Loamy,6.86,108.66,54.71,54.69,Medium,Vegetative,Low,Aphids
+Groundnut,28.78,42.62,160.32,Sandy,6.26,82.98,60.6,32.58,Low,Vegetative,Medium,Thrips
+Maize,25.07,65.44,19.36,Sandy,6.2,94.12,74.3,29.44,Medium,Fruiting,Low,Aphids
+Sugarcane,29.12,55.81,79.58,Loamy,5.89,99.36,51.37,72.96,Medium,Flowering,Low,Whitefly
+Groundnut,31.57,80.42,44.16,Red Soil,7.3,134.74,33.89,46.89,Low,Flowering,High,Leaf Miner
+Maize,17.75,84.07,163.22,Black Soil,5.89,129.51,42.94,37.12,Medium,Vegetative,High,Fall Armyworm
+Tomato,33.8,36.88,61.56,Loamy,5.89,84.69,22.14,29.76,High,Vegetative,Low,Leaf Miner
+Tomato,26.32,67.67,187.81,Red Soil,7.12,79.74,59.55,22.16,Medium,Maturity,Medium,Leaf Miner
+Maize,30.13,84.83,127.9,Loamy,6.38,59.04,5.0,11.09,Medium,Flowering,High,Fall Armyworm
+Maize,33.99,65.2,55.49,Loamy,6.41,97.32,65.49,62.77,High,Flowering,Medium,Aphids
+Sugarcane,21.14,78.94,33.7,Clay,7.33,96.21,67.91,5.0,Medium,Maturity,Medium,Top Borer
+Sugarcane,24.45,73.27,46.39,Red Soil,7.55,53.12,5.0,71.78,High,Flowering,Medium,Top Borer
+Tomato,26.56,73.12,66.3,Black Soil,4.8,96.59,70.51,71.61,Low,Vegetative,Low,Whitefly
+Groundnut,24.08,63.93,127.35,Clay,6.4,105.25,65.55,57.52,High,Flowering,High,Leaf Miner
+Tomato,36.67,49.75,81.57,Loamy,5.37,41.35,39.2,61.85,Medium,Germination,Medium,Leaf Miner
+Groundnut,23.72,51.18,142.96,Loamy,6.19,80.7,21.16,52.87,High,Flowering,Medium,Thrips
+Groundnut,25.22,78.64,197.25,Loamy,6.49,73.03,28.24,65.63,Medium,Fruiting,High,Leaf Miner
+Sugarcane,29.02,68.29,84.73,Red Soil,6.22,74.84,29.83,65.34,High,Flowering,High,Early Shoot Borer
+Paddy,21.99,65.92,36.98,Red Soil,5.68,46.42,71.32,92.54,High,Flowering,Low,Leaf Folder
+Paddy,26.02,61.64,106.84,Clay,5.64,20.2,36.02,98.32,Low,Flowering,High,Brown Planthopper
+Maize,29.59,63.42,265.61,Black Soil,7.08,52.34,63.11,97.55,High,Maturity,High,Fall Armyworm
+Sugarcane,26.34,83.7,148.31,Clay,7.73,48.14,42.52,40.06,Low,Fruiting,High,Early Shoot Borer
+Groundnut,27.53,62.97,101.32,Sandy,4.85,85.6,46.1,78.94,Low,Maturity,Medium,Thrips
+Paddy,25.35,47.88,41.14,Loamy,6.24,86.09,13.57,72.65,Medium,Germination,Low,Leaf Folder
+Groundnut,20.43,79.15,71.54,Loamy,7.09,84.38,22.06,43.78,High,Flowering,Medium,Aphids
+Paddy,29.61,64.93,20.61,Loamy,6.47,33.1,70.86,37.84,Medium,Germination,Low,Leaf Folder
+Paddy,36.77,68.47,31.96,Clay,5.61,41.41,41.89,50.58,Medium,Germination,Medium,Leaf Folder
+Paddy,28.09,92.11,108.35,Clay,6.12,56.5,51.01,33.48,Medium,Vegetative,Medium,Stem Borer
+Sugarcane,29.13,67.69,16.4,Loamy,6.74,75.69,81.13,25.27,High,Germination,Low,Whitefly
+Tomato,31.46,72.34,63.84,Clay,6.25,64.95,42.45,72.43,High,Germination,High,Fruit Borer
+Groundnut,21.65,50.32,28.95,Red Soil,6.46,84.32,41.32,60.82,Low,Germination,Low,Thrips
+Sugarcane,36.51,64.7,33.37,Red Soil,6.48,104.26,69.12,60.69,Medium,Vegetative,Low,Whitefly
+Sugarcane,29.01,77.14,85.85,Clay,6.08,45.02,45.25,83.17,Low,Fruiting,High,Early Shoot Borer
+Sugarcane,36.16,44.67,46.44,Loamy,7.15,46.16,51.4,55.1,Medium,Germination,Medium,Whitefly
+Sugarcane,24.33,71.01,24.0,Clay,6.12,79.06,64.94,80.76,Low,Germination,Low,Top Borer
+Sugarcane,37.09,69.51,53.97,Clay,5.7,72.54,45.0,41.53,Medium,Vegetative,Medium,Whitefly
+Maize,31.88,68.62,23.22,Clay,8.28,97.3,60.75,41.37,High,Flowering,Medium,Aphids
+Groundnut,30.77,83.56,180.38,Sandy,6.44,75.23,42.68,60.35,Medium,Maturity,High,Leaf Miner
+Sugarcane,29.17,73.02,132.06,Red Soil,4.5,127.22,64.62,113.03,Medium,Vegetative,High,Early Shoot Borer
+Groundnut,26.76,90.17,131.67,Black Soil,7.5,27.36,53.43,92.14,Medium,Flowering,High,Leaf Miner
+Maize,34.0,53.1,42.89,Black Soil,7.5,100.21,40.49,87.45,Low,Germination,Low,Aphids
+Maize,28.7,70.04,110.8,Sandy,6.87,80.98,46.48,25.7,Medium,Vegetative,Medium,Stem Borer
+Groundnut,18.16,69.27,94.87,Clay,7.01,32.91,5.0,63.63,Medium,Vegetative,Medium,Thrips
+Paddy,22.41,51.96,45.59,Sandy,8.23,12.96,68.88,80.53,High,Vegetative,Medium,Leaf Folder
+Tomato,27.07,82.34,77.88,Sandy,5.73,41.25,19.91,112.13,Medium,Vegetative,High,Fruit Borer
+Paddy,29.55,98.0,19.66,Loamy,6.61,111.27,23.62,17.91,Medium,Vegetative,Medium,Stem Borer
+Paddy,27.72,67.74,34.48,Red Soil,8.08,107.86,36.24,78.27,High,Germination,Medium,Leaf Folder
+Paddy,34.09,75.58,76.32,Black Soil,8.25,71.14,9.14,86.61,High,Flowering,High,Brown Planthopper
+Sugarcane,18.24,69.27,56.43,Clay,6.21,64.13,54.35,71.29,High,Germination,Medium,Whitefly
+Maize,28.72,57.3,104.23,Black Soil,8.11,49.32,52.22,26.24,High,Germination,High,Fall Armyworm
+Paddy,18.91,40.69,46.59,Black Soil,7.14,69.38,35.27,66.33,High,Flowering,Low,Leaf Folder
+Maize,31.8,57.41,62.97,Red Soil,7.7,60.78,31.44,70.72,Medium,Germination,Low,Aphids
+Groundnut,27.53,47.12,81.03,Black Soil,7.12,126.3,31.13,64.44,High,Germination,Low,Thrips
+Tomato,30.1,93.56,43.49,Black Soil,6.74,37.9,57.3,42.88,Medium,Flowering,High,Fruit Borer
+Groundnut,23.68,66.27,62.15,Sandy,8.27,86.77,13.13,39.78,Medium,Vegetative,Medium,Thrips
+Groundnut,34.4,62.81,94.41,Red Soil,6.08,127.71,36.82,71.4,Medium,Flowering,Medium,Thrips
+Sugarcane,33.21,81.34,213.52,Loamy,8.02,98.24,14.41,43.09,Low,Maturity,High,Early Shoot Borer
+Tomato,30.92,51.17,43.7,Clay,8.15,41.27,60.37,43.66,Low,Germination,Low,Leaf Miner
+Groundnut,27.35,56.5,56.64,Black Soil,7.59,28.73,38.28,56.51,Low,Flowering,Low,Thrips
+Groundnut,30.9,69.02,147.35,Clay,6.44,83.23,55.93,63.99,Low,Germination,Medium,Thrips
+Tomato,24.47,83.43,171.58,Loamy,6.7,79.52,69.99,85.97,High,Fruiting,High,Fruit Borer
+Tomato,32.28,75.53,118.02,Clay,5.48,111.97,70.33,30.1,High,Flowering,High,Fruit Borer
+Groundnut,36.25,71.72,168.74,Loamy,6.14,91.45,24.56,27.63,Medium,Flowering,High,Leaf Miner
+Tomato,33.35,69.17,41.7,Sandy,7.0,60.45,51.19,50.45,High,Fruiting,Medium,Leaf Miner
+Groundnut,24.35,74.0,158.43,Black Soil,5.36,58.42,67.43,15.0,Low,Fruiting,High,Leaf Miner
+Groundnut,29.81,71.02,135.17,Loamy,6.26,35.82,58.93,74.66,High,Vegetative,High,Leaf Miner
+Sugarcane,21.53,52.55,32.98,Clay,8.06,78.88,60.91,10.16,Medium,Germination,Low,Whitefly
+Paddy,30.86,68.69,63.67,Black Soil,6.38,32.87,9.33,77.68,Low,Maturity,Medium,Leaf Folder
+Groundnut,30.25,51.89,10.21,Sandy,7.33,102.3,58.62,87.73,Low,Germination,Low,Thrips
+Maize,18.65,69.22,89.62,Black Soil,6.95,92.67,29.14,66.49,Medium,Vegetative,Low,Aphids
+Paddy,22.19,60.79,156.55,Loamy,6.25,91.72,58.29,13.57,Low,Maturity,Medium,Leaf Folder
+Paddy,26.58,98.0,54.4,Sandy,6.38,35.35,57.86,62.65,Medium,Germination,High,Brown Planthopper
+Paddy,26.5,67.4,36.4,Clay,6.63,70.5,56.8,40.08,Low,Fruiting,Low,Leaf Folder
+Sugarcane,21.95,46.94,34.26,Sandy,4.86,63.32,42.79,29.95,Low,Germination,Low,Whitefly
+Groundnut,29.94,65.99,80.16,Sandy,7.26,78.08,71.32,74.49,Medium,Flowering,Low,Thrips
+Sugarcane,29.26,75.79,117.32,Red Soil,6.41,90.86,55.21,79.17,High,Flowering,High,Early Shoot Borer
+Groundnut,27.03,93.1,216.39,Sandy,7.29,59.59,51.43,92.14,Low,Vegetative,High,Leaf Miner
+Sugarcane,24.22,59.16,9.23,Sandy,6.81,60.72,26.31,52.88,Low,Vegetative,Low,Whitefly
+Sugarcane,33.24,44.26,199.77,Black Soil,6.37,95.4,52.92,64.3,Medium,Maturity,Medium,Whitefly
+Maize,36.28,80.25,93.04,Clay,6.66,41.12,84.57,101.63,High,Germination,High,Fall Armyworm
+Sugarcane,25.58,47.29,151.75,Black Soil,6.66,52.6,17.2,112.38,Medium,Vegetative,Low,Whitefly
+Tomato,24.94,61.46,129.97,Black Soil,7.68,75.18,59.6,87.01,High,Maturity,Medium,Leaf Miner
+Maize,30.46,64.14,83.75,Loamy,6.55,101.99,62.12,51.25,Medium,Flowering,Medium,Aphids
+Sugarcane,26.21,66.96,81.49,Black Soil,6.73,45.94,79.51,60.18,Low,Flowering,Medium,Whitefly
+Paddy,27.3,78.34,106.28,Red Soil,5.49,128.69,59.51,55.55,Medium,Fruiting,Medium,Stem Borer
+Tomato,31.7,57.75,67.4,Red Soil,6.46,34.48,45.21,77.64,Medium,Flowering,Low,Leaf Miner
+Tomato,18.45,63.89,71.49,Loamy,7.66,121.51,53.45,39.51,Medium,Flowering,Medium,Leaf Miner
+Tomato,34.59,67.79,121.2,Clay,6.84,110.99,39.64,68.03,Medium,Maturity,Medium,Leaf Miner
+Maize,28.36,70.24,43.57,Clay,5.64,32.1,69.39,68.16,Low,Germination,Medium,Stem Borer
+Sugarcane,25.94,69.47,161.16,Black Soil,5.72,26.03,14.02,69.59,Medium,Fruiting,High,Early Shoot Borer
+Sugarcane,27.55,74.54,152.58,Black Soil,5.91,96.6,35.24,34.44,Medium,Maturity,Medium,Top Borer
+Paddy,27.81,80.66,56.86,Black Soil,7.3,63.68,53.92,66.18,Medium,Germination,Low,Stem Borer
+Paddy,19.34,73.89,122.01,Clay,7.2,44.79,68.42,104.23,Medium,Maturity,Medium,Stem Borer
+Tomato,35.47,74.8,111.79,Sandy,4.5,129.35,44.72,48.58,Medium,Fruiting,High,Fruit Borer
+Paddy,28.21,44.27,52.38,Red Soil,6.43,39.18,29.35,66.49,Low,Germination,Low,Leaf Folder
+Maize,30.22,68.75,128.04,Sandy,6.62,53.19,40.78,13.95,High,Flowering,Medium,Aphids
+Sugarcane,32.76,75.19,209.04,Sandy,5.73,56.75,37.66,66.32,Medium,Vegetative,High,Early Shoot Borer
+Tomato,22.89,78.93,164.73,Clay,6.19,10.0,38.58,65.41,Low,Fruiting,High,Fruit Borer
+Paddy,30.37,57.61,23.74,Sandy,7.56,77.74,36.3,62.91,High,Vegetative,Low,Leaf Folder
+Maize,26.66,58.11,114.43,Loamy,6.83,47.65,36.31,78.26,Medium,Vegetative,Low,Aphids
+Maize,32.23,59.39,147.91,Black Soil,6.1,99.32,10.68,53.02,Medium,Germination,Medium,Aphids
+Paddy,17.36,76.05,49.73,Loamy,6.35,103.24,51.0,89.41,Low,Germination,Medium,Stem Borer
+Sugarcane,27.5,83.51,161.18,Red Soil,6.32,81.95,58.49,37.92,Medium,Fruiting,High,Early Shoot Borer
+Paddy,24.99,61.89,45.33,Black Soil,6.73,82.29,74.97,96.08,Low,Vegetative,Low,Leaf Folder
+Tomato,30.16,81.62,66.89,Sandy,5.36,79.91,62.21,65.32,Medium,Germination,Medium,Whitefly
+Paddy,30.35,69.85,46.77,Red Soil,5.96,53.99,61.19,58.21,Medium,Vegetative,Low,Leaf Folder
+Maize,24.46,66.14,40.77,Black Soil,7.33,56.56,50.92,24.2,Medium,Germination,Low,Aphids
+Paddy,24.44,64.83,106.16,Sandy,6.44,114.7,9.75,32.26,Low,Fruiting,Medium,Leaf Folder
+Sugarcane,27.45,79.2,25.8,Loamy,5.82,97.06,50.6,68.77,High,Fruiting,Medium,Top Borer
+Groundnut,23.52,72.88,69.69,Black Soil,5.85,81.18,47.25,42.08,Medium,Vegetative,Medium,Aphids
+Paddy,32.21,98.0,106.2,Sandy,7.08,93.0,65.6,84.88,Medium,Maturity,High,Brown Planthopper
+Sugarcane,26.15,55.22,47.3,Loamy,6.09,73.17,56.35,67.19,High,Vegetative,Medium,Whitefly
+Sugarcane,15.0,75.77,179.28,Red Soil,6.91,80.55,42.4,24.37,Medium,Vegetative,High,Early Shoot Borer
+Maize,26.13,60.06,73.86,Red Soil,6.0,92.84,84.16,79.03,Medium,Fruiting,Low,Aphids
+Sugarcane,22.81,54.96,230.22,Red Soil,5.6,12.77,61.97,55.94,Medium,Maturity,High,Early Shoot Borer
+Sugarcane,19.84,67.84,23.15,Red Soil,6.7,102.18,51.8,58.86,Medium,Flowering,Low,Whitefly
+Sugarcane,21.81,70.06,109.06,Clay,6.42,100.03,54.11,86.11,Medium,Vegetative,Low,Top Borer
+Sugarcane,28.55,98.0,94.66,Black Soil,7.05,51.58,46.22,25.14,Medium,Germination,Medium,Top Borer
+Tomato,34.64,65.24,61.52,Black Soil,7.21,112.32,45.33,31.88,Medium,Vegetative,Low,Leaf Miner
+Tomato,29.57,51.05,84.11,Clay,6.21,10.0,5.0,68.14,Medium,Maturity,Medium,Leaf Miner
+Maize,24.97,72.1,120.19,Sandy,6.78,85.59,26.7,17.53,Low,Vegetative,Medium,Stem Borer
+Paddy,30.28,36.88,135.6,Sandy,6.19,76.2,34.18,44.82,Medium,Fruiting,Low,Leaf Folder
+Sugarcane,25.7,66.62,75.65,Red Soil,7.01,65.72,54.01,84.46,Low,Vegetative,Medium,Whitefly
+Paddy,24.53,68.24,110.02,Loamy,6.69,75.58,11.97,57.28,Medium,Fruiting,Medium,Leaf Folder
+Paddy,22.23,79.92,43.4,Sandy,6.0,92.48,34.58,25.64,Medium,Germination,Medium,Stem Borer
+Maize,19.24,82.6,137.33,Loamy,5.93,20.83,32.01,64.73,Medium,Flowering,High,Fall Armyworm
+Sugarcane,26.05,60.45,201.93,Black Soil,6.71,105.03,47.34,49.88,High,Flowering,High,Early Shoot Borer
+Sugarcane,28.79,65.74,144.29,Loamy,7.43,62.69,54.06,42.44,Low,Vegetative,Medium,Whitefly
+Groundnut,27.52,56.51,46.85,Black Soil,7.22,105.46,32.08,130.0,High,Flowering,Medium,Thrips
+Paddy,25.92,51.08,37.86,Clay,5.75,94.31,33.52,74.37,Medium,Germination,Low,Leaf Folder
+Paddy,23.27,72.65,300.0,Clay,5.83,62.07,31.39,52.91,Medium,Maturity,High,Brown Planthopper
+Tomato,31.04,48.9,193.48,Red Soil,5.95,72.62,37.2,82.46,Medium,Fruiting,Medium,Leaf Miner
+Groundnut,21.41,61.78,135.93,Sandy,6.02,74.38,43.98,52.73,High,Vegetative,High,Leaf Miner
+Tomato,31.88,53.07,210.42,Red Soil,5.05,123.19,71.3,47.05,Medium,Flowering,High,Fruit Borer
+Tomato,22.99,76.25,82.15,Black Soil,7.13,40.79,24.75,67.49,Medium,Flowering,Low,Whitefly
+Tomato,24.24,95.02,134.29,Red Soil,6.14,61.86,80.02,72.72,High,Fruiting,High,Fruit Borer
+Maize,20.67,48.48,178.07,Loamy,6.87,27.53,20.32,83.14,High,Fruiting,High,Fall Armyworm
+Maize,25.49,40.2,67.38,Black Soil,6.25,78.72,64.09,95.59,Low,Vegetative,Low,Aphids
+Tomato,32.88,66.13,114.37,Clay,6.48,56.29,35.48,89.69,High,Flowering,High,Fruit Borer
+Groundnut,30.58,68.24,165.54,Sandy,5.95,59.93,26.78,81.41,High,Fruiting,Medium,Thrips
+Paddy,32.89,71.28,35.64,Black Soil,6.48,119.54,71.34,83.98,Medium,Fruiting,Low,Stem Borer
+Groundnut,30.61,61.31,62.43,Black Soil,5.8,50.3,46.64,89.62,High,Flowering,Low,Thrips
+Sugarcane,22.48,64.99,163.15,Loamy,6.48,70.21,45.87,77.75,High,Fruiting,High,Early Shoot Borer
+Maize,26.35,73.51,96.46,Sandy,7.67,61.24,39.46,20.36,Medium,Germination,Low,Stem Borer
+Paddy,24.1,83.61,87.72,Clay,6.92,63.13,33.37,72.44,Low,Vegetative,Low,Stem Borer
+Paddy,34.65,38.67,80.49,Black Soil,6.73,158.15,41.46,94.42,Medium,Germination,Medium,Leaf Folder
+Sugarcane,22.02,62.47,174.17,Black Soil,5.44,22.95,5.0,39.93,Low,Flowering,High,Early Shoot Borer
+Sugarcane,32.47,71.21,39.0,Loamy,6.95,94.32,7.93,50.2,Medium,Germination,Medium,Top Borer
+Tomato,32.46,54.23,59.25,Red Soil,7.03,147.82,52.85,58.5,Medium,Vegetative,Medium,Leaf Miner
+Maize,37.15,93.97,25.6,Clay,6.71,107.37,68.66,64.75,Medium,Maturity,Medium,Stem Borer
+Maize,25.95,58.47,65.83,Sandy,6.67,76.41,72.27,46.12,Medium,Flowering,Low,Aphids
+Groundnut,31.56,67.38,93.19,Black Soil,6.39,39.82,25.86,61.43,High,Fruiting,Medium,Thrips
+Tomato,39.41,76.34,14.18,Black Soil,7.02,114.14,48.86,72.83,Medium,Flowering,Low,Whitefly
+Tomato,24.91,59.13,43.95,Clay,7.62,103.12,5.0,9.74,High,Vegetative,Low,Leaf Miner
+Tomato,20.32,40.3,96.36,Red Soil,6.76,29.11,37.97,61.87,Low,Vegetative,Low,Leaf Miner
+Tomato,18.6,61.57,113.15,Black Soil,5.72,65.39,61.47,50.44,High,Germination,Medium,Leaf Miner
+Maize,31.56,83.44,240.71,Clay,5.78,38.82,44.65,17.33,High,Maturity,High,Fall Armyworm
+Maize,18.58,62.95,124.71,Loamy,7.08,10.0,38.37,74.1,Medium,Flowering,High,Fall Armyworm
+Tomato,26.14,55.3,73.52,Red Soil,5.73,38.12,44.73,67.78,Medium,Germination,Low,Leaf Miner
+Groundnut,30.19,81.89,91.44,Sandy,6.66,78.16,70.66,64.12,Medium,Maturity,Medium,Aphids
+Paddy,28.93,63.04,93.66,Black Soil,6.22,92.41,40.11,75.26,High,Vegetative,Low,Leaf Folder
+Paddy,30.13,60.35,59.32,Clay,5.64,65.3,46.45,68.03,High,Maturity,Medium,Leaf Folder
+Groundnut,29.11,70.24,99.24,Loamy,7.17,116.22,75.39,41.55,Medium,Fruiting,Medium,Aphids
+Tomato,34.39,79.56,57.13,Sandy,7.07,105.88,40.43,78.07,Medium,Vegetative,Medium,Whitefly
+Maize,23.24,98.0,102.69,Clay,5.42,71.24,12.27,82.36,Low,Maturity,High,Fall Armyworm
+Paddy,24.62,80.41,80.43,Clay,6.89,67.42,72.37,32.85,Medium,Germination,Medium,Stem Borer
+Sugarcane,24.14,85.4,71.14,Sandy,6.77,86.48,65.31,82.01,High,Flowering,Medium,Top Borer
+Sugarcane,32.15,60.41,72.65,Loamy,7.17,74.46,5.0,52.91,Low,Vegetative,Low,Whitefly
+Groundnut,32.5,52.61,138.6,Loamy,6.63,32.23,42.4,75.32,High,Flowering,Medium,Thrips
+Tomato,30.26,68.93,129.97,Red Soil,7.64,66.14,44.56,63.8,High,Fruiting,Medium,Leaf Miner
+Paddy,33.92,69.61,68.46,Black Soil,6.4,94.97,72.37,55.7,High,Flowering,Medium,Leaf Folder
+Tomato,22.11,51.82,135.1,Sandy,6.28,114.44,44.71,73.48,Low,Maturity,Medium,Leaf Miner
+Paddy,36.34,65.37,79.31,Sandy,5.72,103.8,48.32,51.67,Low,Flowering,High,Brown Planthopper
+Groundnut,35.62,73.99,80.19,Sandy,5.75,85.03,48.94,87.01,Low,Flowering,High,Leaf Miner
+Groundnut,31.68,73.41,59.36,Loamy,5.68,118.72,35.68,91.12,Medium,Flowering,Medium,Aphids
+Sugarcane,36.91,75.56,224.93,Black Soil,6.67,87.72,70.94,46.32,Medium,Flowering,High,Early Shoot Borer
+Tomato,19.72,72.36,210.12,Red Soil,6.28,72.34,29.15,55.82,Low,Maturity,High,Fruit Borer
+Sugarcane,25.38,60.39,50.01,Clay,6.76,119.36,35.29,50.65,High,Flowering,Low,Whitefly
+Tomato,24.32,60.29,65.48,Clay,5.53,96.61,44.88,69.38,Medium,Germination,Low,Leaf Miner
+Sugarcane,31.61,50.02,108.15,Sandy,5.82,114.06,18.24,92.75,Low,Fruiting,Medium,Whitefly
+Maize,22.75,94.77,121.87,Black Soil,5.8,39.37,80.31,18.31,Medium,Germination,Medium,Stem Borer
+Maize,31.79,68.2,36.28,Loamy,8.24,49.19,44.98,24.54,Low,Maturity,Low,Aphids
+Maize,34.85,64.63,41.63,Black Soil,6.37,50.48,61.49,57.91,Medium,Vegetative,Low,Aphids
+Maize,31.48,54.07,122.13,Black Soil,6.45,80.45,25.85,64.65,Medium,Vegetative,Low,Aphids
+Paddy,29.42,98.0,23.55,Loamy,6.44,129.73,59.23,36.47,High,Flowering,Medium,Stem Borer
+Maize,23.06,51.9,50.35,Sandy,7.74,40.83,60.93,64.52,High,Flowering,Low,Aphids
+Groundnut,23.77,61.57,148.76,Black Soil,5.21,102.16,63.82,41.48,Medium,Maturity,High,Leaf Miner
+Groundnut,34.25,74.24,144.31,Clay,6.45,38.92,83.1,48.83,Medium,Maturity,High,Leaf Miner
+Paddy,31.9,77.0,217.18,Loamy,5.2,138.53,33.84,91.74,Medium,Flowering,High,Brown Planthopper
+Maize,27.8,82.37,263.67,Red Soil,4.6,27.1,41.27,51.42,Medium,Maturity,High,Fall Armyworm
+Maize,25.91,95.11,300.0,Sandy,5.91,97.21,28.1,50.98,Medium,Maturity,High,Fall Armyworm
+Maize,17.87,75.59,64.05,Loamy,6.83,101.41,43.08,63.29,Medium,Fruiting,Low,Stem Borer
+Sugarcane,22.65,52.16,53.06,Red Soil,5.86,93.6,58.28,87.31,Medium,Fruiting,Low,Whitefly
+Tomato,37.56,64.15,111.0,Red Soil,6.82,48.68,57.2,58.92,Medium,Germination,High,Fruit Borer
+Sugarcane,21.6,72.62,26.17,Black Soil,6.59,43.31,77.82,46.04,Medium,Vegetative,Low,Top Borer
+Tomato,28.95,98.0,70.16,Black Soil,6.39,113.17,54.8,74.48,Medium,Vegetative,Medium,Whitefly
+Maize,33.04,47.03,93.01,Black Soil,7.51,106.45,45.01,80.32,High,Fruiting,Low,Aphids
+Maize,21.73,86.04,116.74,Loamy,6.02,106.04,23.17,88.62,Low,Fruiting,Medium,Stem Borer
+Sugarcane,28.92,70.7,125.31,Loamy,6.8,109.68,62.33,59.11,High,Maturity,Medium,Top Borer
+Sugarcane,32.69,80.57,68.57,Sandy,5.06,28.92,41.87,71.88,Medium,Vegetative,High,Early Shoot Borer
+Tomato,28.06,66.47,29.89,Black Soil,6.58,28.02,62.78,79.76,Low,Vegetative,Medium,Leaf Miner
+Groundnut,42.0,55.36,35.86,Red Soil,6.29,54.86,36.5,64.55,Medium,Vegetative,Medium,Thrips
+Tomato,19.66,79.26,12.35,Clay,5.55,60.61,69.01,92.99,Medium,Germination,Low,Whitefly
+Sugarcane,33.29,77.82,54.56,Sandy,6.82,57.41,52.73,76.28,High,Flowering,Medium,Top Borer
+Sugarcane,27.14,82.58,25.61,Loamy,5.91,83.32,64.85,107.07,Medium,Fruiting,Medium,Top Borer
+Paddy,31.86,67.8,57.54,Sandy,7.89,108.46,52.72,82.94,Medium,Maturity,Medium,Leaf Folder
+Sugarcane,30.21,59.0,110.24,Sandy,4.55,66.18,26.49,11.83,Medium,Vegetative,Medium,Whitefly
+Paddy,24.33,44.62,30.52,Sandy,6.7,50.54,37.69,50.04,Low,Maturity,Low,Leaf Folder
+Groundnut,29.14,80.29,89.37,Sandy,6.53,99.39,19.39,19.55,Medium,Vegetative,Medium,Aphids
+Tomato,18.71,74.36,68.02,Clay,6.28,66.54,48.69,44.03,Medium,Fruiting,Low,Whitefly
+Tomato,31.02,53.51,106.33,Black Soil,6.08,78.22,15.75,50.72,Medium,Vegetative,Medium,Leaf Miner
+Paddy,29.49,59.92,123.73,Red Soil,6.55,65.03,50.88,81.72,Medium,Vegetative,Medium,Leaf Folder
+Tomato,31.19,61.0,64.89,Sandy,7.35,85.2,5.0,49.01,High,Fruiting,Medium,Leaf Miner
+Sugarcane,33.29,45.76,84.14,Sandy,5.16,44.58,61.2,94.86,Medium,Vegetative,Medium,Whitefly
+Maize,29.84,55.73,68.22,Sandy,5.86,96.79,22.93,43.29,High,Maturity,Medium,Aphids
+Paddy,28.74,50.99,58.91,Black Soil,5.66,74.02,25.92,52.79,Low,Flowering,Low,Leaf Folder
+Tomato,23.59,61.81,48.36,Loamy,5.62,52.07,72.44,29.01,Low,Flowering,Low,Leaf Miner
+Paddy,24.44,56.92,116.16,Loamy,6.77,90.93,51.4,96.11,Medium,Fruiting,Medium,Leaf Folder
+Paddy,33.93,43.59,193.09,Clay,6.97,52.04,61.93,99.46,Low,Maturity,High,Brown Planthopper
+Maize,35.18,98.0,178.53,Loamy,7.35,53.37,24.89,56.7,Medium,Maturity,High,Fall Armyworm
+Sugarcane,26.81,86.79,28.01,Sandy,6.98,38.96,64.24,22.98,Medium,Germination,Medium,Top Borer
+Paddy,28.23,56.31,190.81,Sandy,7.05,23.89,42.25,54.8,Medium,Maturity,High,Brown Planthopper
+Tomato,23.48,72.09,39.69,Sandy,5.37,91.03,47.35,65.8,Medium,Fruiting,High,Fruit Borer
+Groundnut,33.86,74.26,93.04,Clay,7.69,109.97,74.81,44.13,High,Flowering,High,Leaf Miner
+Paddy,31.33,85.87,104.8,Sandy,6.33,61.48,21.74,118.77,High,Flowering,High,Brown Planthopper
+Paddy,37.71,55.72,21.79,Loamy,7.33,51.05,63.26,105.63,Low,Germination,Low,Leaf Folder
+Maize,23.61,84.38,73.71,Black Soil,5.4,20.63,52.71,16.28,Medium,Fruiting,Medium,Stem Borer
+Sugarcane,26.11,59.78,198.45,Black Soil,6.31,10.0,40.74,31.15,Medium,Fruiting,High,Early Shoot Borer
+Groundnut,29.16,47.96,8.11,Red Soil,7.25,96.8,23.12,71.47,Low,Vegetative,Low,Thrips
+Tomato,31.23,78.86,300.0,Loamy,6.52,15.78,40.51,33.2,Medium,Maturity,High,Fruit Borer
+Groundnut,26.92,87.36,11.73,Sandy,5.9,40.68,28.63,64.57,Medium,Flowering,Low,Aphids
+Tomato,23.64,98.0,102.98,Black Soil,7.55,83.5,68.74,60.27,Low,Flowering,High,Fruit Borer
+Sugarcane,32.41,50.0,22.83,Loamy,5.56,77.69,46.84,59.01,Medium,Fruiting,Low,Whitefly
+Tomato,31.61,78.48,114.43,Black Soil,6.48,84.74,31.46,85.47,Medium,Maturity,High,Fruit Borer
+Maize,23.42,61.85,173.49,Sandy,7.01,75.21,16.25,105.19,Low,Fruiting,High,Fall Armyworm
+Maize,34.78,79.75,143.9,Black Soil,8.18,64.29,35.74,69.9,Medium,Maturity,High,Fall Armyworm
+Maize,33.85,45.94,159.61,Red Soil,6.13,40.86,69.72,29.7,High,Flowering,High,Fall Armyworm
+Maize,28.67,49.06,68.45,Red Soil,6.28,55.98,47.23,63.6,Medium,Flowering,Low,Aphids
+Groundnut,28.4,56.36,197.56,Black Soil,6.14,66.33,41.4,45.4,Medium,Flowering,Medium,Thrips
+Sugarcane,30.77,69.18,290.48,Loamy,6.69,18.29,78.97,109.81,Medium,Maturity,High,Early Shoot Borer
+Tomato,23.69,58.38,89.74,Loamy,6.97,51.41,36.71,77.33,Low,Flowering,Low,Leaf Miner
+Tomato,28.15,77.89,62.71,Loamy,7.37,63.83,28.83,70.06,Low,Flowering,Medium,Whitefly
+Maize,17.24,83.4,44.59,Black Soil,7.1,54.33,53.08,76.24,High,Germination,Low,Stem Borer
+Maize,32.38,76.99,137.8,Loamy,6.1,64.72,53.39,59.04,Low,Germination,High,Fall Armyworm
+Paddy,20.19,92.28,164.6,Sandy,7.15,95.06,33.26,91.3,Medium,Vegetative,Medium,Stem Borer
+Sugarcane,35.52,74.24,62.73,Red Soil,6.57,98.74,29.05,45.73,Low,Flowering,Medium,Top Borer
+Groundnut,26.35,49.75,225.46,Sandy,7.1,120.34,73.94,84.0,High,Maturity,High,Leaf Miner
+Tomato,26.94,88.45,130.2,Loamy,7.14,29.76,36.34,99.8,Low,Maturity,High,Fruit Borer
+Paddy,24.86,58.92,89.01,Sandy,7.8,62.38,15.96,39.65,Medium,Vegetative,Low,Leaf Folder
+Paddy,26.56,81.66,105.32,Loamy,6.22,111.83,48.86,68.44,Medium,Flowering,Medium,Stem Borer
+Tomato,35.09,91.61,36.73,Black Soil,6.06,22.63,62.89,70.41,Medium,Germination,High,Fruit Borer
+Groundnut,15.56,74.85,136.76,Sandy,6.86,39.71,41.19,33.14,Medium,Maturity,High,Leaf Miner
+Paddy,34.38,45.56,38.85,Black Soil,7.45,56.53,55.74,25.78,Medium,Germination,Low,Leaf Folder
+Paddy,29.69,54.23,56.66,Black Soil,6.55,136.33,24.05,37.1,High,Fruiting,Low,Leaf Folder
+Sugarcane,21.96,87.84,79.6,Clay,7.5,45.76,57.57,58.7,High,Flowering,Medium,Top Borer
+Groundnut,22.62,65.46,261.92,Loamy,7.05,107.51,25.9,70.47,Medium,Maturity,High,Leaf Miner
+Paddy,36.38,69.19,99.51,Red Soil,6.34,74.16,51.1,50.76,Low,Flowering,High,Brown Planthopper
+Groundnut,23.27,79.38,42.19,Loamy,6.95,40.61,60.35,108.27,Low,Vegetative,High,Leaf Miner
+Tomato,22.23,78.44,105.59,Red Soil,6.15,158.99,46.97,85.65,High,Vegetative,High,Fruit Borer
+Maize,33.69,72.18,124.99,Loamy,6.69,80.84,20.29,71.32,Medium,Maturity,Medium,Stem Borer
+Paddy,29.69,64.87,182.44,Black Soil,5.64,86.29,21.16,49.24,High,Maturity,High,Brown Planthopper
+Sugarcane,23.31,63.31,82.52,Sandy,6.45,91.04,76.86,61.75,Medium,Flowering,Medium,Whitefly
+Tomato,29.08,80.87,47.58,Sandy,7.3,88.71,29.64,87.54,High,Flowering,Medium,Whitefly
+Groundnut,22.87,76.3,300.0,Clay,7.11,139.56,60.3,83.0,High,Maturity,High,Leaf Miner
+Tomato,33.5,64.14,105.75,Red Soil,7.0,128.58,47.37,82.73,High,Fruiting,High,Fruit Borer
+Paddy,33.31,84.23,42.41,Red Soil,6.73,47.05,24.92,52.41,Medium,Vegetative,Medium,Stem Borer
+Groundnut,30.66,66.06,81.99,Red Soil,6.63,135.56,34.34,46.93,Medium,Flowering,Medium,Thrips
+Maize,29.81,55.23,56.68,Black Soil,5.49,54.0,79.0,24.32,Medium,Flowering,Low,Aphids
+Tomato,36.81,56.62,189.6,Red Soil,6.34,84.67,100.0,73.21,Medium,Maturity,High,Fruit Borer
+Paddy,28.0,53.32,124.18,Sandy,6.65,31.45,38.65,22.04,Medium,Flowering,Medium,Leaf Folder
+Sugarcane,22.09,63.91,66.2,Black Soil,5.6,106.1,37.27,59.61,Low,Fruiting,Medium,Whitefly
+Groundnut,30.25,86.51,164.66,Loamy,5.1,65.78,12.23,49.49,Medium,Flowering,High,Leaf Miner
+Tomato,38.43,55.92,77.21,Red Soil,7.4,40.52,12.0,65.56,Medium,Germination,Medium,Leaf Miner
+Tomato,22.93,70.83,80.61,Red Soil,6.54,110.66,27.85,89.14,Medium,Vegetative,Low,Whitefly
+Maize,26.19,58.15,46.52,Loamy,6.67,118.09,36.1,93.84,Low,Vegetative,Low,Aphids
+Maize,30.08,64.1,46.21,Red Soil,6.94,119.1,44.49,77.56,Medium,Flowering,Low,Aphids
+Sugarcane,27.73,45.35,293.52,Loamy,5.71,29.31,58.8,40.89,Low,Fruiting,High,Early Shoot Borer
+Sugarcane,23.09,64.69,159.6,Black Soil,6.18,122.21,49.42,59.44,High,Maturity,High,Early Shoot Borer
+Paddy,33.61,65.09,14.59,Sandy,7.7,65.98,59.13,38.16,Medium,Vegetative,Medium,Leaf Folder
+Paddy,39.6,76.1,38.06,Loamy,6.11,136.55,32.72,43.64,Low,Vegetative,High,Brown Planthopper
+Sugarcane,28.98,71.35,31.54,Clay,6.29,93.75,43.58,72.06,Low,Germination,Low,Top Borer
+Sugarcane,23.48,50.02,87.74,Loamy,5.96,82.54,37.72,35.64,Medium,Germination,Low,Whitefly
+Groundnut,20.26,84.26,60.99,Red Soil,5.91,75.26,19.67,48.64,Low,Germination,Medium,Aphids
+Maize,29.29,71.15,214.31,Black Soil,7.38,74.59,5.52,33.26,High,Maturity,High,Fall Armyworm
+Paddy,33.52,70.98,65.48,Black Soil,4.52,54.61,31.62,76.46,Medium,Fruiting,Medium,Stem Borer
+Maize,30.38,67.86,274.74,Loamy,6.13,42.96,5.0,50.99,Medium,Maturity,High,Fall Armyworm
+Maize,27.99,60.23,78.95,Sandy,6.68,64.12,22.34,5.0,Medium,Germination,Low,Aphids
+Sugarcane,25.05,71.27,300.0,Clay,7.86,110.73,55.9,100.84,Medium,Maturity,High,Early Shoot Borer
+Groundnut,22.54,75.13,72.16,Black Soil,5.59,33.1,48.6,85.33,High,Maturity,Medium,Aphids
+Tomato,32.17,41.8,73.23,Red Soil,5.46,115.22,45.43,9.62,Medium,Vegetative,Low,Leaf Miner
+Groundnut,32.57,59.92,157.29,Red Soil,5.81,79.3,68.61,78.37,High,Flowering,High,Leaf Miner
+Groundnut,20.27,64.18,142.45,Sandy,7.06,98.44,30.43,98.07,Medium,Flowering,Medium,Thrips
+Maize,35.95,71.84,26.94,Black Soil,6.6,99.99,58.64,55.34,High,Vegetative,High,Fall Armyworm
+Groundnut,30.87,85.9,89.26,Loamy,5.35,102.85,28.86,63.73,Low,Fruiting,High,Leaf Miner
+Paddy,35.0,56.42,60.55,Red Soil,6.58,75.67,50.55,52.03,Medium,Germination,Medium,Leaf Folder
+Maize,21.29,60.53,57.37,Sandy,7.74,76.57,48.07,72.99,Medium,Flowering,Low,Aphids
+Paddy,21.17,60.31,88.95,Black Soil,6.71,101.82,49.15,85.83,Medium,Vegetative,Low,Leaf Folder
+Tomato,27.26,55.98,67.5,Black Soil,6.63,43.76,37.27,30.22,Low,Vegetative,Medium,Leaf Miner
+Maize,30.51,62.79,95.76,Black Soil,6.68,39.17,51.39,42.35,Medium,Fruiting,Medium,Aphids
+Tomato,36.98,79.56,36.6,Black Soil,6.83,61.06,52.95,62.54,Medium,Germination,High,Fruit Borer
+Maize,31.53,52.19,21.34,Black Soil,5.49,83.64,16.39,67.76,Medium,Vegetative,Low,Aphids
+Sugarcane,26.79,74.42,161.29,Red Soil,6.31,132.63,61.97,70.19,Medium,Maturity,High,Early Shoot Borer
+Groundnut,22.87,42.47,177.85,Sandy,6.36,76.44,20.28,55.19,Medium,Maturity,Medium,Thrips
+Sugarcane,34.15,59.58,154.73,Black Soil,6.11,135.0,27.45,37.95,Low,Maturity,High,Early Shoot Borer
+Tomato,23.18,63.06,86.13,Clay,7.05,90.46,49.84,84.63,Medium,Fruiting,Low,Leaf Miner
+Groundnut,36.14,93.12,63.63,Clay,5.99,61.4,56.96,29.46,Low,Fruiting,High,Leaf Miner
+Maize,26.58,63.88,51.43,Sandy,6.21,109.41,49.4,47.69,High,Germination,Low,Aphids
+Groundnut,35.95,34.98,43.99,Loamy,5.49,67.71,51.51,60.45,Low,Fruiting,Medium,Thrips
+Paddy,31.39,38.02,79.02,Loamy,6.8,82.54,22.27,72.13,High,Germination,Low,Leaf Folder
+Groundnut,27.32,68.51,175.01,Loamy,7.25,34.91,34.53,52.7,Medium,Fruiting,High,Leaf Miner
+Paddy,25.4,77.21,48.01,Clay,6.21,29.74,5.0,78.83,Medium,Germination,Medium,Stem Borer
+Groundnut,26.3,73.63,175.2,Loamy,7.15,91.61,26.62,91.27,Low,Vegetative,High,Leaf Miner
+Paddy,30.14,70.51,22.45,Red Soil,6.38,108.11,18.17,44.43,Medium,Germination,Low,Stem Borer
+Tomato,28.39,85.43,99.3,Black Soil,4.5,133.37,45.27,69.79,Medium,Flowering,High,Fruit Borer
+Sugarcane,25.03,59.91,114.09,Clay,6.46,50.72,92.12,66.15,Medium,Maturity,Medium,Whitefly
+Maize,27.17,81.42,55.87,Sandy,6.36,118.91,60.2,51.47,Low,Maturity,Medium,Stem Borer
+Groundnut,28.39,43.52,34.55,Sandy,6.58,114.43,5.0,12.34,High,Vegetative,Low,Thrips
+Sugarcane,17.36,54.43,147.5,Black Soil,6.7,60.27,14.65,68.85,High,Vegetative,Medium,Whitefly
+Maize,30.29,40.89,86.6,Clay,5.95,116.64,19.02,71.6,Medium,Germination,Low,Aphids
+Maize,23.1,63.88,300.0,Loamy,7.68,103.33,9.9,87.18,Medium,Maturity,High,Fall Armyworm
+Paddy,22.23,67.31,176.75,Loamy,6.45,109.27,39.35,51.62,Medium,Maturity,High,Brown Planthopper
+Tomato,19.56,69.71,177.67,Red Soil,6.34,140.02,49.58,43.32,Medium,Flowering,High,Fruit Borer
+Tomato,19.03,68.93,6.02,Red Soil,7.1,108.02,19.14,37.14,Low,Germination,Low,Leaf Miner
+Sugarcane,21.22,54.09,48.79,Loamy,6.51,10.89,40.54,5.0,Medium,Flowering,Medium,Whitefly
+Tomato,24.45,65.15,31.04,Sandy,8.5,84.68,49.4,49.88,High,Germination,Low,Leaf Miner
+Groundnut,37.77,45.54,11.59,Sandy,6.33,28.0,58.98,129.16,Low,Germination,Low,Thrips
+Tomato,25.37,88.45,81.67,Red Soil,6.78,79.54,48.12,91.77,Medium,Fruiting,Medium,Whitefly
+Sugarcane,28.89,63.45,145.06,Black Soil,5.9,77.81,51.61,35.2,High,Germination,High,Early Shoot Borer
+Tomato,30.0,60.67,37.6,Loamy,7.2,57.49,44.25,47.13,Low,Flowering,Low,Leaf Miner
+Groundnut,28.66,91.83,12.41,Red Soil,6.75,44.17,24.72,46.97,Low,Maturity,Low,Aphids
+Paddy,27.61,49.37,40.35,Red Soil,6.23,59.09,29.09,94.96,High,Vegetative,Low,Leaf Folder
+Sugarcane,22.02,51.12,74.56,Loamy,5.8,64.89,18.54,115.61,Medium,Vegetative,Low,Whitefly
+Paddy,35.25,51.56,70.51,Loamy,5.45,71.05,74.97,62.24,Low,Vegetative,Low,Leaf Folder
+Paddy,37.04,66.98,84.65,Sandy,6.83,78.16,15.62,66.59,Medium,Flowering,Medium,Leaf Folder
+Paddy,19.59,74.47,112.46,Black Soil,5.39,92.56,64.04,73.01,Medium,Vegetative,Low,Stem Borer
+Maize,22.88,79.1,83.14,Black Soil,7.55,65.62,15.81,59.6,High,Germination,High,Fall Armyworm
+Maize,26.6,98.0,150.46,Loamy,5.49,113.39,60.35,67.05,Medium,Flowering,High,Fall Armyworm
+Paddy,23.18,34.26,38.21,Clay,6.36,73.85,64.44,61.2,Medium,Vegetative,Low,Leaf Folder
+Sugarcane,30.53,77.13,68.31,Red Soil,5.79,102.73,68.04,71.95,Medium,Germination,Low,Top Borer
+Groundnut,24.36,59.64,125.35,Red Soil,6.53,65.87,24.17,9.96,High,Vegetative,Medium,Thrips
+Groundnut,38.83,59.2,102.5,Loamy,6.52,157.31,48.29,48.01,Low,Vegetative,High,Leaf Miner
+Tomato,33.95,58.7,254.55,Clay,6.86,89.02,32.99,30.42,Low,Flowering,High,Fruit Borer
+Sugarcane,29.06,54.37,39.61,Sandy,5.28,124.06,27.27,77.25,High,Flowering,Medium,Whitefly
+Maize,33.13,93.27,126.88,Loamy,5.89,54.18,45.88,40.36,High,Germination,High,Fall Armyworm
+Paddy,33.53,80.63,50.91,Loamy,7.28,61.59,61.28,20.88,Low,Germination,Medium,Stem Borer
+Tomato,25.18,68.35,46.46,Red Soil,7.03,67.44,33.1,15.29,Low,Fruiting,Low,Leaf Miner
+Groundnut,23.92,88.27,169.88,Loamy,4.5,149.19,51.58,71.23,Medium,Fruiting,High,Leaf Miner
+Maize,28.39,45.31,82.46,Loamy,6.8,68.62,26.85,36.78,Low,Flowering,Low,Aphids
+Maize,32.31,48.04,101.28,Loamy,5.67,50.3,24.14,56.55,Medium,Vegetative,Low,Aphids
+Paddy,28.7,35.33,54.12,Red Soil,6.03,114.03,38.51,99.57,Low,Germination,Low,Leaf Folder
+Groundnut,20.12,57.51,56.65,Sandy,6.32,76.76,39.71,69.38,Low,Fruiting,Low,Thrips
+Sugarcane,23.99,70.43,20.92,Sandy,7.75,68.46,58.36,47.25,Medium,Germination,Medium,Top Borer
+Maize,27.63,69.54,95.7,Loamy,5.67,56.69,19.97,30.62,High,Vegetative,Medium,Aphids
+Paddy,27.62,70.24,35.05,Red Soil,5.38,89.66,88.17,70.87,Medium,Flowering,Low,Stem Borer
+Sugarcane,37.86,46.83,75.59,Sandy,6.86,106.88,9.15,56.77,Medium,Germination,Low,Whitefly
+Groundnut,21.07,80.05,150.35,Sandy,6.48,98.64,49.56,74.46,High,Fruiting,High,Leaf Miner
+Maize,30.53,71.59,15.44,Sandy,7.47,60.62,39.3,5.0,Medium,Germination,Low,Stem Borer
+Sugarcane,35.45,79.0,300.0,Red Soil,6.22,45.37,32.03,88.44,Medium,Maturity,High,Early Shoot Borer
+Sugarcane,39.36,39.61,45.68,Red Soil,7.47,10.0,41.5,17.18,Medium,Germination,Low,Whitefly
+Sugarcane,25.98,72.67,77.21,Loamy,6.51,46.64,58.44,47.9,Low,Flowering,Medium,Top Borer
+Maize,30.46,50.18,101.19,Black Soil,6.92,63.84,61.55,94.75,Medium,Fruiting,Low,Aphids
+Maize,30.85,62.04,44.42,Sandy,7.8,73.23,40.65,5.0,Medium,Flowering,Medium,Aphids
+Tomato,28.98,76.02,58.25,Black Soil,6.37,66.88,51.64,57.83,Medium,Vegetative,Low,Whitefly
+Groundnut,27.51,69.37,173.51,Red Soil,7.34,159.03,18.39,53.13,Low,Maturity,High,Leaf Miner
+Paddy,30.18,55.23,139.67,Red Soil,6.01,89.74,41.31,59.28,Medium,Fruiting,Medium,Leaf Folder
+Sugarcane,15.34,68.09,69.41,Red Soil,6.68,37.87,52.89,68.91,Medium,Flowering,Medium,Whitefly
+Tomato,31.41,45.03,83.89,Black Soil,5.34,94.67,5.0,60.38,Low,Fruiting,High,Fruit Borer
+Paddy,28.63,85.25,92.9,Red Soil,6.1,86.74,46.62,26.5,Low,Germination,Medium,Stem Borer
+Tomato,26.89,64.92,123.14,Loamy,5.65,43.5,41.64,62.43,High,Flowering,Medium,Leaf Miner
+Maize,38.23,84.78,129.17,Red Soil,7.48,83.66,70.4,59.54,Medium,Fruiting,High,Fall Armyworm
+Sugarcane,24.63,60.1,126.88,Clay,7.89,90.9,48.34,58.49,Low,Germination,High,Early Shoot Borer
+Paddy,25.98,60.15,61.23,Black Soil,6.22,105.74,54.6,112.15,Medium,Flowering,Low,Leaf Folder
+Paddy,37.96,56.54,90.8,Clay,5.88,21.73,39.57,93.44,Low,Fruiting,Medium,Leaf Folder
+Paddy,23.84,81.14,161.53,Red Soil,5.45,94.44,57.64,105.68,Medium,Fruiting,High,Brown Planthopper
+Paddy,25.25,57.36,300.0,Loamy,6.71,117.3,56.25,68.6,Medium,Maturity,High,Brown Planthopper
+Paddy,27.26,77.67,88.99,Sandy,6.02,131.63,18.87,104.63,Medium,Fruiting,High,Brown Planthopper
+Tomato,32.2,62.26,54.96,Red Soil,6.06,38.22,51.22,38.6,Medium,Fruiting,Low,Leaf Miner
+Sugarcane,29.04,38.36,43.73,Loamy,7.8,70.62,68.64,51.02,Low,Fruiting,Low,Whitefly
+Maize,21.54,59.45,127.55,Black Soil,6.26,73.53,64.68,45.5,Medium,Maturity,Low,Aphids
+Maize,25.34,50.31,19.97,Clay,6.97,95.27,45.55,47.6,Low,Germination,Low,Aphids
+Maize,24.96,68.51,128.42,Clay,6.54,70.06,51.43,61.03,Medium,Flowering,Medium,Aphids
+Maize,27.61,50.14,129.94,Clay,5.42,53.54,63.3,65.1,High,Germination,Medium,Aphids
+Tomato,30.13,81.89,56.54,Black Soil,5.02,81.52,22.22,70.77,Medium,Germination,Medium,Whitefly
+Groundnut,30.09,66.63,99.63,Loamy,6.89,64.87,54.49,103.62,High,Maturity,Low,Thrips
+Sugarcane,19.12,65.34,71.15,Black Soil,7.86,91.87,5.58,21.88,Low,Vegetative,Medium,Whitefly
+Paddy,33.32,77.84,25.82,Clay,6.75,50.71,62.25,29.87,Medium,Vegetative,Medium,Stem Borer
+Groundnut,29.26,82.46,122.13,Red Soil,7.0,44.33,37.3,5.0,Low,Fruiting,High,Leaf Miner
+Maize,34.92,67.7,114.77,Sandy,5.78,114.46,43.27,38.95,Medium,Maturity,High,Fall Armyworm
+Groundnut,30.22,56.43,60.11,Black Soil,7.31,143.18,33.89,48.9,Low,Germination,Low,Thrips
+Sugarcane,33.51,41.39,300.0,Black Soil,7.3,129.67,44.18,42.54,Low,Maturity,High,Early Shoot Borer
+Paddy,30.33,57.71,84.39,Loamy,5.94,72.84,50.11,31.53,Medium,Flowering,Medium,Leaf Folder
+Paddy,34.73,58.74,13.9,Loamy,6.94,106.65,60.09,62.23,Medium,Germination,Medium,Leaf Folder
+Sugarcane,30.61,69.61,167.1,Black Soil,5.09,54.41,70.99,50.33,Low,Maturity,High,Early Shoot Borer
+Sugarcane,27.51,62.82,142.38,Clay,7.08,90.25,45.97,37.88,High,Vegetative,High,Early Shoot Borer
+Maize,39.36,78.32,153.66,Sandy,6.04,57.49,11.77,63.78,Low,Maturity,High,Fall Armyworm
+Paddy,32.45,58.81,36.76,Loamy,5.52,112.7,71.11,45.67,Low,Germination,Low,Leaf Folder
+Groundnut,30.87,67.14,97.78,Clay,6.82,108.7,15.56,88.91,Medium,Vegetative,Low,Thrips
+Tomato,21.62,85.76,83.37,Red Soil,5.08,137.28,36.55,55.91,High,Flowering,High,Fruit Borer
+Tomato,21.56,73.13,73.76,Loamy,6.77,68.12,35.19,51.25,Low,Flowering,Medium,Whitefly
+Sugarcane,29.46,67.1,196.1,Clay,5.59,122.37,45.23,66.54,Low,Vegetative,High,Early Shoot Borer
+Maize,28.73,58.97,85.24,Clay,5.42,90.19,19.73,9.85,High,Fruiting,Medium,Aphids
+Tomato,24.93,58.5,61.74,Sandy,6.55,77.26,18.76,90.34,Medium,Flowering,Low,Leaf Miner
+Paddy,28.7,55.24,61.26,Sandy,6.36,85.11,44.57,79.62,Medium,Maturity,Low,Leaf Folder
+Sugarcane,35.94,59.88,34.36,Red Soil,7.67,125.94,29.04,40.17,Low,Flowering,Medium,Whitefly
+Groundnut,31.48,79.33,91.27,Clay,5.47,71.04,71.92,31.73,Medium,Vegetative,Medium,Aphids
+Sugarcane,22.29,64.67,205.86,Clay,7.6,72.57,33.98,34.75,Medium,Flowering,High,Early Shoot Borer
+Groundnut,27.44,47.75,65.66,Sandy,5.59,13.03,24.43,24.75,Medium,Vegetative,Low,Thrips
+Sugarcane,23.98,94.52,101.63,Loamy,7.24,70.59,78.44,17.58,High,Maturity,High,Early Shoot Borer
+Sugarcane,26.06,72.8,72.9,Loamy,7.38,82.93,54.4,23.94,High,Flowering,Medium,Top Borer
+Sugarcane,25.93,46.9,78.8,Black Soil,6.76,52.13,99.34,5.0,Medium,Vegetative,Low,Whitefly
+Groundnut,25.61,61.37,146.64,Sandy,5.87,44.76,6.55,50.91,High,Maturity,Medium,Thrips
+Groundnut,21.72,69.66,33.97,Black Soil,5.28,19.46,49.16,56.59,Medium,Germination,Medium,Thrips
+Sugarcane,27.36,93.57,21.99,Sandy,4.94,57.46,54.71,92.03,Low,Flowering,Medium,Top Borer
+Tomato,25.2,51.38,167.26,Red Soil,7.98,117.64,45.56,84.68,Medium,Maturity,Low,Leaf Miner
+Maize,15.0,82.64,55.35,Clay,6.26,30.54,37.76,41.65,Medium,Fruiting,Medium,Stem Borer
+Maize,38.26,88.99,62.3,Red Soil,5.62,98.67,69.91,53.81,Low,Fruiting,Medium,Stem Borer
+Maize,33.44,58.57,300.0,Sandy,5.59,101.38,54.33,87.58,Medium,Maturity,High,Fall Armyworm
+Groundnut,26.12,63.84,141.79,Clay,6.63,148.59,11.22,48.79,Medium,Vegetative,Medium,Thrips
+Groundnut,28.09,52.46,41.28,Loamy,6.18,106.15,27.61,64.26,Medium,Germination,Low,Thrips
+Tomato,22.14,64.95,174.95,Loamy,4.96,103.64,21.72,44.85,High,Maturity,High,Fruit Borer
+Maize,36.48,67.45,144.0,Black Soil,7.19,86.03,42.58,60.98,Medium,Maturity,Medium,Aphids
+Maize,37.49,77.89,1.88,Sandy,6.77,75.03,63.98,62.09,Low,Germination,Medium,Stem Borer
+Sugarcane,28.78,84.35,93.67,Sandy,7.97,100.57,37.42,51.28,Medium,Germination,Medium,Top Borer
+Groundnut,33.12,56.78,35.47,Loamy,7.41,112.46,39.94,86.65,Medium,Germination,Low,Thrips
+Maize,28.88,38.49,78.68,Red Soil,4.5,80.11,25.42,38.39,Low,Germination,Low,Aphids
+Tomato,21.32,67.68,300.0,Clay,7.63,113.76,60.23,62.88,Medium,Maturity,High,Fruit Borer
+Tomato,25.94,72.4,150.77,Red Soil,7.47,160.0,69.65,104.59,High,Maturity,High,Fruit Borer
+Maize,28.66,71.74,164.33,Red Soil,5.91,77.13,44.35,67.78,Medium,Germination,Medium,Stem Borer
+Groundnut,25.73,63.1,73.01,Loamy,6.15,77.97,76.6,40.09,Low,Germination,Medium,Thrips
+Tomato,26.91,69.87,164.83,Loamy,6.83,72.24,34.12,68.69,Low,Vegetative,Medium,Leaf Miner
+Sugarcane,27.54,90.73,46.99,Loamy,5.69,79.01,17.06,120.8,Medium,Germination,Low,Top Borer
+Tomato,27.6,73.73,92.83,Black Soil,6.31,111.69,61.09,60.98,High,Flowering,Medium,Whitefly
+Paddy,28.26,62.4,146.19,Red Soil,7.3,77.61,43.08,79.84,Medium,Flowering,Medium,Leaf Folder
+Paddy,22.7,60.5,143.24,Sandy,6.91,80.68,33.38,60.13,Medium,Fruiting,Medium,Leaf Folder
+Groundnut,24.41,65.45,23.34,Clay,5.97,67.51,46.53,66.89,Medium,Germination,Low,Thrips
+Maize,21.58,92.55,264.86,Black Soil,7.32,89.67,13.31,58.04,Medium,Maturity,High,Fall Armyworm
+Groundnut,32.89,65.25,39.83,Sandy,6.74,59.9,10.04,34.55,Medium,Fruiting,Medium,Thrips
+Groundnut,17.47,67.7,300.0,Red Soil,6.71,38.22,46.85,69.35,Low,Maturity,High,Leaf Miner
+Groundnut,33.77,60.77,149.1,Loamy,6.09,88.43,53.69,29.42,Medium,Maturity,Medium,Thrips
+Groundnut,34.93,84.48,140.72,Red Soil,6.49,134.38,72.88,52.19,Medium,Fruiting,High,Leaf Miner
+Sugarcane,26.49,97.4,42.79,Clay,5.88,66.3,62.73,107.79,Low,Germination,Medium,Top Borer
+Sugarcane,15.0,74.76,57.19,Black Soil,4.95,43.76,57.71,58.2,Medium,Vegetative,Low,Top Borer
+Tomato,26.19,69.24,251.35,Black Soil,6.28,132.47,70.41,36.92,High,Maturity,High,Fruit Borer
+Paddy,27.68,68.55,230.73,Clay,6.4,76.37,54.8,66.02,Medium,Fruiting,High,Brown Planthopper
+Groundnut,22.95,32.24,74.54,Sandy,6.61,103.34,38.12,46.16,High,Maturity,Low,Thrips
+Tomato,25.42,79.18,69.91,Sandy,7.47,53.13,63.25,62.72,Low,Germination,Low,Whitefly
+Paddy,35.65,70.01,71.45,Black Soil,5.98,75.29,62.51,30.59,Medium,Flowering,Low,Stem Borer
+Maize,31.32,74.43,175.73,Black Soil,6.21,117.02,44.84,79.49,Low,Maturity,High,Fall Armyworm
+Sugarcane,23.38,57.33,164.71,Loamy,7.11,78.92,21.0,63.12,Medium,Fruiting,Medium,Whitefly
+Paddy,20.01,62.23,110.2,Sandy,5.9,79.3,9.3,34.95,Medium,Fruiting,Low,Leaf Folder
+Maize,26.36,61.83,93.48,Clay,6.62,30.34,61.85,68.99,Medium,Flowering,Low,Aphids
+Paddy,26.93,83.32,73.9,Sandy,6.17,98.61,54.57,108.38,High,Fruiting,Medium,Stem Borer
+Sugarcane,30.48,62.32,300.0,Loamy,6.31,51.42,57.38,40.1,Medium,Maturity,High,Early Shoot Borer
+Sugarcane,25.32,98.0,25.89,Black Soil,7.11,108.59,62.59,78.94,Medium,Vegetative,Medium,Top Borer
+Tomato,30.56,74.46,62.92,Black Soil,6.2,81.07,27.02,70.45,High,Germination,Medium,Whitefly
+Groundnut,37.68,48.86,104.97,Loamy,7.13,83.74,7.47,70.08,Medium,Fruiting,High,Leaf Miner
+Paddy,32.08,66.07,21.23,Clay,4.94,98.18,55.32,82.51,Low,Fruiting,Low,Leaf Folder
+Paddy,27.76,58.22,54.21,Black Soil,5.36,86.26,68.95,53.07,Low,Maturity,Medium,Leaf Folder
+Maize,27.08,35.08,300.0,Red Soil,4.65,126.55,52.04,63.81,Medium,Fruiting,High,Fall Armyworm
+Sugarcane,26.22,91.99,157.52,Black Soil,5.57,121.8,15.27,62.46,Medium,Germination,High,Early Shoot Borer
+Paddy,33.9,78.55,53.86,Red Soil,7.99,38.48,49.81,38.61,Low,Flowering,Medium,Stem Borer
+Sugarcane,24.86,76.0,52.58,Loamy,6.49,69.88,22.51,71.47,Low,Germination,Low,Top Borer
+Paddy,28.23,70.48,26.07,Loamy,5.92,100.1,14.15,50.94,Low,Flowering,Low,Stem Borer
+Tomato,28.26,47.27,59.95,Black Soil,7.13,46.72,44.85,105.76,Medium,Germination,Low,Leaf Miner
+Groundnut,25.49,60.75,124.04,Sandy,7.24,27.96,48.25,47.3,Low,Maturity,High,Leaf Miner
+Paddy,21.14,80.63,109.81,Red Soil,5.52,52.19,43.03,26.99,Low,Flowering,High,Brown Planthopper
+Sugarcane,29.61,52.23,62.43,Clay,8.5,71.55,53.76,88.01,Medium,Germination,Medium,Whitefly
+Tomato,27.69,30.02,39.34,Black Soil,6.72,10.0,29.19,41.39,High,Vegetative,Low,Leaf Miner
+Paddy,30.5,64.59,73.17,Clay,6.82,41.58,46.71,29.67,Medium,Flowering,Low,Leaf Folder
+Maize,25.33,65.87,71.97,Black Soil,6.9,21.64,35.29,69.69,Medium,Flowering,High,Fall Armyworm
+Groundnut,34.1,70.03,144.26,Sandy,6.9,109.4,39.97,93.31,Low,Maturity,High,Leaf Miner
+Paddy,23.62,78.93,99.0,Sandy,6.0,102.94,50.37,78.43,High,Germination,Medium,Stem Borer
+Tomato,36.56,77.56,89.82,Sandy,8.19,83.36,66.19,45.71,Medium,Vegetative,High,Fruit Borer
+Maize,19.26,71.88,185.93,Sandy,6.27,78.0,50.85,63.21,High,Fruiting,High,Fall Armyworm
+Tomato,30.17,85.93,229.37,Loamy,7.27,91.34,57.48,52.82,High,Maturity,High,Fruit Borer
+Tomato,30.38,45.22,108.89,Loamy,6.12,45.05,45.2,101.52,High,Flowering,Medium,Leaf Miner
+Maize,24.02,75.57,110.77,Red Soil,5.98,112.59,54.75,49.07,Low,Maturity,Low,Stem Borer
+Tomato,30.12,77.4,77.0,Clay,8.02,77.79,65.68,62.47,Medium,Germination,Medium,Whitefly
+Maize,34.4,49.41,42.32,Black Soil,6.41,102.53,82.58,64.23,Low,Vegetative,Medium,Aphids
+Paddy,16.92,45.46,151.99,Black Soil,6.47,101.29,69.22,30.99,High,Fruiting,Medium,Leaf Folder
+Maize,30.51,56.81,132.82,Loamy,6.73,91.02,43.9,55.18,High,Fruiting,High,Fall Armyworm
+Maize,15.53,58.08,81.7,Black Soil,8.5,84.39,67.89,55.58,High,Vegetative,High,Fall Armyworm
+Groundnut,23.17,79.3,99.21,Loamy,8.24,82.15,55.98,94.42,Medium,Maturity,High,Leaf Miner
+Maize,36.15,58.78,177.91,Red Soil,7.53,73.11,32.86,64.88,Medium,Maturity,High,Fall Armyworm
+Maize,25.09,55.15,197.6,Clay,8.5,89.49,56.26,50.54,Medium,Maturity,High,Fall Armyworm
+Paddy,22.13,58.83,6.36,Red Soil,5.74,81.19,22.43,56.37,Medium,Vegetative,Low,Leaf Folder
+Groundnut,27.01,84.78,51.04,Sandy,7.02,60.39,56.29,58.33,Medium,Flowering,Medium,Aphids
+Sugarcane,38.34,68.2,81.51,Sandy,6.56,93.29,80.04,59.03,Medium,Flowering,Medium,Whitefly
+Paddy,18.84,65.31,34.3,Sandy,5.08,83.42,61.45,83.19,High,Maturity,Medium,Leaf Folder
+Paddy,22.74,66.35,101.07,Red Soil,6.87,111.29,68.93,84.47,Medium,Fruiting,Low,Leaf Folder
+Sugarcane,35.49,87.38,53.23,Black Soil,6.11,20.69,37.44,35.23,High,Vegetative,High,Early Shoot Borer
+Maize,37.29,56.76,103.48,Clay,7.73,76.09,54.62,86.7,High,Maturity,High,Fall Armyworm
+Tomato,27.48,87.73,54.52,Sandy,6.18,53.25,58.96,78.78,Medium,Germination,Medium,Whitefly
+Groundnut,21.8,71.16,56.38,Sandy,6.14,59.47,38.9,58.68,Medium,Germination,Low,Aphids
+Tomato,38.48,65.59,102.93,Sandy,7.73,91.79,58.67,23.15,Medium,Maturity,Medium,Leaf Miner
+Sugarcane,35.97,98.0,156.41,Clay,6.45,31.92,54.09,65.32,Medium,Maturity,High,Early Shoot Borer
+Paddy,31.39,52.17,127.64,Sandy,7.43,78.99,58.9,51.15,Low,Germination,Medium,Leaf Folder
+Paddy,23.94,62.69,82.02,Clay,6.84,75.91,24.4,73.87,Medium,Fruiting,Low,Leaf Folder
+Groundnut,27.75,49.51,15.22,Sandy,6.85,43.5,70.52,76.17,High,Germination,Low,Thrips
+Paddy,27.2,82.29,55.31,Red Soil,6.3,79.74,54.01,92.98,Low,Vegetative,High,Brown Planthopper
+Paddy,29.65,93.34,50.61,Red Soil,6.9,52.15,42.64,33.47,Medium,Maturity,Medium,Stem Borer
+Groundnut,35.26,93.05,138.29,Clay,6.39,140.92,43.12,113.46,High,Maturity,High,Leaf Miner
+Groundnut,32.4,86.36,94.07,Red Soil,5.86,111.06,44.22,82.38,Medium,Maturity,High,Leaf Miner
+Sugarcane,22.61,65.04,96.57,Clay,6.42,77.02,28.42,77.86,Medium,Vegetative,Medium,Whitefly
+Paddy,34.88,62.52,43.96,Red Soil,7.53,62.05,68.78,107.91,Medium,Vegetative,Low,Leaf Folder
+Paddy,29.57,42.93,202.76,Red Soil,6.93,90.12,64.26,67.95,Medium,Maturity,Medium,Leaf Folder
+Sugarcane,31.44,98.0,96.1,Clay,7.11,98.02,65.61,85.84,Low,Fruiting,High,Early Shoot Borer
+Maize,35.33,75.03,41.78,Black Soil,6.5,82.64,75.26,64.24,High,Vegetative,Medium,Stem Borer
+Maize,22.44,60.62,44.33,Red Soil,4.95,44.55,48.8,81.02,Medium,Maturity,Low,Aphids
+Maize,27.82,87.92,106.14,Sandy,5.52,68.71,11.89,89.04,Medium,Fruiting,Medium,Stem Borer
+Sugarcane,25.34,53.41,40.46,Black Soil,6.27,77.34,57.58,86.47,Medium,Fruiting,Low,Whitefly
+Paddy,20.16,74.1,51.14,Clay,5.59,83.71,56.83,22.2,Low,Germination,Medium,Stem Borer
+Sugarcane,29.73,65.41,32.85,Black Soil,6.08,84.4,76.08,49.65,High,Vegetative,Low,Whitefly
+Sugarcane,40.56,77.58,137.53,Loamy,6.05,96.92,66.64,89.3,High,Fruiting,High,Early Shoot Borer
+Maize,18.8,67.05,41.27,Loamy,6.08,115.25,47.68,72.45,Low,Germination,Low,Aphids
+Tomato,27.84,46.24,224.52,Red Soil,7.65,105.38,42.11,58.76,High,Maturity,Medium,Leaf Miner
+Paddy,31.2,69.13,115.45,Red Soil,6.46,92.71,65.07,72.69,Medium,Maturity,Medium,Leaf Folder
+Maize,28.62,83.73,32.74,Sandy,7.25,37.27,5.0,32.41,Medium,Vegetative,Low,Stem Borer
+Tomato,27.43,67.56,126.85,Black Soil,6.63,110.59,49.83,79.66,Medium,Fruiting,High,Fruit Borer
+Tomato,21.5,79.63,202.99,Loamy,7.63,99.56,63.91,69.29,Low,Maturity,High,Fruit Borer
+Groundnut,29.16,52.32,79.43,Red Soil,7.32,67.33,42.58,62.13,Medium,Fruiting,Low,Thrips
+Paddy,24.22,67.61,218.43,Black Soil,6.03,75.89,37.36,55.53,Low,Maturity,High,Brown Planthopper
+Tomato,17.05,58.63,116.96,Red Soil,8.07,76.97,50.9,65.78,Medium,Maturity,Medium,Leaf Miner
+Maize,33.97,79.2,53.27,Red Soil,6.14,61.87,71.99,53.14,Medium,Maturity,Medium,Stem Borer
+Groundnut,32.79,68.47,300.0,Loamy,6.66,22.56,54.02,51.9,High,Maturity,High,Leaf Miner
+Paddy,28.26,78.35,25.4,Loamy,6.8,41.5,31.46,104.72,Medium,Vegetative,Low,Stem Borer
+Sugarcane,29.15,84.32,65.73,Red Soil,6.89,47.8,69.34,20.34,Low,Fruiting,High,Early Shoot Borer
+Maize,33.37,78.37,82.02,Clay,7.14,15.97,73.23,20.85,High,Flowering,High,Fall Armyworm
+Tomato,29.12,72.1,274.51,Red Soil,5.89,41.6,28.85,79.54,Medium,Maturity,High,Fruit Borer
+Tomato,32.52,53.03,139.68,Red Soil,7.07,109.24,100.0,29.51,Medium,Fruiting,Medium,Leaf Miner
+Maize,26.51,67.96,124.24,Sandy,6.96,89.58,44.99,9.91,Low,Germination,Medium,Aphids
+Tomato,34.56,60.0,46.91,Sandy,6.5,45.87,63.97,85.36,High,Flowering,Medium,Leaf Miner
+Groundnut,29.6,62.84,77.23,Sandy,6.35,54.35,59.55,91.5,High,Vegetative,Medium,Thrips
+Paddy,28.97,62.38,54.28,Clay,5.85,111.88,31.04,27.3,High,Germination,Low,Leaf Folder
+Groundnut,21.65,53.3,121.41,Clay,6.88,111.13,35.97,15.12,High,Maturity,Medium,Thrips
+Tomato,29.43,38.64,182.41,Red Soil,5.97,77.1,46.35,29.53,Medium,Fruiting,Medium,Leaf Miner
+Sugarcane,23.84,57.98,300.0,Sandy,6.69,110.24,7.6,42.5,High,Maturity,High,Early Shoot Borer
+Paddy,24.81,70.9,59.18,Clay,6.42,52.02,61.42,107.85,Medium,Vegetative,Low,Stem Borer
+Paddy,23.92,47.78,24.72,Loamy,5.43,81.82,7.09,49.26,Low,Germination,Low,Leaf Folder
+Maize,22.67,68.24,66.58,Red Soil,5.75,30.77,45.29,80.8,Medium,Vegetative,Medium,Aphids
+Maize,38.62,96.5,166.33,Black Soil,6.82,64.07,31.57,78.04,Medium,Vegetative,High,Fall Armyworm
+Sugarcane,34.66,83.35,42.29,Red Soil,6.08,75.84,56.58,93.06,Medium,Vegetative,Medium,Top Borer
+Paddy,37.6,92.65,84.19,Black Soil,6.05,24.45,5.0,44.35,Low,Maturity,High,Brown Planthopper
+Sugarcane,21.89,73.87,125.31,Sandy,5.89,92.79,11.76,59.75,Low,Vegetative,High,Early Shoot Borer
+Maize,28.36,85.51,60.13,Black Soil,5.92,97.81,33.06,54.52,Medium,Maturity,Medium,Stem Borer
+Maize,21.53,57.14,99.07,Sandy,7.81,105.33,55.38,73.45,Low,Maturity,Medium,Aphids
+Paddy,24.52,58.33,38.91,Loamy,5.6,145.03,49.43,90.4,Low,Germination,Medium,Leaf Folder
+Groundnut,23.41,26.91,190.73,Black Soil,7.68,87.5,66.01,114.46,Medium,Fruiting,Medium,Thrips
+Tomato,34.2,85.79,70.44,Red Soil,6.24,73.08,47.16,50.23,High,Germination,High,Fruit Borer
+Maize,26.02,91.1,97.04,Sandy,5.98,26.94,44.65,63.53,High,Germination,High,Fall Armyworm
+Maize,33.34,59.7,15.91,Red Soil,6.81,86.76,23.57,81.67,Medium,Vegetative,Low,Aphids
+Groundnut,31.02,64.19,34.39,Clay,6.54,91.78,40.53,75.29,High,Flowering,Low,Thrips
+Groundnut,39.52,56.69,162.69,Sandy,6.34,34.32,44.61,102.88,Medium,Flowering,High,Leaf Miner
+Sugarcane,20.6,73.74,59.47,Black Soil,6.68,67.8,5.0,57.3,Medium,Germination,Medium,Top Borer
+Sugarcane,34.3,84.87,40.61,Sandy,6.53,75.33,27.2,50.06,Medium,Germination,Medium,Top Borer
+Tomato,33.73,41.86,22.86,Red Soil,6.33,90.89,54.27,94.41,Medium,Flowering,Low,Leaf Miner
+Tomato,23.13,74.14,188.39,Loamy,7.25,100.69,48.59,67.58,Low,Maturity,High,Fruit Borer
+Paddy,33.04,63.85,135.64,Sandy,5.34,58.9,39.94,73.51,Medium,Fruiting,Medium,Leaf Folder
+Sugarcane,29.68,69.7,129.69,Black Soil,5.77,81.04,32.85,58.18,Medium,Flowering,Medium,Whitefly
+Maize,26.86,74.88,237.57,Clay,5.87,92.21,10.14,83.18,Medium,Flowering,High,Fall Armyworm
+Sugarcane,23.88,65.18,65.78,Loamy,5.65,69.55,5.0,38.37,High,Fruiting,Medium,Whitefly
+Maize,24.4,66.45,25.0,Clay,6.57,62.36,38.87,48.54,Medium,Fruiting,Low,Aphids
+Groundnut,38.25,64.79,87.79,Sandy,6.9,96.38,74.78,5.0,Medium,Vegetative,High,Leaf Miner
+Sugarcane,28.0,82.55,266.81,Red Soil,4.93,69.67,45.74,44.31,Medium,Maturity,High,Early Shoot Borer
+Groundnut,31.91,74.28,89.1,Red Soil,6.12,39.09,65.43,83.29,High,Germination,High,Leaf Miner
+Tomato,24.05,71.31,179.32,Black Soil,6.24,116.19,21.47,61.16,Medium,Maturity,High,Fruit Borer
+Tomato,24.1,48.94,25.92,Red Soil,6.27,42.41,50.66,36.9,High,Maturity,Low,Leaf Miner
+Paddy,33.41,62.32,46.13,Loamy,5.47,72.16,30.93,95.74,High,Fruiting,High,Brown Planthopper
+Sugarcane,21.25,81.48,156.33,Red Soil,6.25,84.65,30.15,63.46,Medium,Maturity,High,Early Shoot Borer
+Groundnut,25.92,68.57,95.64,Black Soil,5.77,88.66,59.89,102.34,Medium,Vegetative,Medium,Thrips
+Maize,28.17,77.89,78.36,Sandy,6.23,80.09,42.59,81.42,Low,Germination,Medium,Stem Borer
+Tomato,28.56,94.5,177.71,Sandy,5.12,10.0,17.29,64.71,High,Maturity,High,Fruit Borer
+Tomato,27.1,83.58,154.95,Red Soil,6.24,53.92,46.96,105.88,Low,Fruiting,High,Fruit Borer
+Maize,29.98,69.4,97.48,Clay,5.92,83.89,30.68,50.63,Medium,Vegetative,High,Fall Armyworm
+Groundnut,31.46,60.34,6.47,Sandy,6.29,71.73,16.11,32.63,Medium,Fruiting,Low,Thrips
+Groundnut,31.67,29.7,85.13,Red Soil,6.74,90.35,25.09,99.98,Medium,Vegetative,Low,Thrips
+Sugarcane,23.07,65.47,114.5,Black Soil,6.46,105.64,85.92,75.11,Medium,Vegetative,High,Early Shoot Borer
+Sugarcane,26.58,63.11,16.37,Red Soil,7.13,90.2,69.25,94.85,High,Flowering,Low,Whitefly
+Paddy,33.97,73.86,111.84,Sandy,6.21,53.13,5.0,82.03,Medium,Germination,Medium,Stem Borer
+Tomato,32.47,65.69,183.0,Black Soil,7.0,58.84,41.23,101.09,High,Maturity,High,Fruit Borer
+Sugarcane,21.14,63.19,85.01,Red Soil,7.4,123.94,42.69,47.21,Medium,Germination,Low,Whitefly
+Groundnut,29.76,41.31,36.76,Loamy,6.72,69.63,39.68,55.28,Low,Vegetative,Low,Thrips
+Maize,18.11,53.9,7.64,Black Soil,6.48,72.14,31.72,55.02,Low,Vegetative,Low,Aphids
+Groundnut,28.23,75.15,113.38,Loamy,6.83,90.3,59.94,55.36,Medium,Fruiting,Medium,Aphids
+Tomato,37.49,93.74,18.6,Clay,6.75,112.12,63.85,20.82,Low,Germination,Low,Whitefly
+Groundnut,23.26,66.54,128.97,Black Soil,7.3,47.96,65.98,64.09,Medium,Flowering,Medium,Thrips
+Paddy,23.83,72.92,258.63,Loamy,7.14,60.12,51.6,79.78,Low,Maturity,High,Brown Planthopper
+Tomato,31.82,82.29,47.91,Sandy,7.14,26.88,57.17,42.99,Medium,Vegetative,Medium,Whitefly
+Maize,20.29,55.84,71.77,Sandy,6.54,66.11,38.11,37.16,Medium,Germination,Low,Aphids
+Paddy,24.84,73.5,268.08,Clay,6.77,92.03,13.47,56.6,Medium,Maturity,High,Brown Planthopper
+Tomato,30.98,56.89,92.63,Black Soil,6.76,64.07,12.94,79.61,Low,Germination,Low,Leaf Miner
+Maize,24.83,80.97,59.93,Black Soil,5.53,127.79,27.97,33.11,Medium,Germination,Low,Stem Borer
+Paddy,26.82,70.27,166.32,Black Soil,7.36,78.49,40.99,118.38,Medium,Fruiting,Medium,Stem Borer
+Paddy,31.72,72.48,62.52,Clay,5.16,71.93,19.34,27.52,Low,Flowering,Medium,Stem Borer
+Tomato,30.11,56.26,45.32,Black Soil,7.07,64.44,22.4,45.73,Medium,Flowering,Low,Leaf Miner
+Sugarcane,29.33,78.61,127.63,Sandy,6.71,34.2,37.43,88.35,Medium,Fruiting,High,Early Shoot Borer
+Paddy,26.3,98.0,175.17,Loamy,6.27,72.29,62.28,84.19,Low,Maturity,High,Brown Planthopper
+Paddy,29.85,52.88,45.05,Sandy,6.81,85.75,51.69,82.0,Medium,Vegetative,Low,Leaf Folder
+Maize,27.38,62.9,98.18,Sandy,6.83,71.46,27.73,42.86,Medium,Maturity,Medium,Aphids
+Groundnut,30.29,71.47,74.16,Loamy,5.45,81.93,45.93,47.61,Medium,Germination,High,Leaf Miner
+Tomato,25.52,79.8,83.26,Sandy,7.63,54.88,18.43,38.59,Medium,Vegetative,Low,Whitefly
+Tomato,27.09,59.61,37.08,Clay,6.56,37.66,27.73,52.0,Medium,Fruiting,Low,Leaf Miner
+Sugarcane,23.05,25.5,134.28,Loamy,8.35,71.81,11.86,69.57,Medium,Flowering,Medium,Whitefly
+Sugarcane,27.82,88.39,223.93,Sandy,7.13,81.62,53.58,38.47,High,Maturity,High,Early Shoot Borer
+Tomato,23.94,79.41,44.19,Red Soil,6.54,69.94,39.34,16.3,Low,Flowering,Medium,Whitefly
+Sugarcane,22.43,41.86,134.2,Sandy,5.95,81.11,41.85,89.23,Medium,Maturity,Low,Whitefly
+Maize,29.29,58.89,163.8,Clay,6.41,98.3,61.12,55.5,Medium,Fruiting,Low,Aphids
+Tomato,29.06,91.52,97.67,Black Soil,6.62,98.19,25.05,78.7,Medium,Vegetative,High,Fruit Borer
+Sugarcane,31.91,89.72,130.38,Sandy,7.67,100.72,54.33,52.27,Medium,Flowering,High,Early Shoot Borer
+Tomato,25.84,82.08,48.56,Black Soil,7.48,105.16,84.7,73.57,Medium,Flowering,Medium,Whitefly
+Groundnut,30.04,65.36,215.86,Red Soil,6.86,89.91,25.36,118.15,Medium,Fruiting,High,Leaf Miner
+Paddy,30.75,69.24,176.04,Sandy,7.92,85.69,13.74,31.42,Medium,Flowering,High,Brown Planthopper
+Tomato,30.22,66.04,189.27,Loamy,4.89,133.29,19.84,40.55,High,Flowering,High,Fruit Borer
+Paddy,23.87,84.92,31.74,Black Soil,6.87,98.51,52.77,37.48,High,Fruiting,Medium,Stem Borer
+Sugarcane,28.75,54.86,119.36,Red Soil,7.5,49.64,79.93,112.6,Medium,Flowering,Low,Whitefly
+Paddy,29.82,55.91,51.53,Loamy,6.94,19.11,79.11,59.55,High,Vegetative,Medium,Leaf Folder
+Tomato,28.04,83.15,227.8,Loamy,5.43,67.77,61.9,82.19,Low,Maturity,High,Fruit Borer
+Groundnut,17.57,67.33,44.98,Loamy,7.61,93.74,62.59,5.0,Medium,Germination,Low,Thrips
+Sugarcane,28.8,88.68,100.48,Loamy,7.11,103.77,54.29,69.36,Low,Flowering,Medium,Top Borer
+Tomato,39.06,57.93,11.76,Sandy,6.77,37.49,59.5,50.98,Low,Fruiting,Medium,Leaf Miner
+Sugarcane,26.2,67.18,100.11,Sandy,6.57,96.88,51.08,94.72,Medium,Flowering,Low,Whitefly
+Maize,24.36,54.16,32.07,Sandy,8.09,109.04,29.0,76.47,Medium,Vegetative,Low,Aphids
+Paddy,29.87,68.11,123.57,Red Soil,6.86,93.26,79.27,49.51,Medium,Fruiting,Medium,Leaf Folder
+Maize,29.56,45.82,75.81,Red Soil,6.31,87.47,71.71,99.5,Medium,Fruiting,Low,Aphids
+Tomato,33.96,60.69,63.96,Red Soil,5.85,71.02,29.46,101.79,Medium,Flowering,Low,Leaf Miner
+Groundnut,21.71,46.46,231.51,Clay,7.11,61.2,57.97,97.64,Medium,Maturity,High,Leaf Miner
+Sugarcane,31.66,78.41,300.0,Red Soil,7.29,98.57,74.22,79.06,Medium,Maturity,High,Early Shoot Borer
+Paddy,30.95,78.75,24.0,Sandy,6.55,92.5,53.37,53.07,Medium,Germination,Medium,Stem Borer
+Sugarcane,27.29,42.05,65.57,Sandy,6.05,65.19,40.89,65.8,Medium,Fruiting,Low,Whitefly
+Tomato,29.69,88.01,148.71,Clay,7.56,151.26,73.59,49.58,Medium,Flowering,High,Fruit Borer
+Sugarcane,33.15,98.0,109.96,Clay,5.79,29.71,50.11,65.53,Low,Vegetative,High,Early Shoot Borer
+Paddy,32.36,68.69,143.28,Red Soil,8.08,68.04,32.44,45.13,Low,Vegetative,High,Brown Planthopper
+Tomato,22.28,58.38,79.92,Black Soil,5.91,51.86,22.0,55.76,Medium,Flowering,Low,Leaf Miner
+Sugarcane,32.1,98.0,180.83,Clay,5.48,86.53,5.0,113.59,Medium,Fruiting,High,Early Shoot Borer
+Groundnut,27.68,48.22,97.41,Loamy,5.58,16.53,84.46,67.77,Medium,Vegetative,Medium,Thrips
+Tomato,28.36,68.3,114.49,Sandy,5.61,113.08,28.26,49.25,Low,Vegetative,Medium,Leaf Miner
+Tomato,28.37,70.69,32.11,Loamy,6.31,105.16,64.28,32.49,Medium,Germination,Low,Whitefly
+Groundnut,27.25,88.18,90.46,Sandy,6.13,83.02,26.59,57.5,High,Fruiting,Medium,Aphids
+Maize,33.96,73.4,149.79,Sandy,7.32,65.69,48.34,78.63,High,Maturity,High,Fall Armyworm
+Paddy,27.58,60.52,105.76,Clay,7.21,96.49,53.99,63.42,Medium,Flowering,Medium,Leaf Folder
+Maize,22.4,53.73,93.37,Clay,6.32,84.86,20.22,58.65,Low,Fruiting,Medium,Aphids
+Sugarcane,26.03,62.87,119.46,Loamy,8.5,103.56,64.14,70.64,Medium,Flowering,High,Early Shoot Borer
+Groundnut,28.89,52.9,97.02,Sandy,6.31,71.33,41.04,69.86,Low,Flowering,Medium,Thrips
+Maize,34.15,68.72,81.89,Loamy,6.42,69.56,56.05,77.63,Medium,Vegetative,Medium,Aphids
+Tomato,31.02,59.54,152.9,Black Soil,5.48,107.33,74.09,78.3,Low,Flowering,High,Fruit Borer
+Sugarcane,23.75,45.59,77.78,Loamy,6.44,94.01,59.79,57.79,High,Flowering,Low,Whitefly
+Sugarcane,40.43,86.83,30.32,Red Soil,6.74,69.78,43.1,56.54,Medium,Vegetative,Medium,Top Borer
+Maize,29.32,60.53,224.82,Loamy,5.55,86.04,83.88,60.02,Medium,Maturity,High,Fall Armyworm
+Maize,34.38,48.98,52.8,Red Soil,6.1,80.54,44.11,74.01,Medium,Flowering,Low,Aphids
+Groundnut,27.24,65.48,22.85,Red Soil,6.76,89.02,46.86,88.03,Low,Germination,Low,Thrips
+Paddy,30.67,69.03,129.66,Red Soil,6.08,113.08,41.73,51.58,Medium,Vegetative,Medium,Leaf Folder
+Maize,32.2,41.8,243.36,Black Soil,5.91,64.5,20.49,55.91,Medium,Maturity,High,Fall Armyworm
+Maize,34.09,72.97,131.76,Loamy,7.13,55.66,18.28,39.66,Medium,Fruiting,High,Fall Armyworm
+Tomato,33.29,52.29,204.47,Loamy,5.47,83.21,33.92,22.62,High,Maturity,High,Fruit Borer
+Sugarcane,32.36,93.67,40.9,Black Soil,5.63,58.9,24.73,29.05,Medium,Flowering,Medium,Top Borer
+Paddy,26.42,75.86,30.71,Sandy,6.64,47.67,39.45,34.91,High,Maturity,Medium,Stem Borer
+Tomato,25.14,62.0,65.39,Clay,7.18,104.81,61.52,43.36,Medium,Vegetative,High,Fruit Borer
+Groundnut,29.66,56.82,172.17,Loamy,6.74,66.38,36.82,71.5,Medium,Fruiting,Medium,Thrips
+Groundnut,32.67,66.43,123.87,Clay,6.32,18.96,49.4,33.22,Medium,Fruiting,High,Leaf Miner
+Maize,26.89,77.19,130.17,Black Soil,6.26,100.42,34.88,60.44,High,Maturity,High,Fall Armyworm
+Maize,33.33,67.62,93.33,Sandy,7.31,61.86,95.9,80.95,Low,Flowering,Medium,Aphids
+Groundnut,35.26,64.74,66.37,Sandy,7.19,92.33,75.16,39.25,Medium,Germination,Low,Thrips
+Maize,23.42,68.88,96.37,Sandy,6.54,107.5,40.05,47.7,Medium,Germination,Medium,Aphids
+Paddy,23.82,58.94,75.78,Black Soil,6.28,80.69,50.44,27.0,Low,Vegetative,Medium,Leaf Folder
+Maize,27.3,62.85,62.87,Red Soil,6.53,13.94,18.19,36.19,Low,Vegetative,Medium,Aphids
+Sugarcane,29.54,36.71,112.05,Red Soil,5.92,16.09,40.71,94.25,High,Germination,Low,Whitefly
+Maize,25.38,82.61,70.46,Clay,6.38,54.83,32.99,72.62,Low,Vegetative,Medium,Stem Borer
+Tomato,34.76,72.48,103.32,Red Soil,6.11,73.29,59.86,113.74,Low,Fruiting,High,Fruit Borer
+Paddy,30.12,56.4,13.32,Red Soil,6.42,111.0,26.39,41.57,High,Vegetative,Low,Leaf Folder
+Tomato,28.2,96.48,97.39,Sandy,6.14,83.74,78.15,97.71,Medium,Fruiting,High,Fruit Borer
+Tomato,20.82,69.31,70.13,Sandy,6.92,153.52,43.69,41.78,Medium,Flowering,Low,Leaf Miner
+Sugarcane,21.42,52.46,211.59,Clay,7.15,30.26,27.61,47.47,Medium,Vegetative,High,Early Shoot Borer
+Paddy,29.41,80.85,21.85,Loamy,6.2,78.64,45.64,128.06,Medium,Flowering,Low,Stem Borer
+Paddy,17.34,73.97,92.32,Clay,5.85,61.64,59.74,39.12,High,Vegetative,Medium,Stem Borer
+Paddy,33.06,73.92,150.99,Clay,7.07,82.04,55.41,99.67,Medium,Flowering,Medium,Stem Borer
+Paddy,27.21,61.61,78.04,Black Soil,6.65,127.55,48.13,59.2,High,Vegetative,Low,Leaf Folder
+Paddy,42.0,74.76,68.34,Black Soil,6.21,129.45,62.55,33.08,Low,Fruiting,High,Brown Planthopper
+Sugarcane,39.54,64.07,150.65,Clay,7.6,76.63,61.33,24.23,Medium,Vegetative,High,Early Shoot Borer
+Maize,27.09,76.34,121.81,Clay,6.05,100.85,61.43,62.63,Low,Maturity,Medium,Stem Borer
+Tomato,27.47,39.43,128.1,Clay,4.91,81.47,39.49,31.91,Low,Maturity,Medium,Leaf Miner
+Paddy,32.98,61.49,62.96,Red Soil,5.93,42.74,39.35,52.61,Medium,Germination,Medium,Leaf Folder
+Maize,36.52,93.83,56.98,Black Soil,7.79,75.43,40.85,12.39,Low,Vegetative,High,Fall Armyworm
+Maize,19.81,56.49,103.41,Clay,6.25,59.85,35.12,68.86,Medium,Fruiting,Low,Aphids
+Tomato,19.07,58.94,159.0,Sandy,6.09,73.12,47.11,21.44,High,Flowering,Medium,Leaf Miner
+Sugarcane,24.89,61.28,26.88,Sandy,6.52,49.44,44.89,58.5,Medium,Germination,Low,Whitefly
+Groundnut,30.91,49.78,80.11,Red Soil,7.31,79.65,78.1,25.41,Low,Flowering,Low,Thrips
+Groundnut,30.48,34.88,59.01,Red Soil,6.43,84.17,34.9,90.65,Medium,Germination,Low,Thrips
+Maize,33.35,64.54,87.27,Loamy,6.97,96.13,25.27,7.25,High,Flowering,High,Fall Armyworm
+Tomato,22.0,70.04,141.65,Loamy,6.35,84.3,57.91,52.93,Medium,Maturity,High,Fruit Borer
+Groundnut,16.42,67.21,44.27,Loamy,6.98,124.04,46.43,73.99,Medium,Vegetative,Low,Thrips
+Maize,32.29,65.83,131.21,Red Soil,6.64,140.77,31.27,68.97,Low,Vegetative,Medium,Aphids
+Sugarcane,23.86,68.65,64.61,Red Soil,6.18,62.86,60.64,28.83,Low,Fruiting,Medium,Whitefly
+Groundnut,17.91,83.34,175.61,Red Soil,6.71,104.1,39.42,16.51,Medium,Maturity,High,Leaf Miner
+Maize,28.73,65.14,46.44,Sandy,6.07,138.44,75.49,79.53,Low,Flowering,Low,Aphids
+Maize,31.97,59.39,157.55,Red Soil,5.4,104.88,26.0,56.91,High,Flowering,High,Fall Armyworm
+Paddy,27.39,63.78,29.59,Sandy,6.48,96.52,33.38,33.21,Medium,Germination,Low,Leaf Folder
+Sugarcane,25.71,76.69,98.62,Loamy,5.47,20.34,47.55,80.44,Medium,Germination,Medium,Top Borer
+Paddy,27.2,89.18,133.07,Loamy,6.98,58.26,72.16,45.93,High,Flowering,Medium,Stem Borer
+Tomato,26.15,58.58,47.47,Loamy,6.47,62.64,30.73,43.57,High,Fruiting,Low,Leaf Miner
+Paddy,21.26,69.48,60.54,Clay,7.64,116.62,52.53,38.33,Medium,Germination,Low,Leaf Folder
+Paddy,24.43,73.08,87.95,Clay,6.24,53.08,21.72,41.01,High,Vegetative,Low,Stem Borer
+Groundnut,30.61,53.11,68.16,Black Soil,6.48,72.44,63.33,40.11,High,Fruiting,Medium,Thrips
+Maize,29.61,68.31,56.19,Black Soil,5.32,100.21,31.96,68.21,High,Fruiting,High,Fall Armyworm
+Sugarcane,28.84,46.01,152.16,Black Soil,5.62,51.73,57.38,98.77,High,Flowering,Medium,Whitefly
+Paddy,23.02,41.46,187.32,Clay,5.16,83.37,58.41,25.08,Medium,Maturity,High,Brown Planthopper
+Sugarcane,27.09,73.5,180.23,Clay,7.36,79.46,8.68,51.47,Medium,Flowering,Medium,Top Borer
+Paddy,17.11,62.24,118.38,Black Soil,6.13,101.31,49.19,55.9,Low,Flowering,Medium,Leaf Folder
+Tomato,28.89,71.03,129.41,Black Soil,7.56,94.77,34.89,71.61,Medium,Germination,Medium,Whitefly
+Paddy,35.14,67.73,41.18,Red Soil,4.5,93.82,54.97,84.71,Low,Flowering,Medium,Leaf Folder
+Groundnut,20.63,53.35,82.19,Black Soil,7.74,81.02,27.52,56.02,Low,Vegetative,Low,Thrips
+Maize,25.07,67.32,93.18,Red Soil,6.45,24.72,33.37,44.07,Medium,Vegetative,Medium,Aphids
+Tomato,29.65,49.5,106.02,Sandy,6.77,79.19,68.97,74.45,Low,Flowering,Medium,Leaf Miner
+Paddy,34.26,88.86,104.74,Clay,5.65,76.66,67.42,19.0,High,Flowering,High,Brown Planthopper
+Sugarcane,25.76,47.66,88.11,Black Soil,6.92,98.0,25.12,6.4,High,Vegetative,Medium,Whitefly
+Tomato,24.54,65.06,117.45,Clay,6.2,62.31,80.93,124.76,Low,Fruiting,Medium,Leaf Miner
+Tomato,18.16,52.37,101.54,Clay,5.54,76.25,5.0,39.8,Low,Vegetative,Low,Leaf Miner
+Paddy,28.52,76.56,101.38,Clay,5.53,77.2,49.29,49.66,High,Flowering,High,Brown Planthopper
+Tomato,38.21,63.03,50.08,Sandy,5.52,53.62,19.31,73.6,High,Germination,High,Fruit Borer
+Sugarcane,29.39,60.22,33.51,Loamy,6.8,40.4,52.43,68.67,High,Vegetative,Medium,Whitefly
+Tomato,27.89,80.8,106.39,Black Soil,5.99,86.48,39.77,82.13,High,Flowering,High,Fruit Borer
+Sugarcane,29.61,68.44,62.59,Loamy,5.19,105.23,24.65,83.44,High,Vegetative,Medium,Whitefly
+Paddy,27.94,75.75,51.98,Loamy,6.8,56.25,30.25,23.94,Medium,Flowering,High,Brown Planthopper
+Maize,23.93,53.28,135.35,Loamy,4.76,68.47,29.27,91.73,Medium,Germination,Low,Aphids
+Tomato,32.12,46.93,82.83,Clay,7.56,99.89,46.53,72.77,High,Vegetative,Medium,Leaf Miner
+Maize,29.13,69.61,205.06,Red Soil,8.09,102.8,64.49,69.45,Medium,Maturity,High,Fall Armyworm
+Sugarcane,28.09,63.22,125.92,Clay,5.45,81.94,84.18,70.56,High,Maturity,High,Early Shoot Borer
+Tomato,23.12,77.4,47.61,Clay,7.34,87.43,41.58,5.0,Medium,Germination,Low,Whitefly
+Groundnut,34.52,66.8,136.46,Loamy,6.78,90.96,50.98,54.75,High,Fruiting,Medium,Thrips
+Maize,31.32,71.08,113.7,Clay,6.1,96.33,68.72,35.84,Medium,Fruiting,High,Fall Armyworm
+Tomato,25.24,43.65,46.16,Loamy,6.14,42.86,36.02,32.23,Medium,Vegetative,Low,Leaf Miner
+Maize,33.01,96.33,56.88,Red Soil,7.02,132.52,29.34,47.8,Medium,Germination,High,Fall Armyworm
+Tomato,25.51,65.54,132.22,Black Soil,6.47,83.22,83.97,80.64,High,Flowering,Medium,Leaf Miner
+Paddy,24.09,78.46,17.58,Loamy,4.5,96.89,41.4,67.18,Medium,Germination,Low,Stem Borer
+Maize,24.2,55.46,11.25,Red Soil,8.16,52.15,49.35,70.94,High,Vegetative,Low,Aphids
+Groundnut,19.14,72.62,97.44,Black Soil,6.85,69.42,12.92,48.84,High,Germination,High,Leaf Miner
+Groundnut,30.36,48.46,92.42,Sandy,6.46,86.31,34.52,69.41,Medium,Flowering,Low,Thrips
+Sugarcane,18.84,74.78,103.54,Loamy,5.93,20.87,82.74,55.02,High,Vegetative,High,Early Shoot Borer
+Tomato,21.86,62.66,92.6,Loamy,6.35,47.97,54.26,83.73,Medium,Vegetative,Low,Leaf Miner
+Maize,17.62,68.44,116.44,Sandy,7.52,53.24,44.43,77.39,Low,Flowering,Medium,Aphids
+Sugarcane,27.57,78.47,188.97,Sandy,6.71,36.64,72.87,64.0,Low,Fruiting,Medium,Top Borer
+Maize,27.25,49.51,86.77,Loamy,6.8,78.18,12.1,39.97,High,Fruiting,Medium,Aphids
+Tomato,26.37,57.73,24.89,Sandy,5.5,72.78,36.71,66.82,Medium,Germination,Low,Leaf Miner
+Groundnut,22.79,74.86,15.44,Clay,6.22,117.71,90.5,66.06,Low,Vegetative,Low,Aphids
+Paddy,22.14,98.0,66.84,Black Soil,6.54,41.38,44.0,62.98,Medium,Germination,High,Brown Planthopper
+Groundnut,30.32,65.93,68.15,Black Soil,7.06,82.04,43.86,48.1,Medium,Maturity,Low,Thrips
+Sugarcane,25.25,76.87,28.97,Black Soil,6.17,48.6,68.58,43.64,Low,Germination,Medium,Top Borer
+Paddy,29.58,66.4,8.94,Clay,7.24,23.49,69.97,68.06,Medium,Flowering,Low,Leaf Folder
+Sugarcane,23.57,97.13,63.18,Sandy,5.58,92.63,18.97,38.56,Medium,Fruiting,High,Early Shoot Borer
+Tomato,28.91,41.79,242.57,Red Soil,6.56,95.12,53.56,53.71,Low,Maturity,Medium,Leaf Miner
+Paddy,34.52,69.42,113.23,Sandy,6.42,91.56,80.12,74.67,Medium,Flowering,High,Brown Planthopper
+Sugarcane,30.93,43.62,106.6,Loamy,5.29,35.51,32.14,71.04,Medium,Vegetative,Low,Whitefly
+Tomato,25.94,30.4,76.35,Black Soil,6.46,77.51,37.55,31.07,Low,Vegetative,Low,Leaf Miner
+Groundnut,29.29,72.46,66.75,Sandy,6.03,92.92,45.58,67.46,Medium,Germination,Medium,Aphids
+Tomato,26.8,70.09,121.05,Red Soil,7.63,103.56,58.89,110.8,Medium,Flowering,Medium,Whitefly
+Maize,28.04,63.73,32.14,Loamy,6.17,93.85,16.45,76.89,Low,Fruiting,Low,Aphids
+Tomato,26.37,66.41,282.98,Clay,6.78,103.95,5.0,53.14,Low,Maturity,High,Fruit Borer
+Tomato,27.18,98.0,34.31,Clay,5.52,107.02,49.31,92.69,Low,Vegetative,High,Fruit Borer
+Maize,29.06,64.13,128.45,Red Soil,6.69,78.15,68.32,114.98,Low,Vegetative,Medium,Aphids
+Sugarcane,23.03,75.65,37.13,Loamy,6.17,89.96,38.76,81.58,High,Flowering,Medium,Top Borer
+Sugarcane,22.92,58.26,94.24,Black Soil,5.88,104.99,32.79,16.71,Medium,Vegetative,Low,Whitefly
+Tomato,21.06,72.43,137.7,Sandy,8.5,86.7,41.66,75.42,Low,Maturity,High,Fruit Borer
+Maize,20.0,64.43,20.49,Loamy,6.22,110.97,76.95,93.72,Low,Flowering,Medium,Aphids
+Maize,21.91,61.84,40.69,Clay,6.33,101.23,31.71,8.4,Medium,Fruiting,Medium,Aphids
+Groundnut,28.8,95.28,42.99,Red Soil,7.22,56.03,56.41,83.43,High,Germination,Medium,Aphids
+Sugarcane,23.54,85.66,71.02,Red Soil,5.89,35.82,21.93,54.92,Medium,Fruiting,Medium,Top Borer
+Paddy,30.57,70.05,102.56,Sandy,6.82,75.58,22.89,92.89,Low,Fruiting,High,Brown Planthopper
+Sugarcane,28.17,33.44,245.7,Red Soil,6.91,39.57,61.9,58.22,Medium,Fruiting,Medium,Whitefly
+Sugarcane,18.16,62.58,56.49,Red Soil,6.7,77.49,77.69,68.58,Medium,Fruiting,Medium,Whitefly
+Groundnut,31.27,98.0,235.81,Loamy,8.34,74.78,62.78,69.0,Low,Maturity,High,Leaf Miner
+Paddy,32.05,64.54,110.54,Black Soil,5.86,114.03,5.0,77.85,Medium,Maturity,Medium,Leaf Folder
+Groundnut,23.03,84.55,33.3,Sandy,7.73,90.15,36.6,71.18,Medium,Germination,Low,Aphids
+Paddy,30.1,89.63,76.61,Loamy,6.88,104.34,49.78,37.52,Low,Vegetative,Medium,Stem Borer
+Tomato,23.72,71.28,25.3,Black Soil,7.23,60.31,46.19,53.42,Medium,Vegetative,Low,Whitefly
+Paddy,28.49,55.37,66.87,Loamy,6.77,120.89,6.61,59.84,Medium,Fruiting,Low,Leaf Folder
+Groundnut,21.68,31.47,63.43,Loamy,8.0,101.81,19.06,90.76,Medium,Flowering,Low,Thrips
+Sugarcane,19.03,78.26,95.34,Red Soil,6.24,87.82,28.96,72.11,Medium,Vegetative,High,Early Shoot Borer
+Paddy,26.09,55.78,128.74,Black Soil,6.9,20.8,43.65,43.56,Medium,Maturity,Low,Leaf Folder
+Paddy,27.38,70.64,81.04,Sandy,7.54,110.36,6.32,37.01,Medium,Vegetative,Low,Stem Borer
+Maize,26.01,49.25,36.7,Sandy,6.05,128.2,57.0,76.37,Medium,Germination,Low,Aphids
+Sugarcane,22.08,64.02,204.51,Black Soil,7.3,75.34,43.14,48.13,Medium,Flowering,Medium,Whitefly
+Tomato,26.0,68.51,255.74,Red Soil,6.49,75.95,24.14,78.83,Low,Flowering,High,Fruit Borer
+Groundnut,29.35,72.03,75.38,Clay,5.51,59.5,48.87,58.61,Medium,Germination,Low,Aphids
+Tomato,27.78,51.28,107.22,Loamy,5.34,26.05,16.2,96.5,Medium,Flowering,Low,Leaf Miner
+Sugarcane,28.91,85.95,72.35,Red Soil,6.43,58.14,43.96,41.57,Medium,Germination,Medium,Top Borer
+Paddy,24.65,59.05,95.88,Black Soil,7.29,124.78,8.99,95.97,High,Fruiting,Medium,Leaf Folder
+Paddy,33.86,42.88,99.47,Loamy,4.84,107.37,11.9,84.59,High,Fruiting,High,Brown Planthopper
+Sugarcane,22.12,66.36,29.38,Sandy,6.66,51.82,35.92,48.99,Low,Vegetative,Low,Whitefly
+Paddy,30.44,68.52,67.81,Clay,7.21,57.65,30.67,38.04,High,Flowering,Medium,Leaf Folder
+Paddy,33.91,70.41,166.58,Sandy,5.48,139.05,52.69,108.19,Medium,Vegetative,High,Brown Planthopper
+Paddy,30.4,88.43,157.27,Black Soil,5.99,44.4,44.63,37.43,Medium,Maturity,High,Brown Planthopper
+Groundnut,26.99,64.45,66.88,Loamy,6.96,53.54,87.01,67.66,High,Maturity,High,Leaf Miner
+Groundnut,25.36,66.21,100.8,Black Soil,7.18,62.11,39.7,68.63,Medium,Maturity,Medium,Thrips
+Maize,33.18,51.45,70.72,Loamy,7.78,34.26,5.0,60.25,Medium,Germination,Low,Aphids
+Tomato,20.89,80.31,132.05,Red Soil,6.03,58.87,5.0,79.53,High,Fruiting,High,Fruit Borer
+Sugarcane,23.15,70.76,20.32,Clay,5.85,59.33,21.08,36.74,Low,Germination,Low,Top Borer
+Sugarcane,26.01,61.7,121.27,Red Soil,7.82,47.93,100.0,108.33,Medium,Vegetative,Medium,Whitefly
+Sugarcane,34.19,39.43,213.28,Red Soil,5.9,114.84,44.27,39.39,Medium,Fruiting,Medium,Whitefly
+Maize,29.9,89.67,49.65,Black Soil,6.91,40.0,67.17,56.4,High,Maturity,Medium,Stem Borer
+Groundnut,23.16,49.58,195.03,Clay,8.25,70.74,65.14,24.05,High,Maturity,High,Leaf Miner
+Maize,26.45,59.13,104.33,Loamy,7.1,48.69,19.66,86.15,Low,Vegetative,Medium,Aphids
+Sugarcane,24.93,73.38,80.89,Loamy,7.13,68.7,9.14,107.2,High,Flowering,Medium,Top Borer
+Tomato,24.45,50.05,66.49,Sandy,7.52,47.3,57.85,110.2,Medium,Germination,Low,Leaf Miner
+Paddy,32.89,45.6,199.42,Loamy,6.92,77.28,5.0,88.37,High,Fruiting,High,Brown Planthopper
+Groundnut,21.14,36.14,70.89,Black Soil,7.13,84.64,64.55,50.72,Medium,Fruiting,Low,Thrips
+Groundnut,36.04,78.81,233.78,Red Soil,6.23,117.07,42.66,60.04,Low,Maturity,High,Leaf Miner
+Maize,32.14,59.82,216.91,Red Soil,7.43,57.34,57.32,51.93,Low,Maturity,High,Fall Armyworm
+Groundnut,33.45,98.0,59.51,Red Soil,6.83,123.53,51.07,29.67,Low,Flowering,High,Leaf Miner
+Sugarcane,25.69,53.08,74.85,Clay,5.32,50.79,52.14,52.61,Low,Germination,Low,Whitefly
+Sugarcane,27.25,54.18,14.56,Loamy,6.69,67.86,47.09,82.72,High,Germination,Low,Whitefly
+Maize,20.83,59.52,82.82,Black Soil,4.76,127.94,50.63,38.33,Low,Fruiting,Medium,Aphids
+Sugarcane,25.38,71.65,90.4,Clay,7.07,160.0,45.92,5.0,High,Vegetative,High,Early Shoot Borer
+Tomato,30.47,60.95,178.14,Sandy,6.31,125.58,17.47,28.67,Medium,Vegetative,Medium,Leaf Miner
+Maize,34.48,77.18,224.4,Black Soil,8.02,68.29,37.12,80.46,Medium,Fruiting,High,Fall Armyworm
+Tomato,22.46,53.32,140.39,Black Soil,6.89,90.45,88.4,17.04,Low,Maturity,Medium,Leaf Miner
+Paddy,26.17,47.28,168.79,Black Soil,7.24,95.48,51.28,48.2,High,Fruiting,Low,Leaf Folder
+Tomato,27.24,41.03,74.8,Red Soil,5.66,85.36,67.85,50.41,Medium,Germination,Low,Leaf Miner
+Paddy,21.02,34.65,31.1,Black Soil,7.05,44.76,25.34,66.45,High,Fruiting,Low,Leaf Folder
+Paddy,30.96,60.23,104.19,Loamy,5.99,82.04,24.99,65.87,High,Maturity,High,Brown Planthopper
+Tomato,24.38,63.49,176.2,Black Soil,7.37,59.82,20.93,70.01,Low,Maturity,Medium,Leaf Miner
+Maize,27.02,58.53,4.79,Red Soil,5.61,45.95,18.36,56.28,Low,Flowering,Low,Aphids
+Sugarcane,25.74,86.65,93.49,Black Soil,6.59,65.66,12.55,36.39,High,Maturity,High,Early Shoot Borer
+Sugarcane,24.05,86.42,16.82,Sandy,5.57,84.46,49.66,82.54,High,Germination,Medium,Top Borer
+Paddy,27.96,62.98,46.44,Sandy,6.6,105.04,37.88,15.91,Medium,Flowering,Low,Leaf Folder
+Paddy,26.92,41.09,96.14,Red Soil,8.12,67.38,62.51,79.53,Medium,Fruiting,Low,Leaf Folder
+Maize,26.14,59.5,226.73,Loamy,7.08,72.64,38.79,88.6,Medium,Maturity,High,Fall Armyworm
+Groundnut,24.36,59.0,86.94,Loamy,6.47,99.12,5.0,118.42,Medium,Flowering,Medium,Thrips
+Tomato,29.6,58.14,134.36,Clay,4.53,77.13,53.87,41.15,Low,Flowering,High,Fruit Borer
+Paddy,36.27,57.53,103.49,Red Soil,6.07,86.45,5.0,46.0,Medium,Vegetative,Medium,Leaf Folder
+Sugarcane,28.7,58.2,48.77,Black Soil,6.88,77.34,49.29,61.33,Low,Fruiting,Low,Whitefly
+Maize,32.98,62.2,117.81,Red Soil,6.09,81.08,29.57,59.47,Medium,Vegetative,Medium,Aphids
+Tomato,21.05,58.47,30.34,Clay,7.64,42.63,49.65,80.87,High,Vegetative,Medium,Leaf Miner
+Maize,28.79,71.12,86.05,Red Soil,6.56,78.67,16.13,73.06,High,Vegetative,Medium,Stem Borer
+Tomato,22.51,73.41,197.01,Red Soil,7.36,117.84,60.57,51.2,High,Fruiting,High,Fruit Borer
+Tomato,20.62,54.34,98.04,Clay,6.66,80.07,45.75,57.55,High,Fruiting,High,Fruit Borer
+Paddy,24.3,87.07,103.52,Loamy,6.28,49.99,38.12,83.33,Medium,Flowering,High,Brown Planthopper
+Maize,33.96,53.3,66.79,Black Soil,6.12,119.3,11.1,28.35,High,Fruiting,High,Fall Armyworm
+Maize,32.75,43.73,21.8,Clay,5.69,96.64,81.21,54.16,High,Germination,Low,Aphids
+Sugarcane,29.22,73.71,72.66,Sandy,7.38,98.03,26.86,73.87,High,Flowering,Medium,Top Borer
+Sugarcane,20.34,55.74,152.08,Loamy,6.16,97.22,50.26,33.33,Medium,Flowering,Medium,Whitefly
+Paddy,27.02,72.82,112.73,Sandy,6.92,41.21,26.02,5.0,Low,Vegetative,High,Brown Planthopper
+Paddy,29.51,31.94,31.96,Loamy,6.08,94.43,100.0,96.16,Low,Germination,Low,Leaf Folder
+Groundnut,28.88,88.89,15.92,Black Soil,5.63,116.54,47.99,59.49,Low,Germination,Low,Aphids
+Sugarcane,18.78,78.08,48.31,Black Soil,6.94,60.59,32.71,28.56,High,Flowering,Medium,Top Borer
+Tomato,23.55,45.49,73.21,Red Soil,5.9,17.14,57.12,83.01,Medium,Flowering,Low,Leaf Miner
+Maize,27.68,45.82,77.13,Sandy,6.18,85.97,60.0,54.79,High,Fruiting,Medium,Aphids
+Paddy,30.68,93.08,77.88,Loamy,5.5,75.98,52.89,34.13,Medium,Flowering,Medium,Stem Borer
+Maize,17.02,56.94,86.33,Black Soil,6.11,28.57,38.53,69.24,Medium,Flowering,Low,Aphids
+Maize,27.19,55.49,115.3,Clay,6.52,93.16,53.81,61.29,Low,Flowering,Medium,Aphids
+Groundnut,28.72,34.01,63.39,Black Soil,6.27,90.91,41.89,44.67,Low,Flowering,Low,Thrips
+Sugarcane,32.25,62.74,40.06,Clay,7.15,31.02,44.49,40.76,Medium,Germination,Low,Whitefly
+Paddy,31.46,64.58,124.42,Loamy,6.62,131.68,29.29,34.35,Medium,Flowering,Medium,Leaf Folder
+Maize,30.91,78.73,154.48,Black Soil,8.5,97.53,15.73,78.39,Low,Fruiting,High,Fall Armyworm
+Paddy,24.0,47.01,55.88,Black Soil,6.84,18.29,56.26,28.79,High,Maturity,Medium,Leaf Folder
+Tomato,18.46,45.2,284.21,Loamy,5.11,99.57,57.13,40.06,Medium,Fruiting,High,Fruit Borer
+Groundnut,26.03,74.76,219.04,Black Soil,6.33,98.69,70.93,62.53,High,Flowering,High,Leaf Miner
+Tomato,33.01,83.1,34.04,Clay,6.4,117.45,45.97,96.47,Low,Germination,Medium,Whitefly
+Paddy,34.97,44.43,17.18,Black Soil,6.01,56.28,40.69,63.32,Medium,Germination,Low,Leaf Folder
+Paddy,31.55,84.22,75.59,Sandy,6.56,100.0,16.8,74.7,Medium,Vegetative,Low,Stem Borer
+Sugarcane,30.15,68.56,103.99,Red Soil,5.99,67.9,44.21,62.56,High,Vegetative,Medium,Whitefly
+Maize,29.9,84.38,281.59,Clay,6.77,58.31,52.2,82.66,Medium,Fruiting,High,Fall Armyworm
+Maize,25.22,66.95,275.65,Sandy,4.97,49.05,8.61,108.44,Medium,Maturity,High,Fall Armyworm
+Tomato,27.35,30.17,134.57,Loamy,7.42,17.91,66.38,49.06,High,Fruiting,Medium,Leaf Miner
+Groundnut,36.35,65.72,64.39,Clay,5.24,91.21,30.76,60.35,Low,Vegetative,Medium,Thrips
+Maize,23.29,83.9,183.18,Red Soil,6.29,66.81,41.08,64.34,Low,Fruiting,High,Fall Armyworm
+Sugarcane,36.07,54.59,93.93,Red Soil,5.91,10.0,56.96,73.25,High,Fruiting,High,Early Shoot Borer
+Tomato,26.39,62.18,27.82,Loamy,6.74,77.26,44.85,63.31,Medium,Germination,Low,Leaf Miner
+Tomato,34.63,65.36,28.82,Loamy,6.35,109.74,73.07,46.41,Medium,Vegetative,Medium,Leaf Miner
+Sugarcane,20.97,25.0,64.73,Clay,6.7,35.79,57.58,59.82,Medium,Vegetative,Low,Whitefly
+Groundnut,30.93,93.07,163.8,Black Soil,7.39,53.62,42.03,120.79,Low,Fruiting,High,Leaf Miner
+Sugarcane,24.32,54.48,36.63,Loamy,7.11,88.23,5.0,67.85,Low,Germination,Low,Whitefly
+Groundnut,20.92,75.59,64.62,Black Soil,6.53,10.0,64.92,12.23,Medium,Vegetative,Medium,Aphids
+Sugarcane,29.09,66.7,217.83,Sandy,6.87,58.99,21.41,50.13,High,Maturity,High,Early Shoot Borer
+Sugarcane,33.05,86.86,112.6,Red Soil,8.07,85.4,62.04,60.33,Medium,Maturity,High,Early Shoot Borer
+Paddy,23.78,74.09,121.77,Black Soil,7.14,58.17,54.8,56.49,Medium,Germination,Medium,Stem Borer
+Tomato,20.5,64.48,167.69,Red Soil,6.27,36.06,41.02,58.29,High,Maturity,Medium,Leaf Miner
+Sugarcane,27.54,54.6,65.64,Black Soil,7.52,37.5,64.07,67.16,Medium,Fruiting,Low,Whitefly
+Sugarcane,27.56,79.97,227.31,Sandy,6.81,26.64,55.42,72.72,Medium,Flowering,High,Early Shoot Borer
+Maize,30.74,39.9,137.28,Loamy,5.73,56.01,51.57,66.47,High,Flowering,Medium,Aphids
+Tomato,32.75,77.69,78.99,Sandy,6.36,106.7,10.67,83.77,Low,Flowering,Medium,Whitefly
+Maize,27.7,51.51,200.32,Loamy,5.32,145.86,45.8,22.62,Medium,Maturity,High,Fall Armyworm
+Tomato,37.28,86.78,133.26,Loamy,4.67,76.09,20.14,53.68,High,Maturity,High,Fruit Borer
+Maize,29.12,70.42,84.87,Red Soil,5.74,98.05,23.08,70.86,High,Germination,Medium,Stem Borer
+Sugarcane,26.27,77.66,124.22,Sandy,6.6,46.78,37.78,66.4,Low,Flowering,High,Early Shoot Borer
+Sugarcane,19.94,69.23,43.22,Black Soil,6.6,12.25,74.27,43.69,Low,Vegetative,Medium,Whitefly
+Paddy,26.69,41.71,183.61,Sandy,5.37,130.55,52.31,46.7,Medium,Maturity,Medium,Leaf Folder
+Maize,26.32,55.09,278.57,Red Soil,4.6,57.15,53.63,38.96,Medium,Maturity,High,Fall Armyworm
+Groundnut,32.8,78.09,20.84,Loamy,7.68,96.56,60.41,84.42,Medium,Germination,Medium,Aphids
+Paddy,30.31,70.5,55.38,Red Soil,6.58,79.75,27.51,13.7,Medium,Germination,Low,Stem Borer
+Maize,22.1,85.71,51.76,Clay,7.74,104.84,13.47,27.96,High,Germination,High,Fall Armyworm
+Maize,28.86,74.05,143.09,Clay,7.7,103.62,9.92,70.47,Medium,Germination,Medium,Stem Borer
+Paddy,31.36,53.5,100.25,Black Soil,7.09,83.33,49.62,73.58,High,Germination,Medium,Leaf Folder
+Sugarcane,35.64,56.06,62.17,Red Soil,6.55,86.63,64.73,20.39,Low,Fruiting,Low,Whitefly
+Maize,32.44,69.54,69.66,Black Soil,6.18,111.38,63.25,75.66,Low,Fruiting,Medium,Aphids
+Sugarcane,31.8,33.29,57.81,Black Soil,7.07,62.71,28.38,64.51,Medium,Flowering,Low,Whitefly
+Paddy,28.3,93.1,131.35,Clay,6.37,121.67,72.11,72.89,Low,Flowering,High,Brown Planthopper
+Sugarcane,29.94,74.63,99.1,Black Soil,6.03,53.76,85.86,61.81,Medium,Flowering,Medium,Top Borer
+Tomato,34.25,86.41,67.13,Clay,4.82,77.3,57.15,70.64,High,Flowering,High,Fruit Borer
+Groundnut,21.34,44.29,58.64,Loamy,6.43,93.88,74.75,71.5,Low,Germination,Low,Thrips
+Maize,26.25,86.67,202.58,Red Soil,7.38,26.13,62.46,71.8,Medium,Maturity,High,Fall Armyworm
+Groundnut,24.14,98.0,180.58,Black Soil,7.51,116.46,40.41,66.1,Medium,Maturity,High,Leaf Miner
+Sugarcane,29.9,48.19,132.38,Clay,6.54,89.28,31.71,57.86,Low,Vegetative,Low,Whitefly
+Maize,34.15,79.57,168.26,Sandy,5.79,160.0,12.74,58.01,Medium,Vegetative,High,Fall Armyworm
+Sugarcane,25.02,68.02,28.08,Black Soil,7.22,137.42,36.1,65.75,High,Flowering,Medium,Whitefly
+Tomato,16.05,44.83,36.34,Loamy,6.49,74.67,40.26,80.64,Medium,Vegetative,Low,Leaf Miner
+Paddy,25.94,75.39,32.94,Loamy,6.21,128.57,40.71,109.12,Medium,Flowering,Medium,Stem Borer
+Maize,32.57,80.5,86.77,Sandy,5.34,100.42,42.75,73.21,High,Maturity,High,Fall Armyworm
+Tomato,30.69,58.98,171.9,Clay,8.18,81.93,5.0,69.44,High,Flowering,High,Fruit Borer
+Tomato,30.14,85.49,62.86,Black Soil,7.09,25.22,60.58,90.39,Low,Vegetative,Medium,Whitefly
+Maize,26.6,43.0,187.47,Clay,7.18,32.29,62.9,69.91,Medium,Vegetative,Medium,Aphids
+Sugarcane,21.6,45.58,55.29,Loamy,5.81,75.13,52.42,33.49,Medium,Germination,Low,Whitefly
+Tomato,30.58,70.05,78.28,Clay,6.56,60.14,21.61,41.67,Medium,Vegetative,Medium,Whitefly
+Groundnut,23.83,68.38,62.31,Loamy,6.43,81.76,52.34,105.72,Medium,Fruiting,Medium,Thrips
+Tomato,38.92,57.25,73.91,Clay,7.13,116.17,45.45,42.16,Low,Fruiting,Medium,Leaf Miner
+Sugarcane,30.85,80.14,80.0,Sandy,7.59,100.95,54.49,74.25,Medium,Flowering,Medium,Top Borer
+Sugarcane,25.1,75.96,16.64,Red Soil,5.35,54.11,76.02,35.28,Medium,Germination,Low,Top Borer
+Groundnut,24.94,80.87,110.46,Sandy,5.64,102.75,41.43,92.11,Medium,Fruiting,High,Leaf Miner
+Tomato,27.54,66.15,78.63,Sandy,7.02,47.58,48.63,48.5,High,Flowering,High,Fruit Borer
+Sugarcane,26.8,77.04,226.99,Red Soil,6.09,40.73,27.71,62.07,High,Fruiting,High,Early Shoot Borer
+Maize,33.58,61.32,128.02,Red Soil,7.15,86.45,63.43,54.29,Medium,Fruiting,High,Fall Armyworm
+Paddy,28.93,98.0,107.16,Black Soil,6.2,50.56,59.05,72.62,Medium,Vegetative,High,Brown Planthopper
+Paddy,24.34,55.81,218.41,Black Soil,5.5,55.74,49.33,64.29,Medium,Maturity,High,Brown Planthopper
+Paddy,37.45,98.0,204.39,Sandy,5.09,104.82,23.94,82.75,Medium,Maturity,High,Brown Planthopper
+Tomato,28.25,68.52,233.48,Sandy,6.89,94.73,31.33,76.38,High,Flowering,High,Fruit Borer
+Groundnut,31.84,47.37,58.0,Loamy,6.91,63.85,8.37,67.05,Medium,Vegetative,Low,Thrips
+Sugarcane,24.96,88.52,32.21,Loamy,7.28,26.25,31.1,76.28,Medium,Vegetative,Medium,Top Borer
+Maize,29.82,69.89,16.74,Black Soil,6.76,52.95,59.19,77.51,Medium,Vegetative,Low,Aphids
+Maize,29.56,80.77,166.75,Black Soil,4.5,133.26,52.92,50.06,Medium,Maturity,High,Fall Armyworm
+Tomato,18.55,86.36,14.0,Loamy,6.9,104.0,48.19,48.16,Medium,Fruiting,Medium,Whitefly
+Paddy,38.08,73.07,100.14,Loamy,5.33,117.71,74.69,98.8,Medium,Flowering,High,Brown Planthopper
+Tomato,34.45,59.12,22.64,Clay,5.01,82.68,51.09,77.66,Low,Flowering,Low,Leaf Miner
+Groundnut,26.01,82.64,182.84,Clay,4.91,64.47,33.46,70.11,Low,Maturity,High,Leaf Miner
+Groundnut,22.49,68.01,121.21,Loamy,4.84,102.16,31.0,39.96,Medium,Vegetative,Medium,Thrips
+Sugarcane,29.74,78.29,182.16,Clay,6.72,113.46,40.37,15.29,Medium,Flowering,Medium,Top Borer
+Sugarcane,28.43,35.69,101.65,Red Soil,5.92,60.61,36.0,52.68,Low,Germination,Low,Whitefly
+Groundnut,29.78,74.7,39.92,Black Soil,5.28,53.6,64.06,48.68,High,Germination,Medium,Aphids
+Groundnut,28.96,58.42,61.06,Black Soil,6.52,29.36,53.43,52.24,Medium,Vegetative,Low,Thrips
+Groundnut,30.53,92.8,155.96,Loamy,5.62,52.85,38.61,81.32,High,Germination,High,Leaf Miner
+Tomato,35.24,77.35,20.68,Sandy,7.28,95.07,39.37,98.19,Low,Flowering,Medium,Whitefly
+Groundnut,30.84,71.6,57.26,Loamy,7.66,57.11,59.06,87.74,Low,Vegetative,Medium,Aphids
+Maize,22.75,75.29,51.05,Clay,6.33,102.95,65.22,44.86,Medium,Vegetative,Low,Stem Borer
+Paddy,34.81,53.02,80.8,Sandy,7.6,134.02,8.13,73.45,Low,Germination,Medium,Leaf Folder
+Groundnut,36.2,92.35,130.92,Clay,7.6,75.74,41.58,47.82,High,Fruiting,High,Leaf Miner
+Paddy,42.0,97.87,179.13,Red Soil,6.57,74.51,46.83,13.97,Low,Maturity,High,Brown Planthopper
+Tomato,22.38,73.89,26.39,Clay,7.89,91.46,55.96,58.09,Medium,Germination,Medium,Whitefly
+Paddy,29.21,91.86,42.28,Red Soil,6.0,57.77,47.26,91.52,High,Germination,Medium,Stem Borer
+Tomato,17.59,59.46,29.33,Red Soil,4.94,55.58,53.14,51.63,Medium,Flowering,Medium,Leaf Miner
+Maize,30.77,56.04,83.17,Clay,5.26,56.47,40.26,80.83,Low,Flowering,Low,Aphids
+Tomato,25.26,68.61,32.68,Clay,5.97,40.63,28.88,43.36,Medium,Vegetative,Low,Leaf Miner
+Tomato,37.62,74.52,109.85,Red Soil,6.93,101.99,60.68,77.21,Medium,Fruiting,High,Fruit Borer
+Sugarcane,24.13,62.09,195.15,Sandy,5.58,60.1,61.32,53.91,Low,Fruiting,Medium,Whitefly
+Groundnut,19.55,76.07,17.36,Red Soil,5.96,108.34,58.04,98.08,Medium,Fruiting,Medium,Aphids
+Groundnut,25.64,72.6,43.53,Black Soil,5.5,90.88,61.6,52.17,High,Fruiting,Medium,Aphids
+Maize,18.12,53.03,235.07,Red Soil,5.98,74.32,25.57,46.44,High,Fruiting,High,Fall Armyworm
+Maize,31.76,75.78,98.2,Sandy,7.57,99.29,34.85,96.79,Low,Maturity,Medium,Stem Borer
+Groundnut,17.67,80.95,58.03,Black Soil,6.79,46.7,67.4,45.58,Low,Maturity,Medium,Aphids
+Sugarcane,28.14,70.57,300.0,Loamy,6.04,51.59,52.12,65.32,Medium,Maturity,High,Early Shoot Borer
+Groundnut,17.61,85.29,69.46,Loamy,7.48,96.41,46.12,45.76,Medium,Flowering,Medium,Aphids
+Sugarcane,26.4,49.74,127.45,Sandy,6.52,10.0,39.96,83.1,Medium,Vegetative,Low,Whitefly
+Maize,36.22,75.02,45.14,Red Soil,6.61,75.44,70.36,92.42,High,Fruiting,Medium,Stem Borer
+Paddy,29.8,50.45,38.7,Clay,7.41,92.72,9.59,43.14,Medium,Flowering,Low,Leaf Folder
+Maize,23.68,51.29,132.58,Sandy,6.23,114.33,50.88,73.66,Low,Flowering,Low,Aphids
+Maize,27.84,58.54,248.76,Black Soil,7.23,120.46,43.67,75.98,Medium,Maturity,High,Fall Armyworm
+Tomato,28.09,53.87,60.04,Black Soil,7.18,71.09,19.95,63.16,Low,Vegetative,Low,Leaf Miner
+Tomato,30.36,59.78,36.26,Loamy,6.38,98.11,77.33,98.14,Medium,Flowering,Low,Leaf Miner
+Tomato,21.17,64.79,164.88,Black Soil,5.38,50.87,5.0,97.95,Low,Maturity,High,Fruit Borer
+Tomato,30.96,80.56,60.51,Sandy,6.51,61.7,47.43,38.68,Low,Germination,High,Fruit Borer
+Sugarcane,15.0,63.18,110.9,Black Soil,7.41,116.03,55.57,90.22,Medium,Vegetative,Low,Whitefly
+Groundnut,24.85,44.22,58.64,Sandy,7.16,73.8,25.5,72.67,Medium,Germination,Low,Thrips
+Paddy,25.56,85.1,66.5,Clay,7.87,79.79,50.55,66.1,Low,Maturity,High,Brown Planthopper
+Maize,31.17,55.44,42.09,Loamy,6.11,44.01,40.51,54.2,High,Flowering,Low,Aphids
+Sugarcane,28.11,67.12,134.98,Black Soil,7.12,87.68,64.76,22.94,Medium,Fruiting,Medium,Whitefly
+Paddy,20.97,74.7,113.18,Sandy,5.69,97.62,100.0,67.08,Low,Maturity,Medium,Stem Borer
+Sugarcane,23.08,70.99,110.47,Red Soil,6.66,96.69,51.77,67.7,Low,Vegetative,Medium,Top Borer
+Sugarcane,28.99,84.41,49.07,Loamy,7.38,38.66,57.08,109.87,Medium,Germination,Low,Top Borer
+Maize,27.6,75.19,106.43,Clay,7.23,105.0,25.5,43.15,High,Flowering,Low,Stem Borer
+Groundnut,25.1,55.08,270.38,Sandy,6.58,45.06,49.3,19.82,Medium,Maturity,High,Leaf Miner
+Tomato,25.6,98.0,36.48,Clay,6.29,74.21,37.54,30.52,High,Vegetative,Low,Whitefly
+Groundnut,31.48,70.92,45.41,Clay,5.7,26.46,60.58,99.78,Medium,Germination,Low,Aphids
+Maize,25.41,65.79,47.47,Black Soil,6.32,69.62,16.48,48.81,Medium,Germination,Medium,Aphids
+Maize,27.56,82.46,92.25,Black Soil,5.45,44.89,23.53,94.1,Medium,Germination,Medium,Stem Borer
+Maize,38.85,71.74,34.13,Sandy,6.23,61.53,68.6,60.16,Medium,Germination,Medium,Stem Borer
+Paddy,20.88,73.99,121.32,Red Soil,5.06,76.8,49.2,35.63,Medium,Vegetative,High,Brown Planthopper
+Groundnut,18.74,98.0,15.44,Sandy,5.45,99.82,71.48,110.03,High,Vegetative,Medium,Aphids
+Groundnut,31.92,63.87,146.08,Red Soil,7.18,98.79,52.27,92.94,Low,Flowering,High,Leaf Miner
+Sugarcane,24.61,63.23,109.07,Clay,7.09,10.0,55.2,55.51,Medium,Fruiting,Medium,Whitefly
+Sugarcane,26.41,69.75,266.44,Loamy,6.27,95.35,38.81,84.92,Medium,Fruiting,High,Early Shoot Borer
+Sugarcane,24.09,84.07,37.97,Sandy,6.55,81.19,41.13,63.08,Medium,Flowering,Medium,Top Borer
+Maize,26.7,45.4,169.25,Sandy,6.66,58.19,64.29,70.94,Medium,Fruiting,Medium,Aphids
+Groundnut,35.99,38.52,78.81,Red Soil,6.87,48.59,42.14,104.06,Medium,Flowering,Low,Thrips
+Maize,32.01,59.19,67.68,Clay,6.78,73.13,68.67,22.01,Medium,Flowering,Low,Aphids
+Paddy,32.31,43.49,36.39,Clay,5.43,81.92,42.8,51.03,Medium,Flowering,Low,Leaf Folder
+Sugarcane,20.92,61.63,59.31,Red Soil,4.55,86.34,21.41,60.73,High,Fruiting,High,Early Shoot Borer
+Maize,22.24,75.54,61.42,Clay,5.69,69.08,19.58,68.36,Medium,Flowering,Low,Stem Borer
+Maize,15.0,54.64,22.79,Black Soil,6.38,10.0,41.57,28.78,Medium,Vegetative,Low,Aphids
+Paddy,23.95,46.6,108.27,Loamy,7.27,60.14,63.31,82.92,High,Vegetative,Low,Leaf Folder
+Tomato,32.78,69.04,98.63,Sandy,6.69,39.49,31.7,31.15,High,Fruiting,High,Fruit Borer
+Groundnut,30.58,80.94,127.1,Loamy,6.93,136.66,59.64,28.75,Medium,Vegetative,High,Leaf Miner
+Tomato,26.89,42.58,53.4,Sandy,5.78,76.78,47.01,53.73,Low,Vegetative,Low,Leaf Miner
+Sugarcane,27.89,80.3,149.8,Black Soil,6.44,97.23,57.12,107.39,Medium,Flowering,High,Early Shoot Borer
+Maize,24.56,80.26,201.88,Clay,6.55,94.05,39.21,123.54,Medium,Flowering,High,Fall Armyworm
+Paddy,29.02,82.31,71.61,Red Soil,5.9,84.31,48.66,72.21,High,Vegetative,Medium,Stem Borer
+Paddy,31.83,86.28,38.65,Black Soil,5.64,62.51,63.77,54.05,High,Vegetative,High,Brown Planthopper
+Groundnut,19.92,98.0,88.86,Loamy,6.32,58.69,44.66,63.91,High,Vegetative,High,Leaf Miner
+Tomato,29.5,62.66,85.92,Red Soil,7.03,14.38,34.5,68.37,Medium,Flowering,Medium,Leaf Miner
+Groundnut,32.66,69.64,74.44,Clay,5.78,79.27,8.65,96.66,Medium,Flowering,Low,Thrips
+Maize,25.92,61.75,127.3,Black Soil,6.33,84.01,55.83,29.55,Medium,Flowering,Medium,Aphids
+Groundnut,31.5,68.03,65.2,Red Soil,7.58,73.57,29.57,89.86,Low,Maturity,Medium,Thrips
+Paddy,42.0,90.99,36.05,Black Soil,6.08,79.3,34.59,24.33,Medium,Flowering,High,Brown Planthopper
+Paddy,27.48,47.82,94.77,Black Soil,6.51,38.81,23.58,47.98,Low,Flowering,Medium,Leaf Folder
+Sugarcane,29.97,55.08,131.49,Clay,6.42,66.18,40.4,59.94,Medium,Vegetative,Low,Whitefly
+Sugarcane,24.31,88.66,138.85,Sandy,6.35,55.5,86.95,70.28,Medium,Fruiting,High,Early Shoot Borer
+Maize,28.91,83.3,61.98,Red Soil,7.83,94.95,52.04,59.91,High,Flowering,High,Fall Armyworm
+Tomato,30.3,62.55,104.47,Clay,6.74,76.23,32.12,64.38,Low,Flowering,Medium,Leaf Miner
+Groundnut,28.97,80.82,204.35,Black Soil,5.24,55.81,35.87,61.01,High,Maturity,High,Leaf Miner
+Maize,22.9,73.12,172.49,Clay,7.72,70.2,16.23,21.98,High,Vegetative,High,Fall Armyworm
+Sugarcane,29.03,90.5,21.39,Sandy,6.72,43.81,22.39,74.38,High,Vegetative,Medium,Top Borer
+Groundnut,35.31,69.12,65.66,Red Soil,6.2,65.15,19.21,80.28,High,Fruiting,Medium,Thrips
+Sugarcane,30.24,83.38,195.78,Sandy,7.58,92.48,50.41,93.57,Medium,Flowering,High,Early Shoot Borer
+Groundnut,32.81,98.0,21.27,Loamy,5.88,35.03,53.93,106.18,Medium,Germination,Medium,Aphids
+Tomato,26.81,76.97,80.97,Red Soil,7.87,73.17,46.55,70.27,Medium,Vegetative,Medium,Whitefly
+Maize,31.75,68.74,52.7,Sandy,6.57,52.5,52.4,95.29,Medium,Fruiting,High,Fall Armyworm
+Groundnut,29.4,78.84,106.04,Black Soil,7.3,35.05,29.68,60.45,Medium,Vegetative,High,Leaf Miner
+Paddy,23.25,62.52,10.26,Red Soil,8.5,130.96,22.03,23.74,High,Germination,Medium,Leaf Folder
+Paddy,29.59,98.0,183.74,Red Soil,6.64,112.61,21.91,84.03,Medium,Maturity,High,Brown Planthopper
+Groundnut,23.04,70.7,83.86,Clay,6.42,57.06,21.02,78.49,Low,Vegetative,Medium,Aphids
+Groundnut,24.84,63.91,33.98,Black Soil,5.65,66.31,52.17,60.02,Medium,Germination,Low,Thrips
+Groundnut,28.95,55.46,46.92,Loamy,6.4,14.33,85.27,58.44,Medium,Germination,Low,Thrips
+Paddy,29.49,84.46,108.62,Sandy,5.67,27.23,24.05,71.95,Medium,Vegetative,High,Brown Planthopper
+Paddy,22.05,81.01,43.96,Clay,6.35,41.16,38.16,51.56,Low,Germination,Medium,Stem Borer
+Groundnut,33.27,60.54,243.63,Sandy,8.5,73.99,49.06,71.06,Medium,Maturity,High,Leaf Miner
+Sugarcane,30.86,76.65,76.86,Loamy,6.6,71.56,39.42,36.95,High,Fruiting,High,Early Shoot Borer
+Sugarcane,24.48,45.37,215.73,Loamy,6.06,84.95,51.66,39.75,Medium,Maturity,Medium,Whitefly
+Tomato,20.31,70.77,94.89,Red Soil,6.33,95.36,33.49,26.99,Low,Maturity,Medium,Whitefly
+Maize,27.28,74.79,134.96,Loamy,6.17,83.34,31.39,116.1,Medium,Fruiting,Medium,Stem Borer
+Sugarcane,25.77,93.61,129.56,Sandy,7.34,42.56,41.35,61.83,Medium,Maturity,High,Early Shoot Borer
+Paddy,28.57,56.44,58.04,Black Soil,6.43,84.72,51.53,90.21,Medium,Maturity,Medium,Leaf Folder
+Sugarcane,26.18,48.82,136.09,Black Soil,7.79,94.06,70.65,32.58,Medium,Fruiting,Low,Whitefly
+Tomato,17.96,54.57,62.06,Red Soil,6.25,62.18,52.53,55.46,High,Germination,Medium,Leaf Miner
+Tomato,26.06,47.95,19.33,Sandy,6.3,19.61,39.96,73.79,Low,Flowering,Low,Leaf Miner
+Maize,26.47,88.05,71.89,Sandy,5.78,110.52,61.62,96.78,Medium,Germination,High,Fall Armyworm
+Sugarcane,31.17,91.23,29.78,Loamy,6.19,77.65,65.0,44.94,High,Germination,High,Early Shoot Borer
+Paddy,24.51,72.8,60.41,Sandy,5.11,10.0,38.93,49.94,High,Germination,High,Brown Planthopper
+Paddy,36.39,86.32,81.87,Clay,4.8,137.11,42.08,40.2,Low,Fruiting,High,Brown Planthopper
+Groundnut,18.44,70.01,39.65,Loamy,7.0,60.64,36.46,56.98,Medium,Germination,Low,Aphids
+Paddy,34.56,66.57,123.24,Clay,5.1,148.17,61.42,34.5,Low,Maturity,High,Brown Planthopper
+Maize,26.88,63.0,61.5,Red Soil,6.82,86.32,46.48,24.08,Medium,Maturity,Low,Aphids
+Maize,32.3,63.34,28.97,Black Soil,6.1,68.92,16.89,66.47,Low,Fruiting,Medium,Aphids
+Paddy,28.4,44.78,40.2,Red Soil,7.25,80.51,53.12,76.76,High,Germination,Low,Leaf Folder
+Paddy,33.7,71.96,90.8,Black Soil,5.12,53.72,74.79,31.52,Low,Germination,High,Brown Planthopper
+Groundnut,26.06,67.39,69.55,Red Soil,6.98,76.84,76.37,43.14,Medium,Vegetative,Medium,Thrips
+Paddy,22.51,79.18,103.27,Sandy,6.77,135.32,35.42,57.5,Medium,Fruiting,Low,Stem Borer
+Groundnut,35.1,69.4,91.26,Clay,6.79,48.04,31.07,102.67,High,Maturity,High,Leaf Miner
+Groundnut,27.43,65.56,37.08,Black Soil,7.4,91.0,82.96,5.0,Medium,Flowering,Low,Thrips
+Paddy,29.11,54.93,51.69,Loamy,6.56,53.41,76.33,71.12,Medium,Flowering,Medium,Leaf Folder
+Tomato,34.17,69.08,148.99,Clay,4.54,69.96,54.35,76.98,Low,Maturity,Medium,Leaf Miner
+Tomato,22.84,79.07,42.6,Loamy,6.86,134.3,10.76,42.2,Low,Vegetative,Medium,Whitefly
+Groundnut,30.98,50.85,219.01,Clay,6.76,90.79,32.87,51.27,High,Fruiting,High,Leaf Miner
+Paddy,25.05,69.31,23.45,Clay,6.3,97.37,23.13,68.32,Medium,Germination,Low,Leaf Folder
+Tomato,27.34,71.5,145.78,Red Soil,5.83,77.13,81.25,59.26,Medium,Fruiting,Medium,Whitefly
+Paddy,28.36,57.23,77.77,Black Soil,6.21,155.86,14.49,102.48,Low,Vegetative,High,Brown Planthopper
+Paddy,20.5,59.18,37.29,Black Soil,7.67,46.51,81.07,62.57,High,Flowering,Medium,Leaf Folder
+Paddy,24.11,71.46,88.99,Clay,5.76,27.62,42.89,81.53,Medium,Vegetative,Low,Stem Borer
+Sugarcane,34.76,51.0,43.78,Sandy,5.11,125.58,21.05,71.26,High,Flowering,High,Early Shoot Borer
+Paddy,32.43,73.25,54.4,Sandy,5.33,63.55,64.74,77.35,Medium,Vegetative,Medium,Stem Borer
+Sugarcane,27.69,54.57,62.65,Loamy,6.47,87.31,57.59,40.57,Medium,Vegetative,Medium,Whitefly
+Groundnut,29.22,83.94,138.22,Loamy,7.84,126.49,19.68,65.03,Medium,Fruiting,High,Leaf Miner
+Tomato,26.53,98.0,51.1,Red Soil,8.26,87.71,44.5,58.36,Low,Germination,Medium,Whitefly
+Tomato,34.78,55.09,98.94,Clay,7.02,141.92,72.51,42.09,Medium,Flowering,Low,Leaf Miner
+Tomato,27.0,76.01,141.78,Loamy,5.72,79.09,36.8,83.13,Medium,Fruiting,High,Fruit Borer
+Tomato,29.16,57.1,87.26,Loamy,5.8,53.76,78.59,9.61,Low,Germination,Medium,Leaf Miner
+Tomato,33.73,83.61,109.69,Clay,7.2,10.0,30.1,93.67,Low,Maturity,High,Fruit Borer
+Tomato,24.11,49.02,81.53,Red Soil,7.57,84.02,12.56,5.0,Low,Flowering,Low,Leaf Miner
+Tomato,35.79,75.21,121.51,Loamy,5.99,10.0,45.9,56.16,High,Flowering,High,Fruit Borer
+Groundnut,20.35,54.91,28.22,Red Soil,7.64,84.74,15.79,83.53,Low,Germination,Low,Thrips
+Paddy,36.15,64.9,206.57,Black Soil,6.32,118.79,47.5,30.29,Medium,Maturity,High,Brown Planthopper
+Maize,26.14,52.53,48.54,Red Soil,7.07,74.49,45.1,70.59,Medium,Germination,Low,Aphids
+Sugarcane,26.79,80.34,78.34,Sandy,7.42,80.7,29.82,67.89,Medium,Flowering,Medium,Top Borer
+Maize,18.55,55.45,13.72,Sandy,5.31,102.47,82.57,68.17,Medium,Flowering,Low,Aphids
+Maize,25.73,76.28,56.49,Red Soil,6.86,95.09,44.92,51.28,High,Fruiting,Medium,Stem Borer
+Paddy,22.8,62.84,101.84,Sandy,7.64,109.81,62.29,48.37,Low,Vegetative,Medium,Leaf Folder
+Paddy,24.96,66.28,224.68,Black Soil,6.05,74.42,63.57,20.75,Medium,Maturity,High,Brown Planthopper
+Paddy,27.31,70.22,125.25,Clay,5.65,10.0,80.22,57.4,Medium,Flowering,Medium,Stem Borer
+Tomato,32.79,56.57,59.98,Sandy,6.9,110.28,20.81,82.94,High,Germination,Medium,Leaf Miner
+Groundnut,29.04,71.16,21.61,Sandy,6.61,67.84,9.85,48.6,Medium,Flowering,Low,Aphids
+Tomato,29.54,90.96,191.45,Red Soil,6.24,48.64,79.48,49.84,Low,Flowering,High,Fruit Borer
+Groundnut,22.52,56.33,57.8,Black Soil,6.5,85.08,56.62,99.74,Medium,Vegetative,Low,Thrips
+Groundnut,23.6,85.58,101.64,Clay,5.16,80.6,47.53,55.91,Low,Fruiting,High,Leaf Miner
+Maize,36.99,90.47,60.11,Red Soil,6.82,52.52,42.33,68.8,Low,Vegetative,High,Fall Armyworm
+Maize,24.32,55.76,110.51,Red Soil,7.77,36.43,38.79,73.39,Medium,Fruiting,Medium,Aphids
+Groundnut,36.28,46.17,185.92,Black Soil,5.93,89.05,62.22,55.9,Medium,Vegetative,Medium,Thrips
+Groundnut,26.78,72.53,137.11,Clay,5.84,49.5,16.12,77.03,Medium,Flowering,High,Leaf Miner
+Tomato,28.01,59.79,68.59,Black Soil,6.64,78.43,54.55,84.74,Medium,Fruiting,Low,Leaf Miner
+Tomato,33.35,96.03,194.39,Clay,8.5,86.2,65.63,82.59,Medium,Maturity,High,Fruit Borer
+Maize,34.36,68.52,256.55,Black Soil,7.38,104.05,59.87,85.38,Medium,Fruiting,High,Fall Armyworm
+Paddy,27.45,55.97,160.82,Red Soil,6.42,138.57,43.57,7.93,Medium,Fruiting,Medium,Leaf Folder
+Groundnut,26.06,50.79,61.54,Red Soil,6.53,82.12,44.95,30.7,Medium,Flowering,Low,Thrips
+Tomato,27.72,84.35,145.99,Loamy,7.46,62.24,70.71,47.14,Low,Germination,High,Fruit Borer
+Maize,29.69,59.43,159.74,Sandy,5.77,124.75,56.64,40.1,Medium,Maturity,Medium,Aphids
+Tomato,32.46,68.66,69.57,Black Soil,6.99,106.44,80.1,42.0,Medium,Maturity,Low,Leaf Miner
+Groundnut,28.02,82.34,256.53,Loamy,5.61,80.05,10.15,82.24,Medium,Maturity,High,Leaf Miner
+Groundnut,31.09,60.74,180.51,Sandy,7.24,82.09,63.13,62.67,High,Fruiting,High,Leaf Miner
+Sugarcane,36.19,67.31,72.26,Black Soil,6.26,75.81,28.77,56.58,Medium,Flowering,Medium,Whitefly
+Paddy,29.91,67.75,61.49,Clay,6.66,79.87,43.54,54.36,Low,Fruiting,Low,Leaf Folder
+Sugarcane,29.56,78.25,157.34,Sandy,6.21,71.94,72.52,50.0,Medium,Fruiting,Medium,Top Borer
+Maize,20.41,76.86,300.0,Red Soil,7.06,45.76,24.95,53.95,Low,Maturity,High,Fall Armyworm
+Tomato,15.0,64.7,30.06,Loamy,6.36,75.27,87.31,94.69,Medium,Fruiting,Low,Leaf Miner
+Maize,29.94,68.95,114.19,Sandy,8.23,127.72,67.11,15.89,Medium,Maturity,Medium,Aphids
+Groundnut,27.53,62.42,144.22,Sandy,7.64,50.52,56.58,91.86,Medium,Vegetative,Medium,Thrips
+Sugarcane,25.43,45.84,184.83,Red Soil,5.46,66.86,26.36,117.34,Medium,Maturity,Medium,Whitefly
+Sugarcane,29.22,71.86,145.19,Black Soil,6.65,48.24,41.41,91.67,High,Maturity,High,Early Shoot Borer
+Sugarcane,27.7,96.38,58.4,Clay,7.09,109.72,37.83,35.25,High,Flowering,High,Early Shoot Borer
+Maize,33.64,54.74,27.05,Red Soil,6.13,99.89,20.35,47.84,Medium,Flowering,Low,Aphids
+Groundnut,28.43,56.4,66.79,Clay,7.47,36.65,66.88,85.83,High,Vegetative,Low,Thrips
+Tomato,24.27,54.94,141.94,Black Soil,7.38,14.45,36.91,53.78,Medium,Vegetative,Medium,Leaf Miner
+Tomato,32.95,78.87,53.65,Sandy,6.43,100.97,41.49,47.35,High,Maturity,Medium,Whitefly
+Maize,26.91,74.73,203.78,Clay,7.28,34.82,42.5,57.48,High,Flowering,High,Fall Armyworm
+Sugarcane,30.63,65.62,76.5,Loamy,4.57,99.85,40.72,31.95,High,Maturity,High,Early Shoot Borer
+Paddy,25.61,54.23,51.02,Loamy,7.59,55.86,55.61,56.74,Medium,Vegetative,Low,Leaf Folder
+Maize,24.75,69.39,123.02,Red Soil,7.21,95.85,32.55,29.84,High,Maturity,Low,Aphids
+Maize,28.42,44.53,70.83,Black Soil,5.63,88.32,65.37,78.06,Medium,Vegetative,Medium,Aphids
+Groundnut,28.06,70.15,60.22,Red Soil,6.7,58.91,33.08,38.89,Medium,Fruiting,Low,Aphids
+Tomato,30.4,81.07,277.88,Red Soil,4.88,48.63,44.43,61.29,Medium,Maturity,High,Fruit Borer
+Maize,26.66,49.23,53.39,Red Soil,5.89,92.27,18.87,48.89,High,Vegetative,Low,Aphids
+Maize,18.82,45.01,65.0,Loamy,7.38,54.22,66.43,69.55,Low,Vegetative,Low,Aphids
+Sugarcane,25.84,91.69,124.24,Loamy,6.49,108.27,71.52,80.56,Medium,Flowering,Medium,Top Borer
+Sugarcane,31.97,58.82,201.79,Red Soil,6.45,50.03,59.32,67.16,Medium,Maturity,High,Early Shoot Borer
+Paddy,26.51,85.04,116.34,Loamy,6.54,85.51,48.41,42.49,Medium,Fruiting,Medium,Stem Borer
+Groundnut,26.77,65.69,90.52,Black Soil,6.44,63.29,44.28,45.92,High,Flowering,Medium,Thrips
+Paddy,32.93,65.57,298.56,Red Soil,7.29,75.17,13.76,119.0,High,Maturity,High,Brown Planthopper
+Sugarcane,24.44,74.58,62.7,Loamy,6.0,53.98,17.91,83.71,Medium,Germination,Low,Top Borer
+Tomato,20.29,54.74,62.94,Clay,6.84,69.64,60.01,55.05,Medium,Vegetative,Low,Leaf Miner
+Sugarcane,27.2,69.99,54.01,Red Soil,5.58,10.0,41.38,45.65,Medium,Vegetative,Low,Whitefly
+Groundnut,25.58,62.28,111.44,Red Soil,7.09,50.61,17.82,24.03,Medium,Germination,Medium,Thrips
+Sugarcane,23.17,48.19,42.0,Black Soil,6.24,57.37,16.89,88.21,Medium,Flowering,Low,Whitefly
+Groundnut,27.12,73.06,33.49,Sandy,6.47,72.84,57.7,42.23,Low,Flowering,Low,Aphids
+Groundnut,30.46,64.05,64.85,Sandy,6.21,113.8,62.48,86.34,Medium,Flowering,Low,Thrips
+Groundnut,27.95,65.64,20.61,Black Soil,6.31,54.07,14.32,80.69,Medium,Vegetative,Low,Thrips
+Groundnut,29.53,49.85,101.67,Black Soil,5.7,117.42,48.04,93.82,Medium,Germination,Low,Thrips
+Groundnut,37.07,91.87,111.64,Black Soil,6.76,49.16,52.76,78.97,Medium,Germination,Medium,Aphids
+Tomato,26.29,81.15,125.02,Sandy,6.94,41.76,33.33,54.75,Medium,Fruiting,High,Fruit Borer
+Paddy,29.39,82.46,150.24,Black Soil,5.44,18.47,69.79,60.4,Low,Vegetative,High,Brown Planthopper
+Maize,25.45,63.42,66.25,Loamy,6.02,93.2,38.1,60.61,High,Vegetative,Low,Aphids
+Paddy,23.77,42.06,186.92,Red Soil,6.52,77.58,10.66,53.28,Medium,Fruiting,Medium,Leaf Folder
+Groundnut,25.08,97.29,175.03,Red Soil,6.02,91.43,41.11,19.42,Low,Maturity,High,Leaf Miner
+Tomato,25.61,67.08,37.26,Clay,6.32,78.95,72.36,6.12,Medium,Vegetative,Low,Leaf Miner
+Sugarcane,29.8,56.77,81.71,Clay,7.79,74.72,38.09,78.97,High,Maturity,Low,Whitefly
+Tomato,39.75,74.25,8.38,Red Soil,5.69,83.53,24.06,55.48,High,Vegetative,High,Fruit Borer
+Groundnut,24.42,85.51,188.64,Loamy,4.65,139.57,57.56,84.0,Medium,Maturity,High,Leaf Miner
+Tomato,25.92,67.65,148.49,Sandy,6.02,60.78,50.17,50.51,Low,Maturity,Medium,Leaf Miner
+Tomato,27.68,87.18,216.93,Sandy,6.24,136.63,44.94,59.97,Medium,Maturity,High,Fruit Borer
+Groundnut,29.98,84.24,23.27,Loamy,6.11,100.57,54.54,83.24,High,Flowering,Medium,Aphids
+Tomato,29.32,51.85,118.57,Sandy,6.72,85.96,31.17,98.88,Medium,Flowering,Medium,Leaf Miner
+Maize,34.42,57.89,56.89,Black Soil,5.68,91.64,33.0,52.1,High,Fruiting,Medium,Aphids
+Maize,15.87,82.36,13.45,Red Soil,5.56,10.0,59.55,35.0,Medium,Vegetative,Low,Stem Borer
+Tomato,16.07,27.31,163.17,Red Soil,5.96,67.15,25.67,90.33,Low,Flowering,Low,Leaf Miner
+Sugarcane,25.52,65.76,30.59,Loamy,5.98,54.89,77.3,52.82,High,Fruiting,Medium,Whitefly
+Groundnut,33.49,46.54,108.31,Sandy,8.2,138.37,69.59,47.87,Medium,Fruiting,Medium,Thrips
+Maize,20.17,60.85,56.39,Clay,7.74,64.76,22.12,50.01,Low,Germination,Low,Aphids
+Sugarcane,15.0,63.52,95.71,Clay,5.16,74.11,74.52,42.03,Medium,Vegetative,Low,Whitefly
+Tomato,30.86,62.63,151.63,Sandy,4.96,73.62,48.04,79.34,High,Maturity,High,Fruit Borer
+Sugarcane,29.22,59.72,95.89,Clay,6.43,35.8,72.7,26.54,Low,Vegetative,Medium,Whitefly
+Paddy,22.55,51.54,41.32,Loamy,8.03,58.19,47.67,62.55,Low,Flowering,Medium,Leaf Folder
+Maize,23.07,98.0,282.22,Loamy,7.03,99.51,41.46,66.24,Medium,Maturity,High,Fall Armyworm
+Tomato,23.15,96.01,66.97,Sandy,6.47,11.05,39.37,45.04,High,Fruiting,High,Fruit Borer
+Groundnut,28.55,50.57,48.23,Clay,6.14,84.34,5.0,99.68,High,Maturity,Low,Thrips
+Tomato,24.87,91.73,79.88,Loamy,7.36,47.96,63.54,82.46,Medium,Fruiting,Medium,Whitefly
+Groundnut,30.47,62.01,23.8,Loamy,6.64,114.0,30.86,48.64,Medium,Flowering,Low,Thrips
+Tomato,15.0,69.94,51.75,Black Soil,7.89,86.85,64.2,57.35,Medium,Vegetative,Medium,Leaf Miner
+Sugarcane,23.72,67.05,70.05,Black Soil,5.15,29.41,78.48,82.36,Low,Germination,Medium,Whitefly
+Sugarcane,22.37,58.1,101.33,Loamy,6.84,62.52,33.45,62.0,High,Maturity,Medium,Whitefly
+Sugarcane,26.72,82.76,87.98,Sandy,6.05,88.61,32.27,95.04,Low,Flowering,High,Early Shoot Borer
+Paddy,25.31,69.89,118.79,Red Soil,6.83,65.88,65.16,74.16,Medium,Flowering,Low,Leaf Folder
+Groundnut,31.99,60.85,82.24,Red Soil,6.7,79.35,35.65,66.32,Medium,Flowering,Medium,Thrips
+Sugarcane,18.7,48.43,173.73,Loamy,6.91,74.42,71.34,66.11,Low,Fruiting,Medium,Whitefly
+Paddy,28.23,54.6,132.88,Loamy,7.28,101.0,31.18,130.0,Medium,Maturity,Medium,Leaf Folder
+Groundnut,30.79,43.38,112.58,Loamy,7.61,88.19,73.76,34.54,Medium,Fruiting,Medium,Thrips
+Tomato,37.28,68.18,192.49,Sandy,8.06,73.55,38.89,32.64,Medium,Vegetative,High,Fruit Borer
+Paddy,25.59,50.05,192.47,Black Soil,6.51,75.54,51.6,53.96,Low,Flowering,Medium,Leaf Folder
+Maize,29.62,64.02,92.59,Loamy,6.07,42.51,64.65,95.12,Medium,Flowering,Low,Aphids
+Paddy,18.98,88.55,64.52,Loamy,5.52,119.02,55.23,5.0,Medium,Fruiting,Medium,Stem Borer
+Paddy,16.04,85.99,98.75,Clay,6.85,160.0,66.41,12.4,High,Germination,High,Brown Planthopper
+Groundnut,32.22,67.52,77.21,Sandy,7.17,65.09,15.88,50.01,Low,Flowering,Medium,Thrips
+Tomato,27.97,66.69,62.61,Loamy,5.42,76.43,36.86,113.0,High,Fruiting,Medium,Leaf Miner
+Maize,33.89,96.2,96.04,Clay,7.42,105.45,46.26,60.64,Medium,Fruiting,High,Fall Armyworm
+Sugarcane,21.13,75.81,110.22,Red Soil,6.42,105.28,29.69,30.94,High,Flowering,Medium,Top Borer
+Sugarcane,30.6,63.08,128.63,Loamy,5.5,80.35,64.42,80.55,Low,Maturity,High,Early Shoot Borer
+Paddy,37.34,46.61,212.33,Loamy,5.82,45.71,34.76,101.55,Medium,Flowering,High,Brown Planthopper
+Groundnut,30.1,73.91,102.69,Clay,5.75,129.54,29.73,44.03,Low,Fruiting,Medium,Aphids
+Groundnut,29.38,80.44,83.57,Sandy,5.76,95.44,63.81,71.36,Medium,Flowering,High,Leaf Miner
+Sugarcane,28.04,58.53,160.54,Loamy,6.96,81.62,24.09,63.92,High,Fruiting,High,Early Shoot Borer
+Maize,20.15,72.37,44.77,Red Soil,7.19,53.32,25.07,74.31,Low,Vegetative,Low,Stem Borer
+Tomato,34.78,62.55,20.83,Loamy,7.86,76.74,55.17,48.53,Medium,Flowering,Medium,Leaf Miner
+Maize,24.95,65.24,117.47,Red Soil,5.94,20.57,71.88,75.72,Low,Germination,High,Fall Armyworm
+Tomato,30.52,30.68,66.78,Black Soil,6.77,97.23,48.23,80.96,Medium,Flowering,Low,Leaf Miner
+Sugarcane,20.18,64.67,70.59,Black Soil,5.98,104.54,12.68,77.86,Low,Fruiting,Medium,Whitefly
+Tomato,22.1,82.54,43.91,Red Soil,6.52,81.89,58.7,19.44,Low,Vegetative,Medium,Whitefly
+Groundnut,35.18,58.53,181.85,Sandy,5.32,46.19,33.15,24.15,Medium,Fruiting,High,Leaf Miner
+Paddy,26.26,68.79,21.68,Loamy,5.6,88.56,67.42,42.77,High,Germination,Low,Leaf Folder
+Paddy,35.27,56.66,125.51,Loamy,7.14,98.62,37.41,66.69,Low,Vegetative,High,Brown Planthopper
+Sugarcane,27.61,73.41,84.4,Black Soil,5.31,52.7,67.88,73.98,Low,Flowering,High,Early Shoot Borer
+Groundnut,18.79,64.75,220.8,Red Soil,6.99,103.02,36.64,33.65,Low,Maturity,High,Leaf Miner
+Maize,32.46,53.91,161.0,Loamy,5.96,90.74,31.23,68.11,High,Fruiting,Medium,Aphids
+Groundnut,25.05,87.99,34.67,Loamy,4.96,66.78,6.65,83.64,Medium,Germination,Medium,Aphids
+Paddy,31.49,81.93,132.96,Sandy,4.5,58.27,31.81,76.7,Medium,Fruiting,High,Brown Planthopper
+Paddy,28.13,58.93,115.17,Clay,7.67,69.63,48.55,48.5,Medium,Vegetative,Medium,Leaf Folder
+Groundnut,20.28,75.47,80.0,Black Soil,4.98,45.88,47.01,50.79,Low,Vegetative,Medium,Aphids
+Groundnut,28.82,76.06,126.14,Black Soil,6.45,82.81,57.23,27.56,Medium,Maturity,High,Leaf Miner
+Paddy,38.98,77.63,51.66,Clay,6.78,91.75,69.88,103.51,Low,Germination,High,Brown Planthopper
+Maize,30.46,42.59,90.5,Loamy,5.45,110.06,45.57,71.85,Medium,Flowering,Medium,Aphids
+Sugarcane,27.71,83.1,85.48,Sandy,6.06,83.92,46.35,19.69,Medium,Germination,Medium,Top Borer
+Sugarcane,33.38,59.45,45.79,Sandy,6.88,86.74,67.26,90.67,Medium,Germination,Low,Whitefly
+Groundnut,29.05,62.63,66.9,Black Soil,6.73,66.96,49.62,76.46,Low,Flowering,Low,Thrips
+Sugarcane,29.05,98.0,58.65,Sandy,6.13,48.78,26.54,89.86,Low,Vegetative,High,Early Shoot Borer
+Paddy,22.54,72.53,110.16,Clay,6.69,62.1,34.56,46.03,High,Vegetative,Medium,Stem Borer
+Paddy,29.17,62.21,188.73,Loamy,6.42,117.84,5.0,49.52,Medium,Maturity,High,Brown Planthopper
+Groundnut,33.18,34.92,28.35,Clay,5.72,94.02,26.27,39.68,Low,Vegetative,Low,Thrips
+Groundnut,23.82,88.85,112.45,Red Soil,7.46,87.22,11.19,112.93,Low,Germination,High,Leaf Miner
+Groundnut,35.12,47.82,57.02,Black Soil,6.67,20.54,52.02,47.48,High,Fruiting,Medium,Thrips
+Maize,27.54,52.95,154.49,Sandy,5.03,84.38,69.23,36.12,High,Vegetative,High,Fall Armyworm
+Sugarcane,23.56,63.03,111.52,Red Soil,6.92,35.11,26.18,43.83,High,Germination,High,Early Shoot Borer
+Groundnut,32.99,89.25,22.41,Sandy,6.01,37.25,26.93,51.87,Medium,Germination,Medium,Aphids
+Tomato,26.57,79.6,96.09,Loamy,6.27,40.61,63.86,98.9,Medium,Flowering,Medium,Whitefly
+Tomato,31.8,65.63,76.95,Loamy,6.51,51.81,35.98,66.92,Low,Flowering,High,Fruit Borer
+Paddy,26.54,72.62,31.06,Loamy,5.87,100.0,50.13,90.84,Medium,Germination,Low,Stem Borer
+Sugarcane,27.7,58.99,57.59,Sandy,7.94,81.8,59.86,67.13,Low,Germination,Medium,Whitefly
+Groundnut,30.47,70.09,93.13,Red Soil,5.31,46.71,30.84,55.49,Low,Vegetative,High,Leaf Miner
+Tomato,29.45,69.1,58.89,Loamy,6.55,57.58,31.23,33.94,Low,Germination,Low,Leaf Miner
+Sugarcane,18.02,82.53,166.19,Red Soil,6.81,89.95,34.87,99.85,Medium,Maturity,Medium,Top Borer
+Paddy,22.39,82.51,76.45,Sandy,6.53,95.93,13.93,84.77,Medium,Vegetative,High,Brown Planthopper
+Maize,32.65,75.41,54.47,Red Soil,6.35,79.01,54.73,87.05,Medium,Flowering,Low,Stem Borer
+Sugarcane,27.34,62.56,96.79,Sandy,6.2,40.58,57.02,83.13,High,Maturity,Low,Whitefly
+Sugarcane,25.38,79.13,105.63,Sandy,5.86,62.62,46.59,42.25,Medium,Fruiting,Medium,Top Borer
+Maize,21.21,66.62,155.42,Black Soil,5.84,146.43,72.19,66.63,Medium,Germination,High,Fall Armyworm
+Sugarcane,22.6,51.77,87.97,Sandy,7.43,38.67,39.78,87.17,High,Vegetative,Low,Whitefly
+Paddy,17.89,61.95,102.68,Sandy,6.15,86.25,57.35,83.61,Medium,Flowering,Medium,Leaf Folder
+Paddy,27.49,69.27,66.76,Clay,8.21,138.62,54.72,63.91,Low,Vegetative,Medium,Leaf Folder
+Maize,25.01,81.65,224.27,Loamy,7.04,66.8,29.02,109.37,High,Vegetative,High,Fall Armyworm
+Groundnut,23.17,65.25,111.07,Black Soil,4.5,130.01,68.1,73.32,Low,Vegetative,High,Leaf Miner
+Tomato,27.66,49.86,94.62,Black Soil,7.21,54.37,47.56,93.05,Medium,Germination,Low,Leaf Miner
+Groundnut,29.82,68.85,58.89,Black Soil,6.46,15.75,64.49,65.0,Medium,Germination,High,Leaf Miner
+Sugarcane,38.47,69.7,168.6,Clay,5.39,57.62,18.98,50.71,Medium,Flowering,High,Early Shoot Borer
+Tomato,20.44,70.79,20.26,Sandy,7.54,52.27,47.2,84.23,Medium,Germination,Low,Whitefly
+Maize,33.8,81.8,97.17,Loamy,6.15,24.89,35.79,78.34,Low,Vegetative,Medium,Stem Borer
+Maize,32.87,83.28,52.21,Red Soil,6.08,62.48,27.97,68.66,Medium,Vegetative,Medium,Stem Borer
+Tomato,24.1,59.09,145.41,Sandy,6.8,104.73,73.19,38.85,High,Flowering,High,Fruit Borer
+Paddy,29.02,58.76,106.35,Clay,7.41,57.18,48.91,85.27,Medium,Flowering,Medium,Leaf Folder
+Tomato,25.71,52.4,95.58,Sandy,6.59,63.72,15.46,40.16,Medium,Vegetative,Low,Leaf Miner
+Sugarcane,28.93,78.48,37.86,Sandy,6.53,116.12,35.05,79.43,Medium,Germination,Low,Top Borer
+Paddy,35.55,89.73,80.87,Clay,5.94,52.55,63.78,32.58,High,Vegetative,High,Brown Planthopper
+Maize,31.03,63.27,109.26,Black Soil,7.4,93.57,27.94,38.82,Medium,Flowering,Medium,Aphids
+Tomato,30.54,64.38,155.49,Black Soil,6.6,23.78,25.9,67.3,High,Flowering,High,Fruit Borer
+Groundnut,25.85,90.0,118.89,Loamy,6.32,46.02,42.06,74.47,Low,Germination,Medium,Aphids
+Groundnut,20.58,75.58,145.4,Loamy,6.22,68.6,54.39,65.42,Low,Fruiting,High,Leaf Miner
+Sugarcane,26.96,74.54,26.41,Black Soil,7.32,111.27,30.43,46.82,Low,Vegetative,Low,Top Borer
+Groundnut,34.03,50.14,94.05,Red Soil,6.29,47.62,52.81,87.83,Low,Vegetative,Medium,Thrips
+Tomato,20.36,78.18,159.48,Sandy,7.32,47.26,45.7,63.47,Medium,Fruiting,High,Fruit Borer
+Tomato,22.72,54.06,10.15,Red Soil,6.12,83.17,48.13,64.83,High,Germination,Low,Leaf Miner
+Groundnut,28.63,50.99,72.02,Sandy,7.08,87.99,5.0,56.06,Medium,Fruiting,Low,Thrips
+Tomato,23.08,62.8,109.98,Black Soil,6.67,43.93,45.32,41.93,High,Maturity,Medium,Leaf Miner
+Sugarcane,24.04,59.21,173.46,Loamy,5.74,59.34,39.99,88.17,Low,Flowering,High,Early Shoot Borer
+Paddy,25.88,64.68,91.23,Loamy,6.43,107.6,52.81,43.93,High,Maturity,Medium,Leaf Folder
+Sugarcane,21.17,46.39,84.11,Red Soil,4.75,39.6,31.92,102.44,Low,Germination,Low,Whitefly
+Sugarcane,23.13,82.38,103.49,Loamy,5.9,85.24,37.58,39.38,High,Flowering,Medium,Top Borer
+Tomato,31.52,84.92,110.69,Black Soil,5.24,59.47,55.66,68.07,Low,Maturity,High,Fruit Borer
+Paddy,21.46,38.79,43.53,Red Soil,8.1,117.08,73.91,61.74,High,Vegetative,Low,Leaf Folder
+Tomato,20.01,82.68,58.81,Sandy,5.25,92.41,18.51,57.18,Low,Flowering,Medium,Whitefly
+Maize,24.85,55.84,17.09,Loamy,8.5,101.42,55.26,77.05,Medium,Germination,Low,Aphids
+Tomato,31.66,80.85,52.21,Clay,6.91,58.87,69.4,79.74,Medium,Germination,Medium,Whitefly
+Tomato,27.02,66.97,35.64,Loamy,6.08,99.74,58.89,73.4,Medium,Maturity,Low,Leaf Miner
+Tomato,25.68,68.43,43.21,Sandy,7.15,98.95,68.05,33.4,Medium,Vegetative,Low,Leaf Miner
+Paddy,28.22,65.22,299.87,Red Soil,5.98,90.58,34.13,30.72,High,Maturity,High,Brown Planthopper
+Tomato,19.27,86.18,166.95,Sandy,5.37,66.52,69.74,29.21,Medium,Flowering,High,Fruit Borer
+Paddy,30.47,49.41,36.34,Clay,6.56,79.88,30.51,53.9,Medium,Flowering,Low,Leaf Folder
+Groundnut,29.92,77.12,29.03,Black Soil,7.06,19.42,46.1,112.88,Low,Flowering,Medium,Aphids
+Maize,25.95,84.52,54.65,Loamy,7.52,127.77,34.95,58.77,Medium,Germination,Medium,Stem Borer
+Paddy,33.03,78.75,28.16,Red Soil,6.9,56.88,35.76,112.52,Medium,Vegetative,Medium,Stem Borer
+Groundnut,22.36,98.0,101.61,Black Soil,6.08,64.95,10.57,59.16,High,Maturity,High,Leaf Miner
+Paddy,33.64,60.07,100.39,Sandy,7.61,35.47,5.56,64.0,Medium,Fruiting,Medium,Leaf Folder
+Paddy,28.77,82.36,42.68,Red Soil,7.43,95.19,68.54,74.89,Medium,Flowering,Low,Stem Borer
+Maize,26.32,66.41,133.6,Black Soil,6.72,90.88,9.02,52.72,Low,Fruiting,Medium,Aphids
+Sugarcane,27.9,86.5,133.69,Red Soil,7.47,66.13,50.01,65.68,Medium,Flowering,High,Early Shoot Borer
+Sugarcane,27.46,67.88,50.4,Clay,8.25,10.0,19.02,17.43,Medium,Germination,Medium,Whitefly
+Paddy,34.1,62.18,41.53,Clay,6.07,53.65,28.03,37.77,Medium,Vegetative,Low,Leaf Folder
+Tomato,22.62,87.59,62.49,Loamy,5.78,88.8,58.69,17.95,Medium,Germination,Low,Whitefly
+Groundnut,24.19,60.63,123.01,Loamy,6.04,82.54,48.24,78.13,Low,Vegetative,Medium,Thrips
+Tomato,33.18,46.81,284.15,Clay,5.42,73.61,42.46,25.92,High,Maturity,High,Fruit Borer
+Tomato,25.02,60.25,121.04,Red Soil,6.97,62.28,67.89,95.29,Low,Vegetative,High,Fruit Borer
+Paddy,32.5,77.29,33.79,Clay,5.21,27.64,39.21,68.9,High,Flowering,Medium,Stem Borer
+Paddy,36.5,88.88,105.36,Loamy,7.51,103.92,69.6,83.99,Low,Vegetative,High,Brown Planthopper
+Paddy,25.99,69.67,91.37,Clay,5.96,31.8,23.61,43.83,Low,Maturity,Medium,Leaf Folder
+Paddy,31.41,87.77,87.66,Clay,7.59,68.87,21.2,31.91,Medium,Fruiting,High,Brown Planthopper
+Sugarcane,22.23,47.63,28.87,Red Soil,4.5,43.95,42.24,51.31,Medium,Flowering,Low,Whitefly
+Paddy,31.77,61.35,105.16,Black Soil,6.19,104.81,45.07,86.6,Medium,Vegetative,Low,Leaf Folder
+Sugarcane,29.0,63.67,82.72,Loamy,5.47,92.46,27.83,112.88,Medium,Flowering,Medium,Whitefly
+Sugarcane,30.37,66.28,32.59,Red Soil,7.58,64.28,39.48,72.71,Medium,Germination,Medium,Whitefly
+Paddy,24.77,69.26,239.43,Clay,7.84,95.74,72.3,27.11,Medium,Maturity,High,Brown Planthopper
+Maize,19.69,78.36,29.74,Clay,4.62,30.25,37.11,35.7,Medium,Germination,Medium,Stem Borer
+Groundnut,30.52,61.33,114.64,Black Soil,7.19,72.62,6.27,22.79,Medium,Maturity,Medium,Thrips
+Tomato,17.68,70.09,75.67,Loamy,7.35,43.35,10.13,56.77,High,Vegetative,High,Fruit Borer
+Sugarcane,26.41,67.32,65.01,Loamy,6.76,105.75,86.73,53.07,Medium,Flowering,Medium,Whitefly
+Groundnut,32.71,54.11,186.88,Sandy,6.97,86.23,74.01,56.58,Medium,Maturity,Medium,Thrips
+Maize,28.96,66.29,153.82,Loamy,6.91,94.5,36.28,33.16,High,Flowering,Medium,Aphids
+Tomato,37.74,65.85,75.89,Black Soil,7.2,58.4,61.21,30.66,High,Vegetative,High,Fruit Borer
+Tomato,33.13,65.52,44.66,Sandy,5.63,97.34,50.21,62.35,Medium,Vegetative,Medium,Leaf Miner
+Sugarcane,24.73,68.48,59.58,Sandy,7.46,41.49,70.41,72.11,Low,Flowering,Low,Whitefly
+Paddy,28.14,69.14,68.45,Clay,6.67,45.79,23.58,30.38,High,Vegetative,Medium,Leaf Folder
+Maize,27.76,61.52,155.56,Clay,6.62,69.75,24.14,71.84,Low,Fruiting,Medium,Aphids
+Sugarcane,20.09,87.09,108.86,Loamy,6.95,46.96,71.39,83.67,Low,Fruiting,High,Early Shoot Borer
+Maize,23.3,50.46,158.91,Sandy,5.48,96.29,15.14,5.0,Medium,Flowering,Medium,Aphids
+Paddy,25.2,57.19,27.96,Clay,5.26,60.8,46.4,99.39,Medium,Vegetative,Medium,Leaf Folder
+Paddy,17.82,98.0,167.65,Black Soil,6.4,42.58,44.11,77.56,High,Fruiting,High,Brown Planthopper
+Sugarcane,28.24,52.43,204.38,Clay,7.73,38.69,60.69,83.9,Medium,Maturity,High,Early Shoot Borer
+Paddy,26.75,47.69,47.14,Clay,5.55,95.92,47.8,34.48,High,Vegetative,Medium,Leaf Folder
+Groundnut,19.64,79.02,143.05,Sandy,6.64,10.0,42.36,79.68,Low,Maturity,High,Leaf Miner
+Tomato,30.02,36.84,193.67,Sandy,5.93,44.67,37.39,82.55,Low,Fruiting,High,Fruit Borer
+Sugarcane,31.58,64.47,55.04,Red Soil,5.82,117.09,25.1,43.71,Medium,Germination,Low,Whitefly
+Maize,29.14,98.0,35.27,Black Soil,6.9,64.67,41.68,79.5,High,Vegetative,High,Fall Armyworm
+Groundnut,26.38,44.83,98.74,Sandy,7.11,96.49,68.3,56.55,Medium,Germination,Low,Thrips
+Sugarcane,30.96,38.27,16.44,Loamy,5.87,87.82,39.28,44.56,Low,Germination,Low,Whitefly
+Paddy,31.4,45.51,166.21,Black Soil,7.61,69.27,73.13,55.09,Low,Fruiting,Medium,Leaf Folder
+Paddy,29.54,81.48,42.44,Black Soil,6.84,25.23,59.62,64.21,Low,Flowering,Medium,Stem Borer
+Paddy,23.88,84.87,70.39,Sandy,6.31,35.22,54.53,52.43,Medium,Vegetative,Medium,Stem Borer
+Paddy,29.38,60.31,133.82,Black Soil,6.78,34.72,41.76,40.21,Low,Flowering,High,Brown Planthopper
+Maize,33.98,78.25,122.38,Sandy,8.13,89.46,32.43,69.82,High,Flowering,High,Fall Armyworm
+Groundnut,25.02,88.85,131.21,Clay,7.1,95.09,78.63,73.99,Medium,Fruiting,Low,Aphids
+Tomato,38.49,94.81,46.96,Red Soil,5.94,48.64,60.87,63.65,Medium,Maturity,High,Fruit Borer
+Maize,25.37,64.3,104.68,Clay,6.49,72.64,42.21,19.56,Low,Fruiting,Low,Aphids
+Maize,28.16,33.48,148.59,Sandy,6.61,75.24,78.98,45.39,Low,Flowering,Low,Aphids
+Tomato,24.64,55.69,53.72,Sandy,7.03,77.35,57.58,38.9,Medium,Vegetative,Low,Leaf Miner
+Tomato,29.12,61.6,250.58,Clay,6.69,52.14,16.59,103.28,High,Maturity,High,Fruit Borer
+Paddy,19.29,64.12,72.69,Loamy,8.02,124.14,36.47,62.95,Medium,Germination,Low,Leaf Folder
+Maize,25.27,65.18,15.17,Loamy,6.32,95.34,59.54,52.99,High,Germination,Low,Aphids
+Sugarcane,22.54,84.78,72.4,Loamy,5.12,77.19,75.15,46.03,High,Fruiting,High,Early Shoot Borer
+Tomato,28.68,87.12,192.02,Sandy,6.67,59.44,92.23,56.88,Low,Flowering,High,Fruit Borer
+Tomato,32.97,65.42,40.31,Black Soil,6.15,49.99,45.51,78.79,Low,Vegetative,Low,Leaf Miner
+Groundnut,31.23,84.48,37.69,Sandy,5.3,86.94,57.32,14.25,Medium,Germination,Medium,Aphids
+Sugarcane,16.14,73.36,110.47,Black Soil,5.94,60.79,32.77,65.75,Medium,Fruiting,Medium,Top Borer
+Sugarcane,38.21,68.97,35.1,Clay,6.21,79.01,27.25,47.39,Medium,Germination,Low,Whitefly
+Tomato,29.48,81.6,33.87,Red Soil,7.41,18.02,11.28,70.77,Medium,Flowering,Medium,Whitefly
+Paddy,24.12,69.08,44.42,Black Soil,5.31,59.11,52.8,79.98,Medium,Fruiting,Medium,Leaf Folder
+Groundnut,28.79,98.0,224.48,Loamy,6.78,71.73,70.29,42.61,High,Maturity,High,Leaf Miner
+Sugarcane,28.88,46.42,118.73,Sandy,8.28,104.03,60.52,25.77,Low,Vegetative,Low,Whitefly
+Tomato,24.67,60.27,87.96,Clay,6.36,47.33,46.74,52.39,Medium,Flowering,Medium,Leaf Miner
+Sugarcane,28.99,66.1,46.7,Loamy,6.34,30.43,69.47,92.18,Medium,Fruiting,Low,Whitefly
+Groundnut,24.96,74.59,147.42,Clay,7.08,88.34,100.0,80.89,Medium,Maturity,Medium,Aphids
+Groundnut,25.98,87.02,126.86,Red Soil,6.92,73.08,28.37,50.56,Medium,Flowering,High,Leaf Miner
+Maize,24.57,67.63,234.71,Sandy,7.63,23.34,5.0,44.13,High,Fruiting,High,Fall Armyworm
+Tomato,20.84,46.67,39.89,Sandy,6.37,24.84,51.85,46.02,High,Vegetative,Medium,Leaf Miner
+Groundnut,28.73,80.64,35.85,Red Soil,7.06,55.59,66.65,27.56,Medium,Germination,Low,Aphids
+Maize,30.93,79.32,15.61,Sandy,7.07,72.49,14.05,79.62,Low,Germination,Low,Stem Borer
+Maize,30.57,38.87,120.66,Black Soil,6.23,116.68,61.65,84.19,Medium,Fruiting,Low,Aphids
+Sugarcane,32.1,67.94,99.9,Clay,6.41,42.57,38.26,50.32,Medium,Vegetative,High,Early Shoot Borer
+Sugarcane,29.62,44.15,63.17,Loamy,6.49,91.16,51.74,47.48,High,Vegetative,Low,Whitefly
+Maize,25.34,58.03,15.29,Red Soil,5.51,16.17,26.62,42.54,High,Vegetative,Low,Aphids
+Sugarcane,32.2,54.46,206.57,Black Soil,6.19,85.83,25.39,48.74,Medium,Fruiting,High,Early Shoot Borer
+Groundnut,21.21,80.14,96.33,Loamy,7.7,120.2,22.91,41.62,Medium,Fruiting,Medium,Aphids
+Paddy,23.5,69.75,180.89,Loamy,7.33,79.25,58.35,56.12,Low,Vegetative,High,Brown Planthopper
+Groundnut,23.18,48.72,192.07,Red Soil,6.04,54.96,32.51,79.66,Low,Maturity,Medium,Thrips
+Maize,33.4,81.2,118.32,Black Soil,6.49,111.98,50.39,77.08,Low,Flowering,Medium,Stem Borer
+Maize,32.71,46.49,130.17,Loamy,7.28,85.47,45.59,39.03,Low,Fruiting,High,Fall Armyworm
+Groundnut,30.44,72.95,52.36,Loamy,6.85,79.61,21.4,63.8,Medium,Germination,Medium,Aphids
+Sugarcane,33.36,55.79,90.97,Black Soil,7.14,44.47,46.52,76.15,Medium,Fruiting,Medium,Whitefly
+Sugarcane,23.6,62.51,161.78,Sandy,6.93,85.91,49.74,36.51,Medium,Maturity,High,Early Shoot Borer
+Maize,29.74,75.56,44.52,Loamy,6.67,54.46,66.25,63.54,Medium,Fruiting,Medium,Stem Borer
+Tomato,27.37,75.82,154.39,Clay,6.37,84.34,74.89,90.34,Medium,Flowering,Medium,Whitefly
+Sugarcane,32.23,88.05,147.97,Black Soil,5.54,76.46,24.61,53.88,Medium,Flowering,High,Early Shoot Borer
+Groundnut,27.42,66.77,145.44,Loamy,7.05,107.52,52.1,9.55,Medium,Germination,Medium,Thrips
+Sugarcane,26.08,72.6,86.58,Red Soil,6.32,57.72,5.0,5.0,High,Vegetative,Low,Top Borer
+Groundnut,30.7,61.43,47.27,Clay,5.18,70.52,62.02,67.77,Low,Fruiting,Medium,Thrips
+Maize,32.38,70.73,249.68,Loamy,6.06,98.95,66.95,62.66,High,Maturity,High,Fall Armyworm
+Sugarcane,24.66,74.59,198.54,Clay,7.18,67.92,5.0,64.69,Medium,Flowering,Medium,Top Borer
+Groundnut,27.69,66.53,88.05,Clay,4.97,74.35,38.22,72.23,Medium,Flowering,Medium,Thrips
+Maize,22.71,40.94,100.02,Sandy,5.68,62.8,27.06,23.01,Low,Flowering,Medium,Aphids
+Tomato,15.51,72.97,69.27,Clay,6.61,70.09,38.16,39.83,Low,Germination,Medium,Whitefly
+Groundnut,29.0,73.47,16.74,Sandy,7.62,95.13,34.2,70.58,Medium,Germination,Low,Aphids
+Tomato,31.04,57.8,78.99,Black Soil,7.3,130.08,44.13,78.4,Medium,Fruiting,Low,Leaf Miner
+Tomato,29.31,48.73,118.98,Sandy,7.7,24.64,64.75,53.58,Medium,Fruiting,High,Fruit Borer
+Paddy,18.25,90.14,54.92,Red Soil,6.67,37.05,38.73,24.19,Medium,Germination,Medium,Stem Borer
+Sugarcane,26.25,75.37,66.64,Loamy,6.33,70.76,25.25,68.5,Medium,Vegetative,Medium,Top Borer
+Groundnut,16.91,64.56,66.19,Black Soil,7.17,76.49,41.05,61.28,Medium,Germination,Medium,Thrips
+Tomato,34.85,50.94,91.83,Black Soil,5.78,68.47,39.94,33.54,High,Fruiting,Medium,Leaf Miner
+Paddy,22.57,55.67,71.37,Red Soil,5.72,58.4,43.27,10.41,High,Flowering,Medium,Leaf Folder
+Maize,34.28,87.54,42.67,Sandy,5.58,38.03,32.44,74.28,Medium,Germination,Low,Stem Borer
+Groundnut,32.73,70.06,91.61,Loamy,7.37,56.68,52.25,44.56,Low,Flowering,Medium,Aphids
+Tomato,23.5,59.74,114.88,Sandy,5.83,99.52,70.87,64.67,Low,Flowering,Medium,Leaf Miner
+Sugarcane,22.34,75.65,97.56,Clay,7.3,77.79,19.62,63.74,High,Flowering,Medium,Top Borer
+Paddy,29.75,55.78,15.37,Sandy,6.62,95.27,54.01,31.33,Low,Germination,Low,Leaf Folder
+Tomato,23.78,90.51,129.56,Black Soil,7.38,38.9,64.19,70.45,High,Fruiting,High,Fruit Borer
+Sugarcane,28.51,88.29,32.75,Loamy,5.62,118.32,36.32,38.51,Medium,Germination,Medium,Top Borer
+Tomato,25.59,61.0,113.57,Sandy,6.0,58.14,70.04,22.62,High,Vegetative,Medium,Leaf Miner
+Groundnut,19.09,58.57,116.95,Loamy,6.86,89.26,43.79,19.41,Medium,Germination,Medium,Thrips
+Groundnut,16.85,28.73,22.94,Loamy,6.16,71.25,22.48,59.92,Medium,Germination,Low,Thrips
+Groundnut,29.13,45.78,151.06,Clay,4.51,58.8,19.57,99.85,Medium,Fruiting,Low,Thrips
+Paddy,25.19,47.91,248.06,Clay,5.4,87.98,60.7,61.03,High,Maturity,High,Brown Planthopper
+Groundnut,25.23,70.03,68.13,Black Soil,5.61,93.02,58.86,104.58,High,Maturity,Medium,Aphids
+Sugarcane,31.48,63.11,113.59,Red Soil,5.67,155.64,76.29,96.22,Medium,Flowering,Medium,Whitefly
+Tomato,33.87,47.82,59.7,Loamy,7.05,94.18,58.41,72.91,High,Fruiting,Low,Leaf Miner
+Maize,26.64,63.78,32.36,Red Soil,6.77,93.73,43.01,99.36,Medium,Vegetative,Low,Aphids
+Sugarcane,26.3,75.58,160.55,Black Soil,6.63,109.35,54.65,96.53,High,Maturity,High,Early Shoot Borer
+Sugarcane,30.5,75.92,115.51,Loamy,8.11,90.96,46.44,89.47,High,Maturity,High,Early Shoot Borer
+Groundnut,21.22,39.5,49.74,Loamy,7.44,73.84,38.35,12.89,Medium,Flowering,Low,Thrips
+Paddy,29.12,66.08,33.62,Red Soil,7.14,84.77,34.01,54.08,Medium,Vegetative,Low,Leaf Folder
+Tomato,30.76,47.25,256.63,Sandy,5.3,100.64,10.54,42.66,Medium,Fruiting,High,Fruit Borer
+Paddy,31.4,81.53,26.53,Clay,6.55,116.72,30.16,89.28,Medium,Vegetative,Low,Stem Borer
+Tomato,18.32,79.76,126.48,Sandy,6.74,29.68,44.61,52.32,High,Maturity,High,Fruit Borer
+Tomato,24.19,54.53,95.27,Red Soil,6.17,18.29,5.0,103.81,Medium,Flowering,Medium,Leaf Miner
+Paddy,23.61,56.51,140.8,Clay,7.87,115.45,34.7,62.54,Low,Flowering,High,Brown Planthopper
+Sugarcane,28.5,61.08,214.8,Sandy,6.54,51.08,63.41,59.3,Medium,Maturity,High,Early Shoot Borer
+Tomato,30.4,34.21,5.39,Clay,5.52,25.26,71.86,50.53,Low,Germination,Low,Leaf Miner
+Paddy,35.48,73.04,36.98,Loamy,5.7,22.44,34.45,55.38,Medium,Germination,Medium,Stem Borer
+Tomato,25.53,63.91,77.2,Sandy,8.33,129.06,33.7,66.72,High,Vegetative,High,Fruit Borer
+Maize,25.51,82.55,225.66,Clay,6.16,101.33,30.6,58.35,Medium,Maturity,High,Fall Armyworm
+Sugarcane,33.75,51.52,61.72,Clay,4.84,51.15,33.83,48.38,High,Fruiting,Medium,Whitefly
+Groundnut,29.48,58.71,53.01,Clay,6.02,52.39,67.85,49.86,Low,Flowering,Low,Thrips
+Tomato,34.34,45.4,9.7,Sandy,5.04,76.65,77.58,105.53,High,Germination,Low,Leaf Miner
+Maize,29.44,52.94,49.02,Black Soil,7.23,100.78,11.23,109.94,Medium,Germination,Low,Aphids
+Groundnut,22.21,50.27,123.58,Sandy,4.94,66.18,28.77,48.23,Low,Germination,Low,Thrips
+Groundnut,21.33,82.94,77.57,Red Soil,5.38,51.42,7.73,81.22,Medium,Fruiting,Medium,Aphids
+Tomato,20.24,57.53,48.04,Sandy,6.5,109.05,44.43,39.3,High,Vegetative,Low,Leaf Miner
+Paddy,31.31,69.86,258.65,Clay,7.39,74.22,35.23,51.83,Low,Maturity,High,Brown Planthopper
+Tomato,33.94,62.29,67.87,Loamy,6.44,69.25,52.18,32.81,Medium,Vegetative,Low,Leaf Miner
+Maize,37.25,48.96,91.82,Sandy,5.49,92.76,58.26,85.5,High,Flowering,Medium,Aphids
+Groundnut,32.22,65.48,45.68,Sandy,6.65,10.91,56.05,72.11,Low,Germination,Low,Thrips
+Tomato,33.81,76.99,32.15,Clay,6.13,89.22,12.08,76.89,Medium,Flowering,Low,Whitefly
+Paddy,25.1,49.88,134.74,Loamy,7.41,87.33,44.49,82.21,Medium,Flowering,Low,Leaf Folder
+Tomato,22.22,80.14,18.86,Loamy,7.18,33.63,11.09,38.26,Medium,Flowering,Medium,Whitefly
+Sugarcane,32.25,55.25,116.55,Red Soil,6.07,16.76,79.74,51.89,Medium,Flowering,Low,Whitefly
+Paddy,30.09,60.76,105.56,Sandy,7.12,58.07,37.91,71.13,Low,Fruiting,Medium,Leaf Folder
+Maize,28.54,75.96,35.04,Loamy,6.72,80.49,17.67,51.36,High,Germination,Low,Stem Borer
+Groundnut,29.94,58.05,41.62,Loamy,7.59,83.55,34.11,61.74,Low,Germination,Low,Thrips
+Tomato,29.62,68.56,68.27,Black Soil,7.09,126.12,49.16,40.01,Medium,Fruiting,Medium,Leaf Miner
+Paddy,34.42,63.28,29.92,Black Soil,6.94,80.5,59.66,93.24,Medium,Flowering,Medium,Leaf Folder
+Sugarcane,34.47,69.94,14.19,Loamy,7.56,33.04,71.01,83.46,Medium,Vegetative,Low,Whitefly
+Paddy,30.72,32.29,73.49,Red Soil,6.51,67.47,46.26,90.93,Medium,Vegetative,Low,Leaf Folder
+Sugarcane,32.23,40.55,139.31,Loamy,5.88,36.04,38.32,76.48,High,Fruiting,Medium,Whitefly
+Maize,30.57,77.24,98.69,Clay,6.66,69.63,58.7,32.65,High,Germination,Medium,Stem Borer
